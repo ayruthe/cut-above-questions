@@ -104,7 +104,7 @@ class TransciptDataset:
                                 host_questions.append(curr_dialogue)
                             del curr_dialogue
                             curr_dialogue = ""
-                        curr_dialogue += line.split(guest_fullname + ': ')[-1]
+                        curr_dialogue += line.split(guest_fullname + ': ')[-1].replace('\n', ' ').replace('\r', '')
                         curr_speaker = guest_fullname
 
                     elif (host_fullname + ':' in line) or (host_firstname + ':' in line) or ('INTRO' in line) or ('OUTRO' in line):
@@ -113,7 +113,7 @@ class TransciptDataset:
                                 guest_answers.append(curr_dialogue)
                             del curr_dialogue
                             curr_dialogue = ""
-                        curr_dialogue += line.split(host_fullname + ': ')[-1]
+                        curr_dialogue += line.split(host_fullname + ': ')[-1].replace('\n', ' ').replace('\r', '')
                         curr_speaker = host_fullname
                         conversation_started = True
                 

@@ -3,6 +3,7 @@ from pathlib import Path
 import os
 
 from questions.transcipt import TransciptDataset
+from questions.language import nlp_preproc
 
 
 def test_transcript_parsing(
@@ -35,14 +36,12 @@ def test_preprocessing(
     Args:
         json_file: the path to the json dataset file.
     """
-    test_dataset = load_dataset("json", data_files=str(json_file))
-    import pdb
-    pdb.set_trace()
-
+    nlp_preproc(json_file)
+    
 
 if __name__ == "__main__":
     """
-    Unit tests for modules and functions. 
+    Tests for modules and functions. 
     """
     # 1. Load, parse, and save json for transcript text files.
     input_filepath = Path().absolute().joinpath('data/transcripts')    
@@ -54,5 +53,5 @@ if __name__ == "__main__":
     test_transcript_parsing(input_filepath, data_savefile, metadata_savefile)
     
     # 2. Preprocess text data in json dataset file.
-    # test_preprocessing(savefile)
+    test_preprocessing(data_savefile)
     

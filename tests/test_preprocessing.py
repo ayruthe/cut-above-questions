@@ -4,7 +4,8 @@ import os
 from questions.transcipt import TransciptDataset
 
 def test_data_loading(
-    fullfile: Path,
+    input_filepath: Path,
+     output_filepath: Path,
 ):
     """Test loading text files into dataset objects.
 
@@ -18,12 +19,15 @@ def test_data_loading(
     Returns:
         dataset: huggingface dataset object for next tests.
     """
-    dataset = TransciptDataset(fullfile)
+    dataset = TransciptDataset(input_filepath, output_filepath)
 
 
 if __name__ == "__main__":
     """
     Unit tests for modules and functions. 
     """
-    filepath = Path().absolute().joinpath('data/transcripts')    
-    test_data_loading(filepath)
+    input_filepath = Path().absolute().joinpath('data/transcripts')    
+    output_filepath = Path().absolute().joinpath('data/json_datasets')
+    if not os.path.exists(output_filepath):
+        os.mkdir(output_filepath)    
+    test_data_loading(input_filepath, output_filepath)

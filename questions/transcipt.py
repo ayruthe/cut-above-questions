@@ -7,7 +7,7 @@ import sys
 
 
 class TransciptDataset:
-    def __init__(self, filepath: Path, savepath: Path):
+    def __init__(self, filepath: Path, data_savefile: Path, metadata_savefile: Path):
         """Dataset class to handle transcript information from interview data.
 
         TranscriptDataset stores the metadata as lists of strings and stores the questions,
@@ -39,7 +39,7 @@ class TransciptDataset:
             self.parse_file(filepath.joinpath(file))
             self.file.append(file)
 
-        self.to_json_by_episode(savepath)
+        self.to_json_by_attribute(data_savefile, metadata_savefile)
     
 
     def parse_file(self, file: str):
@@ -130,7 +130,7 @@ class TransciptDataset:
         self.answers.append(guest_answers)
 
 
-    def to_json_by_episode(self, savepath: Path):
+    def to_json_by_episode(self, savefile: Path):
         """Convert an entry-keyed transcript-extracted dictionary to a json file.
 
         Args:
@@ -151,30 +151,40 @@ class TransciptDataset:
         
         formatted_dict = json.dumps(transcript_dict)
         formatted_dict = json.loads(formatted_dict)
-        savefile = savepath.joinpath('transcript_data.json')
         with open(savefile, 'w', encoding='utf-8') as f:
             json.dump(formatted_dict, f, ensure_ascii=False, indent=4)
 
 
 
-    def to_json_by_attribute(self, savepath: Path):
+    def to_json_by_attribute(self, data_savefile: Path, metadata_savefile: Path):
         """Convert an attribute-keyed transcript-extracted dictionary to a json file.
 
         Args:
             savepath: file path to save a 'transcript_data.json' file to.
         """
-        transcript_dict = {}        
-        transcript_dict['file'] = self.file
-        transcript_dict['title'] = self.title
-        transcript_dict['subtitle'] = self.subtitle
-        transcript_dict['description'] = self.description
-        transcript_dict['host'] = self.host
-        transcript_dict['guest'] = self.guest
-        transcript_dict['questions'] = self.questions
-        transcript_dict['answers'] = self.answers
+        transcript_data = {}
+        for field in ['questions', 'answers']:
+            transcript_data[field] = []
 
-        formatted_dict = json.dumps(transcript_dict)
-        formatted_dict = json.loads(formatted_dict)
-        savefile = savepath.joinpath('transcript_data.json')
-        with open(savefile, 'w', encoding='utf-8') as f:
-            json.dump(formatted_dict, f, ensure_ascii=False, indent=4)
+        transcript_metadata = {}
+        for field in ['file', 'title', 'subtitle', 'description', 'host', 'guest', 'n_question_answers']:
+            transcript_metadata[field] = []
+
+        for idx in range(len(self.title)):
+            transcript_metadata['file'].extend([self.file[idx]])
+            transcript_metadata['title'].extend([self.title[idx]])
+            transcript_metadata['subtitle'].extend([self.subtitle[idx]])
+            transcript_metadata['description'].extend([self.description[idx]])
+            transcript_metadata['host'].extend([self.host[idx]])
+            transcript_metadata['guest'].extend([self.guest[idx]])
+            transcript_metadata['n_question_answers'].extend([len(self.questions[idx])])
+
+        
+            transcript_data['questions'].extend(self.questions[idx])
+            transcript_data['answers'].extend(self.answers[idx])
+
+        for (savefile, data) in zip([data_savefile, metadata_savefile], [transcript_data, transcript_metadata]):                          
+            formatted_data = json.dumps(data)
+            formatted_data = json.loads(formatted_data)
+            with open(savefile, 'w', encoding='utf-8') as f:
+                json.dump(formatted_data, f, ensure_ascii=False, indent=4)

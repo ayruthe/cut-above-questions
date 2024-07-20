@@ -1,20 +1,22 @@
 from collections import Counter
-from sklearn import linear_model
-from pathlib import Path
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
-import plotly.express as px
+import numpy as np
 import pandas as pd
+from pathlib import Path
+import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-from questions.files import load_json, save_json
+from questions.files import load_json
 
 
-def linear_regression(file: Path):
-    """Evaluate transcript data with linear models.
+def interview_named_entity_analysis(file: Path):
+    """Evaluate the relationship between questions and answers in a conversational interview.
+
+    This function creates a DataFrame relating the named-entities in questions to the named-
+    entities in answers along with their word count and answer length. The proceeding analysis
+    creates a heatmap to understand how the named-entities used in questions affect the 
+    answer in terms of response word count (length) and response named-entity word choice. 
 
     Args:
         file: path to json dictionary storing the transcript data
@@ -32,7 +34,6 @@ def linear_regression(file: Path):
 
 
     # Named-Entity Count Data
-    entity_category_mapping = {}
     q_ner_data = {'Question Named-Entity':[], 'Question Named-Entity Count':[], 'Question Named-Entity Category':[], 'Answer Length':[], 'Answer Sentiment':[]}
     a_ner_data = {'Answer Named-Entity':[], 'Answer Named-Entity Count':[], 'Answer Named-Entity Category':[], 'Answer Length':[], 'Answer Sentiment':[]}
     ner_comp_data = {'Named-Entity':[], 'Named-Entity Category':[], 'Question Named-Entity Count':[], 'Answer Named-Entity Count':[], 'Answer Length':[], 'Answer Sentiment':[]}
@@ -82,14 +83,15 @@ def linear_regression(file: Path):
             ner_comp_data['Answer Length'].append(answer_length)
             ner_comp_data['Answer Sentiment'].append(answer_sentiment)
 
-    
-    for (qa_str, data) in zip(["Question", "Answer"], [q_ner_data, a_ner_data]):
+    # Extract Insight from Data
+    subtitles = ['Analysis of Which Interview Questions Generate the Longest Answers',
+                 'Analysis of Which Interview Topics Are Present in the Longest Answers']
+    for (qa_str, data, subtitle) in zip(["Question", "Answer"], [q_ner_data, a_ner_data], subtitles):
         box_df = pd.DataFrame(data)
         fig = px.box(box_df, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=800, height=1600).update_yaxes(categoryorder='total ascending')
-        fig.update_layout(title=dict(text=f"Interview Answer Length by {qa_str} Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
+        fig.update_layout(title=dict(text=f"Interview Answer Length by {qa_str} Named-Entity Count:<br>{subtitle}", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
         fig.write_image(f"results/answer_length_by_{qa_str}_ner.png")
 
-    
     for (qa_str, data) in zip(["Question", "Answer"], [q_ner_data, a_ner_data]):
         box_df = pd.DataFrame(data)
         box_df_people = box_df.loc[box_df.index[box_df[f"{qa_str} Named-Entity Category"]=="PERSON"]]
@@ -97,11 +99,9 @@ def linear_regression(file: Path):
         fig.update_layout(title=dict(text=f"Interview Answer Length by {qa_str} Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
         fig.write_image(f"results/answer_length_by_{qa_str}_ner_people.png")
 
-
-    bubble_df = pd.DataFrame(ner_comp_data)
-    bubble_df_people = bubble_df  #bubble_df.loc[bubble_df.index[bubble_df[f"Named-Entity Category"]=="PERSON"]]
+    df = pd.DataFrame(ner_comp_data)
     fig = px.scatter(
-        bubble_df_people, 
+        df, 
         y="Answer Named-Entity Count", 
         x="Question Named-Entity Count",
         size="Answer Length",
@@ -112,29 +112,21 @@ def linear_regression(file: Path):
     fig.update_layout(title=dict(text=f"Interview Answer Named-Entity Count\nby Question Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
     fig.write_html(f"results/bubble_ner_people.html")
     
-    z_grid_avg, z_grid_min, z_grid_max, z_grid_count = meshgrid_stats(bubble_df_people["Question Named-Entity Count"], bubble_df_people["Answer Named-Entity Count"], bubble_df_people["Answer Length"])
-    ne_grid = meshgrid_str(bubble_df_people["Question Named-Entity Count"], bubble_df_people["Answer Named-Entity Count"], bubble_df_people["Named-Entity"])
+    z_grid_avg, z_grid_min, z_grid_max, z_grid_count = meshgrid_stats(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df["Answer Length"])
+    ne_grid = meshgrid_str(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df["Named-Entity"])
     customdata = np.dstack((z_grid_min, z_grid_max, z_grid_count, ne_grid))
 
     fig = make_subplots(1, 1, subplot_titles=['Interview Answer Word Count by (Q, A) Named-Entity Count Pairs'])
     fig.add_trace(go.Heatmap(
         z=z_grid_avg,
         customdata=customdata,
-        hovertemplate='<b>Avg Answer Word Count:%{z:.1f}</b><br>Min Answer Word Count:%{customdata[0]:d}</b><br>Max Answer Word Count:%{customdata[1]:d}</b><br>Num (#Q-NE,#A-NE) Cases:%{customdata[2]:d}</b><br>Named Entities:%{customdata[3]}</b>',
+        hovertemplate='<b>Avg Answer Word Count: %{z:.1f}</b><br>Min Answer Word Count: %{customdata[0]:d}</b><br>Max Answer Word Count: %{customdata[1]:d}</b><br>Number of Instances: %{customdata[2]:d}</b><br>Named Entities: %{customdata[3]}</b>',
          name=''),
         1, 1)
     fig.update_layout(xaxis={'title':'Interview Question Named-Entity Count'}, yaxis={'title':'Interview Answer Named-Entity Count'})
     fig.update_layout(title_text='Interivew Q&A Named-Entity Analysis: How Interview Questions Impact Answer Length and Topic')
     fig.write_html(f"results/heatmap_ner_people_names.html")
 
-
-def meshgrid(x, y, z):
-    x_vals, x_idx = np.unique(x, return_inverse=True)
-    y_vals, y_idx = np.unique(y, return_inverse=True)
-    z_grid = np.empty(x_vals.shape + y_vals.shape)
-    z_grid.fill(0) # or whatever yor desired missing data flag is
-    z_grid[x_idx, y_idx] = z
-    return z_grid
 
 def meshgrid_stats(x, y, z):
     x_vals, x_idx = np.unique(x, return_inverse=True)
@@ -158,13 +150,14 @@ def meshgrid_stats(x, y, z):
         z_grid_count[xi, yi] += 1
     return z_grid, z_grid_min, z_grid_max, z_grid_count
 
+
 def meshgrid_str(x, y, z):
     x_vals, x_idx = np.unique(x, return_inverse=True)
     y_vals, y_idx = np.unique(y, return_inverse=True)
     z_grid = np.empty(x_vals.shape + y_vals.shape, dtype='U200')
     for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
         if z.loc[idx] not in z_grid[xi, yi]:
-            z_grid[xi, yi] = z_grid[xi, yi] + z.loc[idx] + ', '
+            z_grid[xi, yi] = z_grid[xi, yi] + z.loc[idx] + '<br>'
     for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
         if z_grid[xi, yi][-2:] ==', ':
             z_grid[xi, yi] = z_grid[xi, yi][:-2]

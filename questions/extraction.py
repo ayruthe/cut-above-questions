@@ -129,6 +129,13 @@ def interview_named_entity_analysis(file: Path):
 
 
 def meshgrid_stats(x, y, z):
+    """Generate a 2D value grid for heatmap values based on answer length stats.
+
+    Args:
+        x: data along the heatmap x-dimension
+        y: data along the heatmap y-dimension
+        z: data for the color coding of heatmap z-dimension
+    """
     x_vals, x_idx = np.unique(x, return_inverse=True)
     y_vals, y_idx = np.unique(y, return_inverse=True)
     
@@ -152,6 +159,13 @@ def meshgrid_stats(x, y, z):
 
 
 def meshgrid_str(x, y, z):
+    """Generate a 2D value grid for heatmap values based on NER strings.
+
+    Args:
+        x: data along the heatmap x-dimension
+        y: data along the heatmap y-dimension
+        z: data for the color coding of heatmap z-dimension
+    """
     x_vals, x_idx = np.unique(x, return_inverse=True)
     y_vals, y_idx = np.unique(y, return_inverse=True)
     z_grid = np.empty(x_vals.shape + y_vals.shape, dtype='U200')

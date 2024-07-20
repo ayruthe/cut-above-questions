@@ -2,7 +2,7 @@ from datasets import load_dataset
 from pathlib import Path
 import os
 
-from questions.extraction import linear_regression
+from questions.extraction import interview_named_entity_analysis
 
 
 def test_extraction(
@@ -16,7 +16,7 @@ def test_extraction(
     Args:
         json_file: the path to the json dataset file.
     """
-    linear_regression(json_file)
+    interview_named_entity_analysis(json_file)
     
 
 if __name__ == "__main__":

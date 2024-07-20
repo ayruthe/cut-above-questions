@@ -84,20 +84,22 @@ def interview_named_entity_analysis(file: Path):
             ner_comp_data['Answer Sentiment'].append(answer_sentiment)
 
     # Extract Insight from Data
-    subtitles = ['Analysis of Which Interview Questions Generate the Longest Answers',
-                 'Analysis of Which Interview Topics Are Present in the Longest Answers']
+    subtitles = ['<i>Which Interview Questions Generate the Longest Answers?</i>',
+                 '<i>Which Named Entities Are Present in the Longest Answers?</i>']
     for (qa_str, data, subtitle) in zip(["Question", "Answer"], [q_ner_data, a_ner_data], subtitles):
         box_df = pd.DataFrame(data)
         fig = px.box(box_df, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=800, height=1600).update_yaxes(categoryorder='total ascending')
-        fig.update_layout(title=dict(text=f"Interview Answer Length by {qa_str} Named-Entity Count:<br>{subtitle}", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
+        fig.update_layout(title=dict(text=f"<b>Interview Answer Word Count by Named-Entity in {qa_str}:</b><br>{subtitle}", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
         fig.write_image(f"results/answer_length_by_{qa_str}_ner.png")
 
-    for (qa_str, data) in zip(["Question", "Answer"], [q_ner_data, a_ner_data]):
-        box_df = pd.DataFrame(data)
-        box_df_people = box_df.loc[box_df.index[box_df[f"{qa_str} Named-Entity Category"]=="PERSON"]]
-        fig = px.box(box_df_people, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=800, height=1600).update_yaxes(categoryorder='total ascending')
-        fig.update_layout(title=dict(text=f"Interview Answer Length by {qa_str} Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
-        fig.write_image(f"results/answer_length_by_{qa_str}_ner_people.png")
+    for cat in ["PERSON", "ORG"]:
+        for (qa_str, data) in zip(["Question", "Answer"], [q_ner_data, a_ner_data]):
+            box_df = pd.DataFrame(data)
+            box_df_people = box_df.loc[box_df.index[box_df[f"{qa_str} Named-Entity Category"]==cat]]
+            fig = px.box(box_df_people, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=800, height=1600).update_yaxes(categoryorder='total ascending')
+            fig.update_layout(title=dict(text=f"<b>Interview Answer Word Count by {cat} Named-Entity in {qa_str}:</b><br>{subtitle}", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
+            fig.write_image(f"results/answer_length_by_{qa_str}_ner_{cat}.png")
+
 
     df = pd.DataFrame(ner_comp_data)
     fig = px.scatter(

@@ -112,20 +112,21 @@ def interview_named_entity_analysis(file: Path):
     fig.update_layout(title=dict(text=f"Interview Answer Named-Entity Count\nby Question Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
     fig.write_html(f"results/bubble_ner_people.html")
     
-    z_grid_avg, z_grid_min, z_grid_max, z_grid_count = meshgrid_stats(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df["Answer Length"])
-    ne_grid = meshgrid_str(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df["Named-Entity"])
-    customdata = np.dstack((z_grid_min, z_grid_max, z_grid_count, ne_grid))
+    for metric in ["Answer Length", "Answer Sentiment"]:
+        z_grid_avg, z_grid_min, z_grid_max, z_grid_count = meshgrid_stats(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df[metric])
+        ne_grid = meshgrid_str(df["Question Named-Entity Count"], df["Answer Named-Entity Count"], df["Named-Entity"])
+        customdata = np.dstack((z_grid_min, z_grid_max, z_grid_count, ne_grid))
 
-    fig = make_subplots(1, 1, subplot_titles=['Interview Answer Word Count by (Q, A) Named-Entity Count Pairs'])
-    fig.add_trace(go.Heatmap(
-        z=z_grid_avg,
-        customdata=customdata,
-        hovertemplate='<b>Avg Answer Word Count: %{z:.1f}</b><br>Min Answer Word Count: %{customdata[0]:d}</b><br>Max Answer Word Count: %{customdata[1]:d}</b><br>Number of Instances: %{customdata[2]:d}</b><br>Named Entities: %{customdata[3]}</b>',
-         name=''),
-        1, 1)
-    fig.update_layout(xaxis={'title':'Interview Question Named-Entity Count'}, yaxis={'title':'Interview Answer Named-Entity Count'})
-    fig.update_layout(title_text='Interivew Q&A Named-Entity Analysis: How Interview Questions Impact Answer Length and Topic')
-    fig.write_html(f"results/heatmap_ner_people_names.html")
+        fig = make_subplots(1, 1, subplot_titles=[f'Interview {metric} by (Q, A) Named-Entity Count Pairs'])
+        fig.add_trace(go.Heatmap(
+            z=z_grid_avg,
+            customdata=customdata,
+            hovertemplate='<b>Avg %{metric}: %{z:.1f}</b><br>Min %{metric}: %{customdata[0]:d}</b><br>Max %{metric}: %{customdata[1]:d}</b><br>Number of Instances: %{customdata[2]:d}</b><br>Named Entities: %{customdata[3]}</b>',
+            name=''),
+            1, 1)
+        fig.update_layout(xaxis={'title':'Interview Question Named-Entity Count'}, yaxis={'title':'Interview Answer Named-Entity Count'})
+        fig.update_layout(title_text=f'Interivew Q&A Named-Entity Analysis: How Interview Questions Impact {metric} and Topic')
+        fig.write_html(f"results/heatmap_ner_{metric}.html")
 
 
 def meshgrid_stats(x, y, z):

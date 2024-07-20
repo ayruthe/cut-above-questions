@@ -1,0 +1,804 @@
+﻿PUBLIC TRANSCRIPT | Sean Illing + Rosa Brooks | The Gray 
+Area | Feb. 9, 2023
+TITLE: Behind the blue wall
+
+SUBTITLE: A former cop on how to fix policing
+
+DESCRIPTION:
+Sean Illing speaks with Rosa Brooks, a former reserve police officer and current law 
+professor at Georgetown University. Brooks wrote Tangled Up in Blue: Policing the 
+American City about her experience going through the police academy and becoming a cop 
+on the streets of Washington, DC. They discuss what she saw during her time on the force, 
+some of the differences between how cops see their jobs and how things are, and what 
+could be done differently to fix American policing.
+Host: Sean Illing (@seanilling), host, The Gray Area
+Guest: Rosa Brooks (@brooks_rosa), author; professor of law and policy, Georgetown 
+University
+References: 
+	Tangled Up in Blue: Policing the American City by Rosa Brooks (Penguin; 2021)
+	“Any situation can turn lethal in an instant, and other lessons I learned at the police 
+academy” by Rosa Brooks (Los Angeles Times; Feb. 21, 2021)
+	"New Perspectives in Policing: From Warriors to Guardians" by: Sue Rahr and 
+Stephen K. Rice (PDF; NIJ and The Harvard Kennedy School)
+
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area. Subscribe in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Engineer: Patrick Boyd
+	Editorial Director, Vox Talk: A.M. Hall
+	
+
+INTRO:
+Sean Iling: It’s hard to understand the culture of policing in America.. from the outside…
+There’s an informal code among police officers … They call it “the blue wall of silence”... And it’s 
+pretty much what it sounds like: an ethos that encourages cops to not talk about what happens 
+at work … To protect their own, really…
+Lots of people have studied the police — who they are, what they believe in and how they see 
+the people they’re meant to protect and serve— but it remains a system filled with problems and 
+one that’s opaque if you’re not a cop
+That’s an issue for all kinds of reasons … the outrage against cops and the tension between them 
+and civilians has been mounting … It hit a breaking point in 2020, as everyone knows...and it’s top of 
+mind, once again, following the killing of Tyre Nichols last month in Memphis …
+The relationship between the police and citizens is about as strained as it’s ever been – at least 
+in my lifetime…
+So what can we do about this? How can we fix policing in this country?
+
+ID: I’m Sean Illing, and this is The Gray Area.
+
+music 
+
+My guest today is Rosa Brooks … She’s a law professor at Georgetown University who’s spent 
+most of her career in the national security world … But she became a reserve cop with the 
+Washington DC Metro Police Department back in 2015…
+
+After graduating from the police academy, Brooks worked part time as a patrol officer from 2016 
+to 2020 and eventually wrote a book about her experiences called Tangled Up in Blue: Policing 
+the American City…
+
+As we continue to grapple with issues of police brutality and questions about how to reform 
+policing in the United States, I wanted to reconnect with Brooks - I interviewed for vox dot com 
+back in May 2021, in the aftermath of the Derek Chauvin trial. 
+
+She knows what it’s like to do the work, she also has enough perspective to understand what’s 
+broken. 
+
+We started out by talking about what motivated her to become a cop in the first place. 
+
+music 
+
+Rosa Brooks: You know, it was the world's weirdest sabbatical project. I had timed 
+everything wrong, so I had just finished a different book when I got a sabbatical and I was 
+sort of flailing around looking for things to do, and I had heard about this reserve officers 
+program and it had just seemed so strange to me that a big city police department would let 
+you volunteer to be a cop, it’s nuts, you know, and send you through the police academy 
+and give you a badge and a gun and arrest powers.
+And I was so struck by how strange this was and I. You know, I've worked at the sort of 
+margins of policing issues at different points in my life, but it's such an opaque culture to 
+people who are outside of it. It's not unlike the military, you know, unless you happen to be 
+married to a police officer or have someone in your immediate family.
+You know, most of us don't know anything about police. We think we do, because we see 
+them on TV and we see them on the streets, but we don't really know, well, what are they 
+taught? How are they trained? What do they say to themselves when they get up in the 
+morning about, you know, what story are they telling themselves about what their job is and 
+why they do it?
+So it just seemed like an incredible opportunity to be on the inside of this very opaque 
+culture.
+Sean Iling: I have always been fascinated by how cops conceive of themselves and their 
+role, and I want to know what you learned about cops when you became one. You know, 
+what does the story cops tell about themselves to themselves?
+Rosa: Well, there are several and they, they kind of interlock. One thing I discovered was 
+when you ask most police officers why they became police officers, there are two stories 
+that you hear over and over and over again. One of those stories is, I or someone very 
+close to me was a victim of a serious crime, and I want to protect other people from having 
+that happen to them or help them if it happens to them.
+So that, that's one story. And the other story you hear over and over is, I was heading in the 
+wrong direction. I was going to end up in jail and a police officer took me under his wing or 
+cut me a break and gave me some advice, or became a mentor, and it changed my life and 
+I want to do that for other people.
+And I say that because I think there are people who are bullies, who become cops because 
+they want to be bullies with legal authority and a gun. But the vast majority of police officers 
+go into the occupation for pretty idealistic reasons, and that's very central to their image of 
+themselves. They don't get up thinking I'm one of the bad guys.
+They get up thinking, I am one of the good guys. I. In this occupation to protect and help 
+people and, and that belief is really quite deep. They then often get very cynical, however, 
+as they go through their careers, and partly of course, that's because people don't call 911 
+when they're happy. You know, they call 911 when something is really wrong and they're 
+angry, they're in crisis. Something terrible has just happened. 
+So police see the worst of. over and over and over and again, again, every single day they 
+see people at their most horrific, they see people who are drunk. They see parents beating 
+their children. They see domestic violence. They see stabbings. They see children who are 
+dead of overdoses.
+You know, it's just, and they can get very, very cynical and, and it's easy, I think, for them to 
+start thinking, I don't know, are these people even worth helping? That attitude can kind of 
+invade them. You know, I think there are a couple of other pieces. They get inculcated in 
+them at the academy and it stays with them throughout their career as this sense of they're 
+in constant danger.
+That they live in a society where everybody and their brother has 16 guns between them, 
+and any encounter could turn lethal in a millisecond, 
+Sean: Yeah
+Rosa: and that really affects how they go through the world. That sense of people hate me 
+and I'm in constant danger. And then add to that, in the last few years, All of the media 
+attention on police killings.
+This country has way too many police killings. It's insane. It's terrible. But that being said, 
+you know, studies suggest that the vast majority of them will never even point their weapon 
+at someone in their entire career. Much less, shoot someone, much less kill someone. And 
+so the average police officer tends to feel like I am very misunderstood.
+Our occupation's very misunderstood. Everybody thinks we're these brutal thugs. I've never 
+killed anybody. I, you know, I never wanna kill anybody. And that sense of being embattled 
+and misunderstood. Then also, you know, you get the initial idealism, the cynicism, the fear, 
+and the sense of being misunderstood.
+Sean: Yeah. We're definitely gonna talk about the training and the mindset and how that is 
+woven into the culture. But you do make an important point, and that is just the brute fact 
+that being a cop is a really hard job. We gotta figure out how to do it better. But it is a really 
+hard job and we're in this moment.
+There's a lot of anti-police sentiment… 
+Rosa: Yeah. 
+Sean: And a lot of distrust towards the police, a lot of which has been. Do cops feel justly, 
+villainized at this moment? Because I have to imagine if they do, that very much changes 
+the way they see and do their jobs.
+Rosa: They don't by and large, I mean, obviously I think it's important to say that cops are 
+humans, and they're not homogeneous. I've made some generalizations. They don't apply 
+to everybody. But that being said, I think the average cop, it's part of that feeling of being 
+misunderstood that the average cop would probably say everybody is blaming all police 
+because of a few bad apples.
+Most police officers are not gonna go the next step and say, well, you know, maybe there's 
+something about systemic racism and our role structurally, which also is part of the problem. 
+You know, some do. Some do. Absolutely. You know, I know a lot of police officers who do, 
+but I think that next move is not one that comes naturally.
+I, you know, I have a lot of police officer friends who are on Facebook and just looking at 
+their comments about the killing of Tyree Nichols in Memphis. There's a tremendous 
+amount of, those officers should go to jail. How could they have been hired in the first 
+place? People like that make it hard for everyone.
+They make it hard for us to do our jobs. So very often that's their sense is that most of us 
+are good. There are a few bad apples, and they make it hard for everybody else.
+Sean: You said something to me last time we spoke and I just wanted to, I wanna read it to 
+you if that's okay, and just have you clarify it. And you actually alluded to this a second ago. 
+You said quote, “I see two profound truths that are in tension with one another. One is that 
+policing in America perpetuates extremely unjust socioeconomic divisions, particularly along 
+lines of race and policing in America is stunningly violent compared to policing elsewhere. 
+But there's another profound truth, which is that the overwhelming majority of cops will 
+never even point their weapon at another person during their entire career, much less shoot 
+someone.”
+I'd love to hear more about why these truths are in tension and how that complicates our 
+broader understanding about policing.
+Rosa: I mean most of policing, and this is one of the dirty little secrets of policing, most of 
+policing does not involve crime. Most of what most police officers do. Most of the time 
+involves responding to people complain because their neighbors party, it's too noisy. There 
+are kids hanging out in the back alley and they're scared to go out and put the trash out cuz 
+they're worried that these kids might have bad intentions and might attack them or 
+something.
+They're people who are upset because their neighbors, you know, leaving crack pipes in the 
+hallway. Their domestic disputes. Parents are mad that their kids didn't come home on time. 
+People are mad that their boyfriend didn’t pay his share of the rent. And it's things like that 
+and because we live in a society that has largely abandoned poor communities, and 
+particularly poor communities of color, because we live in a society that has radically, 
+drastically, embarrassingly, underfunded, every important social service, from education to 
+mental health care, to transportation, to job creation, the police are often the only people 
+available to call. 
+So neighborhoods are overpoliced, partly because they're under everything-elsed, you 
+know? And so somebody's in the middle of a crisis, even one of these things that, as I said, 
+doesn't involve a crime. And there is one phone number in most American jurisdictions that 
+you can pick up and call and someone will show up at your door fairly quickly, and that is 
+911, and it's gonna be a police officer.
+We don't, at this moment, in most places, have any alternative to that. And so from the 
+perspective of a police officer, they can feel like I spend all day, every day trying to help 
+people with their ridiculous problems, which are not what I was trained to do. And the good 
+ones help with empathy and compassion and concern and, and don't feel aggrieved by it.
+The bad ones do feel that's not fair, why should I have to do this? I'm not a social worker, 
+I'm not a medic, I'm not a whatever. But either way, police feel like I'm not running around 
+looking for people to shoot. That's crazy. On the contrary, I go where I'm told to go, I didn't 
+create this system. I didn't decide, hey, let's underfund education or whatever. I didn't 
+decide. Let's have these particular rules and regulations. I go where I'm told and where I'm 
+told to go is where people in the community call 911 and ask me to go. And so there's that 
+sense of feeling misunderstood. And I think the thing about structural racism and economic 
+inequality is that it's hard to see.
+You know, it's really easy to villainize a person. And it's really hard to villainize 10,000 small 
+decisions that cumulatively add up to a situation where people are hopeless and poor and 
+have mental health issues that go unresolved for years and years and substance abuse 
+issues. And so for police, I think they can start feeling like, what's the matter with these 
+people? Why don't they just kind of pull their socks up and get their act together and look at 
+all those other people out there, CNN, who think I'm this bad guy when all I do is I spend my 
+time cleaning up other people's messes. 
+You know, that being said, roughly a thousand people a year are killed by police in the 
+United States, some of those killings are, are legally justified. You know, some of those 
+really are self-defense or defense of others. Others of those shootings, and probably, 
+unfortunately, the majority of them, the vast majority are probably preventable, and some of 
+them are straight out homicides by police. But there are 750,000 police officers in the 
+country a tiny fraction of them tend to be involved in excessive force cases. And so for most 
+police officers, that feels like that's got nothing to do with me. Why don't people like me? 
+And it's very hard to see two things, I think one, it's very hard to see that even if it's very 
+rare. The way the occupation is structured contributes to that thousand-ish number, and 
+that's still a very high number compared to every other country in the world.
+But also that it's not just the dead people, you know, it's all the people who get yelled at, 
+who get humiliated, who get frisked when they were just mining their own business. It's all 
+the people who have a thousand smaller interactions that are painful and remind them of 
+inequality.
+Sean: I love what you said a minute ago. I just wanna flag it and then we'll, we'll keep on on 
+rolling here. People are overpoliced because they're under everything-elsed.
+Rosa: Yeah, that's a technical term. The under everything-elsed, that's what we call it in the 
+legal academy.
+Sean: that captures a lot.
+Rosa: This is where this actually intersects with the sort of defund, the police movement. 
+Most cops don't want to be defunded, but if you ask a cop, are you the right people to be 
+doing A, B, C, D that you spend 75% of your time doing, they would go, of course not, why 
+can't the city fund those other things so I don't have to be doing them?
+Sean: I do wanna talk about how the profession is structured, though. Of course, there's a 
+discussion to be had here about the culture of policing and how it's broken and I think a 
+helpful place to start is with the militarization of policing and a lot of the discourse, as you 
+know, focuses on the gear and the hardware and the tactics, and that's all worth knowing.
+But I know you think the more profound problem here is how police departments are 
+organized. Can you say a bit about that?
+Rosa: Sure. Yeah. They tend to be hierarchies that are modeled on military command 
+structures, you know, so there's a commander, they're captains, they're lieutenants and 
+sergeants, and then the lowly patrol officers beneath them, and those commanders are 
+themselves in a hierarchy that goes up to assistant chiefs and chiefs and so forth.
+So it tends to be a very rigid and hierarchical organizational structure. The training in most 
+jurisdictions is kind of like a, a bad caricature of a 1980s marine boot camp. I mean, the 
+military boot camps are not as boot campish as many police academies are anymore 
+because the military figured out that this is maybe not a great way to train people if you 
+want them to be developing critical thinking skills.
+Sean: Can you just give a little color there in terms of like, just so people have a visual, like 
+when you say they're training like it's 1980s Marine boot camp, is it the weapons they're 
+using? What are they actually doing?
+Rosa: Well, if anybody saw the movie Full Metal Jacket or things like that where you've got 
+the drill surgeon, he's, you know, screaming, you maggots, get down, gimme 50. You know, 
+there's a little bit of that. And DC is not, by any stretch, is not by any stretch the worst. In 
+fact, it's probably one of the better ones.
+You know, it's a relatively progressive police department. But even so, the rules at the 
+academy are, you don't, other than to greet people by saying, you know, good morning, sir. 
+Good morning, ma'am. Recruits do not speak unless spoken to. If they do something 
+wrong, you know their boots aren't shined, right? Or they, they, it's a, you know, often 
+punishment based, it's, it's, get down and do more pushups, or you've gotta run around the 
+academy five times.
+So it's very heavy emphasis on hierarchy, discipline, and punishment. A lot of yelling.
+Sean: But, are they playacting soldiers basically when they're going through these 
+academies?
+Rosa: Yeah, to some extent. And it's certainly, I think it's fair to say that the people who 
+become police officers who previously were in the military, often the people who are rolling 
+their eyes most at this 
+Sean: I bet.
+Rosa: And sort of saying, you know, we don't do this in the Marines anymore. This is silly, 
+but okay, fine, whatever.
+You want me to do more pushups, I'll do more pushups. You know, and needless to say, I, I 
+think it's, it's just such a, Terrible message, right? Because the message of being in the 
+police academy being told you don't speak until you're spoken to. You say, sir, ma'am, you 
+get yelled at a lot, and if you do wrong, you're punished with physical pain, pushups or 
+running, or whatever it might be.
+That message is that people who have power can inflict pain on people with less power. 
+And then if police officers go out into the community and take that message with them, and 
+most of them don’t but too many of them do. That translates into a lot of people who they're 
+screaming at or shoving and not really caring very much.
+And again, I don't think that's true of most police officers, but that's not the same as saying 
+it's because they're just a few bad apples. You know, it's not most police officers, cuz luckily 
+most people manage to come through that kind of training with more of their humanity 
+intact. But, it's a kind of training that could not be better designed to produce people who 
+will be abusive towards the general public.
+Sean: I think that's right. One of the questions for me is, can cops train like warriors and 
+dress like warriors and behave like warriors without thinking like warriors, without thinking of 
+themselves as soldiers on a battlefield fighting an enemy?
+Rosa: Yeah, well one of the most influential short articles in the policing universe of the last 
+20 years or so was a think piece that was done by a woman named Sue Rahr and was 
+published initially, I think as a white paper by Harvard's Kennedy School, and Sue Rahr is 
+the former commander of the Washington State Police Academy, trained all their state law 
+enforcement agents, and she's a former sheriff in Kings County, Washington. So she'd 
+spent years as an officer herself, and her paper was called Warriors versus Guardians. And 
+she really took issue with this sort of warrior mentality and said, we need to try to 
+reconfigure police training and police organizations to get police to think of themselves as 
+guardians rather than warriors, and thinking of yourself as a guardian does not mean that 
+you don't train in defensive tactics. It does not mean you don't learn how to shoot a gun. It 
+does not mean you don't learn how to do those things. But it means that we place much, 
+much, much more emphasis on saying to you, you know, those are the absolute last resorts 
+and what you should be thinking is that you're out there to be a protector, and every now 
+and then a protector will have to use coercive means. But your primary job is to keep people 
+safe, ensure people's wellbeing and keep them safe. And I think that that launched a 
+conversation within policing that is still going on that's a really important one. And one of the 
+points that Sue Rahr makes is that in her program that she ran in Washington State, they 
+actually increased the amount of time spent on defensive tactics. And her argument was 
+part of the reason that so many police officers pull out their guns is that they're scared.
+They don't think they can handle themselves physically and they think they need to pull out 
+their gun to even the odds and her take was the more we give them the physical self-
+confidence to think I'm okay. You know, I'm not gonna be beaten to a pulp, you know, I can 
+handle myself, the less likely they are to panic and pull out that gun.
+Sean: Yeah, I mean, you, you talk about this in your book, you know, a lot of police culture 
+is built on this myth that the job is extremely dangerous and that. You know, there's no such 
+thing as a routine call, right? Like you could be shot and killed at any moment, at any 
+random traffic stop. And you, you talk about how that's kind of true and misleading at the 
+same time.
+It is true in a sense. It is an extremely dangerous job and cops do get shot and and killed. 
+But it's also misleading in the sense that that mindset, that cynicism and the kind of 
+hardening that it produces, can lead you to perceive danger and aggression preemptively 
+where it isn't there, and that can become self-fulfilling and create lethal situations that did 
+not have to happen.
+Rosa: Absolutely. Yes. Policing is a dangerous job relative to accountants and law 
+professors, but it actually doesn't even make the list of the top 10 most dangerous 
+occupations in the US.
+Sean: That's worth just sitting with. Just for a second. Say that one more time because that 
+I think will surprise people.
+Rosa: Okay. Policing does not even make the list of the top 10 most dangerous 
+occupations in the United States, which are things like being a roofer. It's a really bad idea 
+to be a roofer, folks, because people fall off those roofs and they, they die. It's a very 
+dangerous occupation. Fishermen, sanitation workers, they're hanging onto the backs of 
+trucks, incredibly dangerous jobs.
+Policing doesn't make the list of the jobs where you're most likely to die. That said, to be 
+fair, the sanitation workers and roofers who die usually aren't shot or stabbed. They're, you 
+know, they have accidents, but even when it comes to intentional harm, taxi, limousine, you 
+know, Uber drivers are at more than twice the risk of being homicide victims on the job than 
+cops.
+Sean: Jesus.
+Rosa: And yet you don't see a kind of army of we need to have Kevlar vests and AR 
+fifteens for all of our Uber drivers cuz it's so dangerous. So it's dangerous, but not nearly as 
+dangerous as police officers tend to imagine.
+music 
+
+How can we better prepare cops for the realities of police work? I’ll 
+ask Rosa Brooks about this… after a quick break.
+
+ 
+
+MIDROLL 1
+
+Music
+
+Sean: So is there a better way to prepare cops, to train cops so that they have a healthier, 
+safer approach to the job? I imagine part of this story here is how we screen cops before 
+they're even hired. And I don't know if the answer is requiring college degrees, although my 
+lefty roots will come out here because I, I'm not super comfortable with legislating blue 
+collar workers out of any profession…
+Rosa: Yeah.
+Sean: …but I'm just thinking aloud and throwing it out there.
+Rosa: So there are a few studies that do suggest that police with college degrees are less 
+likely to be involved in excessive force situations, but it's impossible to untangle that from 
+the fact that police with college degrees start out, they're usually a little older than the other 
+officers.
+Sean: More emotionally mature.
+Rosa: Because I think you're right that there are wonderful police officers who don't have 
+that formal education because the skills and the judgment really don't have anything to do 
+with formal education. They have to do with problem solving abilities and deescalation 
+abilities and communication skills. I do think that when one is able to sort of shift the frame 
+to guardian, And emphasize to police officers, you know, that is your most fundamental job.
+Your job is to try to walk away from every situation, leaving people feeling heard, feeling 
+respected, and feeling like they're a little better off than they were when you came into that 
+situation. That's your job. And the more academies shift to that kind of a focus, I think the 
+better off they are. And again, that's not inconsistent with don't be an idiot.
+You know, you don't need to walk alone into a dark alley where you have no idea who's in it. 
+You know, it's the same things that we, we all tell, we tell our children, we tell our friends. 
+Right. If there is a domestic violence complaint and the dispatcher says that there are 
+weapons involved you, maybe you don't walk up the front steps.
+Maybe you kind of walk around the house a little bit first and you kind of put your ear to the 
+window to see if anybody's shooting before you walk in. You know that there are common 
+sense things that absolutely police officers need to practice and learn how to do, because. 
+You know, as you said, we live in a gun saturated society.
+People shoot each other, they shoot at police officers. You know, you can't discount those 
+threats. But at the same time, if you let them dominate, you are going to end up using force. 
+A lot of times we don't have to.
+Sean: I think a lot of people. May not know this or may be surprised to learn that America's 
+actually under policed relative to some European countries like France, say, countries like 
+that have more cops per capita, but American cops are more violent. They kill more people. 
+And obviously the question is, you know, why is that?
+And there are lots of reasons I'm sure, but there is a huge caveat here and you just 
+mentioned it, which is that there are more guns than people in America. And that's not true 
+in France or anywhere else that I'm aware of. Right? So the whole Second Amendment 
+thing does complicate the picture and make the US an outlier case in, in lots of ways.
+Rosa: And we also have a legal framework in this country that's extremely permissive 
+towards police and that’s part of what makes it very difficult to hold police officers legally 
+accountable that the court's jurisprudence very much emphasizes, we don't wanna second 
+guess police officers. They have to make split second decisions.
+We're going to evaluate the use of force from the perspective of, well, what would a 
+reasonable police officer have done in that split second? And so that ends up a contributing 
+factor along with their decisions on qualified immunity that make it very hard to hold officers 
+accountable. And I, I always tell my students, they say, well, we think police should respect 
+people's constitutional rights.
+And I tell them, police officers who respect constitutional rights as the Supreme Court has 
+interpreted them, can still do a tremendous amount of harm. That constitutional in the US 
+framework is not the same as good.
+Sean: Could you just say very briefly what qualified immunity means? I mean, obviously 
+you're a law professor, so you're equipped to.
+Rosa: Qualified immunity is essentially, it's a doctrine created by the courts that basically 
+says if somebody's an official, they're an employee of state, local, or federal government, 
+and they're acting in their official capacity, that generally speaking, they should be protected 
+from being sued civilly for what they did as part of their job.
+Of course, then the argument is, well wait a minute, excessive force is not part of anybody's 
+job, but the court has the way they have interpreted this. As they've said, yes, officers can 
+be sued in their personal capacities, and qualified immunity will not kick in if what the officer 
+did violates a quote, clearly established constitutional norm.
+but then they go ahead and they define clearly established as meaning that a prior court, in 
+a virtually identical case, said that what they did was wrong, which in turn means that you 
+get all these situations where a police officer from any kind of common sense perspective 
+has done something egregiously clearly wrong, and the court will look at it and they'll say, 
+well, we don't see that any previous court said that this was clearly wrong in this identical 
+situation.
+So therefore, even though we think it was wrong, we don't think it was clearly established 
+that it was unlawful. And so the officer gets immunity from civil suit.
+Sean: Thanks for clarifying that. And look, I don't know if there's any training that can 
+prevent someone from panicking when that fight or flight instinct kicks in, I mean that that's 
+deep down in our wiring, but it's still shocking when you start looking at this how 
+undertrained American police are. 
+Rosa: Yes. 
+Sean: It is incredible how little training these people have, and I suspect a lot of police 
+interactions that go wrong are not the result of bad people out to do bad things. It's the 
+result of poorly trained human beings responding.
+Rosa: Poorly trained, scared people.
+Sean: Yeah, responding badly under duress in situations for which they're totally 
+unprepared, and that seems like a training slash screening problem.
+Rosa: It is to some extent at least, yes. The length of police training in many European 
+countries is three years. It's treated like a university degree before you're out there on the 
+streets. Um, in the US, most departments DC it's six months of training. In New York, it's 
+roughly the same, but there are jurisdictions in the US where it is six weeks, not six months. 
+Six weeks, and you're out there with your gun and your badge and your arrest powers.
+And even in places where it's six months, like DC. I was actually talking to a, a DC police 
+officer this morning who was lamenting exactly this. He said, it's like a joke. You know, you 
+never get refreshers. The, the mandatory refresher training is brief. It's usually a bunch of 
+PowerPoints. You re-qualify on your gun at the shooting rage, and you're good to go again.
+And it's not. The military has an adage, you fight how you train, meaning that if you haven't 
+trained over and over and over for scenarios, you're not gonna be prepared. And I think the 
+same is true for policing. The trouble is it's really expensive and hard to train people really 
+well, right? It would take several years.
+You have to do lots and lots of role play and scenario based training. You want people to 
+really internalize better responses to things, and it's not something. That Americans tend to 
+wanna spend money on, especially right now, you know that there's a lot of cynicism, Oh, 
+training that's not gonna do any good.
+So then it becomes kind of a, a vicious circle. 
+The recruiting piece is also a vicious circle. If you go on YouTube and you Google police 
+recruiting videos, The majority of what you're gonna find out there is gonna be police 
+departments that recruit with videos that involve people jumping out of helicopters and 
+smashing doors down and tackling fleeing suspects.
+Well, if that's your message to the world, you're gonna recruit people who wanna go tackle 
+fleeing suspects and smash doors in, and that becomes kind of self-fulfilling if you're 
+recruiting and saying, this is what being a police officer involves. Involves a lot of force, it 
+involves a lot of physical activity, military vision of policing.
+The people who are attracted to that probably are exactly the wrong people for policing. 
+Whereas if you present policing as a, as a service profession, you know, as a a helping 
+profession, you attract a different kind of people. But right now we're at a moment when 
+police departments all over the country are having a terribly difficult time recruiting anybody. 
+Just keeping their numbers up. Just replacing people who leave and retire, because right 
+now people think, oh boy, who would wanna be a police officer? Either you don't wanna do 
+it because you think, why would I wanna join this violent, militaristic organization that hurts 
+people?
+Or you think, well, I think I could be a good police officer, but everybody hates police 
+officers. Why would I want to go do something where everybody's gonna hate me?
+Sean: I live near New Orleans and I've been there quite a bit recently and it's, I don't know 
+how indicative this is of other cities around the country, but they've got a massive problem 
+of simply not having enough cops. People are calling 911 and they're saying, sorry, nobody 
+can respond. I mean, it's, it's a pretty dire situation.
+Rosa: Yeah, although the one thing I would challenge there, going back to what I said 
+about 75 or 80% of what police officers do has nothing to do with crime. Most 911 calls do 
+not require an armed, uniformed agent of the state to show up at the door and very often we 
+get into these conversations, oh, crime is up we need more police officers, or too many 911 
+calls are coming. We need more police officers. It's not actually particularly clear to me that 
+we need more police officers. Maybe we need fewer police officers trained differently, doing 
+different things and more people who are not armed police officers, who are trained 
+differently, who can respond to many, not all, but to many of the kinds of calls that come in.
+Sean: We've just witnessed the killing of Tyre Nichols down in Memphis. 
+Rosa: Yeah.
+Sean: I'm not even sure where to start, to be honest. So I guess I'll ask… how you 
+processed what happened there.
+Rosa: Yeah. Honestly, I didn't watch those videos. It just felt so voyeuristic to watch the 
+videos, uh, like, it's like a snuff film. And I do think that's become a little bit of an issue in this 
+country, that there's a sort of ritualistic watching of these videos. And it's very difficult 
+because on the one hand, you can't turn away from these things because we wanna 
+change them.
+But on the other hand, if we sort of start, you know, kind of wallowing in these depictions of 
+pain, particularly black pain. You know, I think that that has some problems too, right? It's 
+really hard. It feels sort of morally wrong both ways, right? It feels morally wrong not to 
+watch it. It also feels morally wrong to watch it.
+The Tyre Nichols killing. Um, I think there's another piece of this, well, two other pieces of 
+this that I would pull out. One is that people have lots of like, well, how you know these were 
+black officers, why would they do this thing? You know, police culture's very powerful. And 
+police of whatever, race, gender, et cetera, very often their identities, police can start feeling 
+more powerful to them than their identity, whether it's racial or ethnic or religious, or gender, 
+whatever it might be.
+And the studies on diversification of police departments, they do suggest that police 
+departments that mirror the populations more racially, et cetera, have higher degrees of 
+public satisfaction, but they do not suggest that they have lower levels of lethal force 
+necessarily. And I think part of the reason for that is that people forget that it's not just about 
+racism.
+There's also a pretty heavy dollop of classism in there of, hey, we middle class people, 
+regardless of race, here are these people who we've discounted as people. They're they're 
+poor, they're quote unquote trash. And that dynamic is powerful in many police departments 
+is one piece of it. The other piece though, which has nothing to do with race as such, goes 
+back to what I said earlier about police getting cynical and they spend all day, every day 
+seeing the worst of people. They much like many in the communities in which they operate, 
+they're often severely traumatized. The rates of PTSD usually undiagnosed among cops, 
+are extraordinarily high. More cops die by suicide every year than of every other cause 
+combined. And the research is crystal clear, not just for police, but across every occupation. 
+Traumatized people often lash out in really terrible ways. You know, they, they beat up their 
+wife or their kid, they drive too fast.
+They pick fights at bars. And I think that that's a piece of this too. I mean, I don't know 
+enough about these particular officers, but I do think that unacknowledged trauma can 
+make people cruel. It can make people lash out. 
+Sean: You know, a lot of people are learning about this elite unit, whatever the hell that 
+means. In the Memphis pd, they called it the Scorpion unit. This is the unit that was involved 
+in the Nichols killing, and there are lots of comparable units like this across the country. You 
+know, plain closed cops and unmarked cars using very aggressive tactics.
+What do you make of these types of units? Are they, are they dangerous by design? Is 
+there any evidence that they work? Even if the tactics are a little dicey,
+Rosa: Uh, you know, depends what you mean by work, right.
+Sean: reduce crime.
+Rosa: I mean, in a very temporary way, yes, they can. If by work we mean, have you 
+arrested a lot of people and temporarily reduced like gun? Usually they're targeting things 
+like gun crime, but in a sort of longer term way. Usually what tends to happen is that the 
+people who are participating in gun crimes just move to a different neighborhood, you know, 
+and they.
+You've got these units kind of chasing people around the city, but also in the longer term, I 
+think they, you know, again, not always, and I, I, I think different police departments 
+structure units like this different ways from one another, but what they can end up doing 
+when they go bad is they actually engender so much community hostility because for every 
+guy who they stop and frisk, who's got illegal weapons, who they arrest, they're stopping a 
+hundred people who are just going about their business and, okay, good news, you got one 
+possibly dangerous guy off the street and you've got a hundred people who don't trust you 
+anymore and who dislike you and who are now less likely to tell you anything and less likely 
+to help you solve any crimes or prevent any crimes.
+And you know, one of the many of dirty little secrets of policing is that police aren't very 
+good at preventing or solving most crimes. The homicide clearance rates in many cities 
+hover somewhere between 75% and 25% depending on the place. Lots and lots of 
+homicides go unsolved. Burglaries Carjackings even more likely to go unsolved unless the 
+perpetrator is sort of running away as the police get on the scene or as someone known to 
+the victim.
+It's can be extraordinarily hard for police to do anything, and preventing crime has also just 
+been tremendously difficult, and made more so by community mistrust. If community 
+members are scared of you and don't like you, they're not gonna go to you and say, Hey, 
+I'm really worried about the kid downstairs.
+I saw him boasting to his friends about how many guns and carjackings they, you know, 
+you're not gonna say that to somebody who you don't trust. And needless to say, even if 
+you trust the police, if you think that the American penal system and criminal justice system 
+writ large is going to mishandle things and it will.
+Our criminal justice system actually makes the people who have contact with it more likely 
+to commit new crimes rather than less likely. Even if you like the police, you may be very 
+wary of turning somebody over to that system, which may make things worse.
+music 
+
+After one last short break, I’ll ask Rosa what she thinks about the 
+movement to defund or even abolish the police.
+
+ 
+
+MIDROLL 2
+
+Music
+
+Sean: We've been sort of circling around some of the arguments about. Abolishing or, or 
+defunding the police. There are caricatured versions of these arguments and there are more 
+nuanced versions of them, and I, I want to try to engage with the more nuanced versions of 
+them. You know, and I'm not sure where you stand on any of this, but I'll, I'll start by just 
+kind of laying my cards on the table.
+I mean, my main objection to a lot of these sorts of arguments is that I really do think we 
+need to professionalize the police. 
+Rosa: Yeah.
+Sean: That is a phrase coined by others, not me.
+Rosa: Different police. Not necessarily no police.
+Sean: Yeah, right, because if nothing else seemed like the right direction to go. But again, 
+very importantly, that would require more, not less funding.
+And for lots of reasons, people aren't really pumped about giving more money to cops who 
+they continue to see on their screens brutalizing people.
+Rosa: Yeah. I think to me the issue comes down to the sort of defund. I'm not an 
+abolitionist. I think we're always going to need some people who can use coercion on behalf 
+of the state, but I'm sympathetic to the underlying logic of the defund movement, but I think 
+there's sort of a short term and there's a long term. Long term when you think about, well, 
+what, what would we like community safety to look like in 50 years say?
+I would like there to be fewer police, doing fewer things. I would like us to have fewer police 
+who are reserved for the really serious violent situations where nothing else is gonna work, 
+and I would like us to have cadres of wonderful social workers, and teachers, and doctors, 
+and you name it, who really are flooding neighborhoods where there's a lot of need and who 
+are responding to that stuff that right now comes to cops that doesn't involve crimes.
+You know, I'd like to see that, but we don't have that right now, and we're not gonna get to it 
+next year or in two years or in three years. Maybe we could start getting close to it in a 
+decade. Probably not for a generation, because if we want those wonderful social workers 
+to go, well, we're gonna have to train people, we're gonna have to recruit people, we're 
+gonna have to pay people.
+It's gonna be a hard job. They're gonna need a lot of training. They don't exist right now by 
+and large people sort of blithely talk about, well, couldn't we send a social worker, you 
+know, your average social worker is doing therapy or they're a school counselor, they're not 
+prepared to go into a high crime neighborhood at two in the morning where drunk people 
+are fighting with each other. We just don't have them right now. And we need to be thinking 
+now in every city in the country well, if here's where we wanna be in, in 50 years, if we want 
+to have a really different allocation of public funds and et cetera, et cetera, like what do we 
+do today to make it more likely we're there in 50 years, and then what do we do next year 
+and the year after that?
+And it's gonna be, even if the political will exists to do it, it's gonna be a long, long process. 
+And there are gonna be mistakes and one of those social workers is gonna get killed, and 
+everybody's gonna start saying, oh, see what a terrible mistake you made.
+Sean: Yeah.
+Rosa: You know, and I would be saying, terrible things do happen. That doesn't mean the 
+whole idea's a bad idea. And we, we do this all the time. We let the one bad thing sour us 
+on something. I mean, that's exactly what police do, right? They say, well, this happened in 
+this one instance. It must happen all the time, even when it doesn't. 
+Sean: Right.
+Rosa: So that's kind of where I come down.
+Sean: And this is the thing I would say in defense. I mean, the fact that cops spend so 
+much of their time on non-violent crimes and minor drug offenses and these sorts of things 
+is such a problem. They should spend much more time screening, much more time doing 
+training on de escalation and how to communicate more effectively.
+That's part of the professionalization I'm talking about. But also, they should be focused 
+more on actual violent crimes because so much of the other stuff amounts to harassment 
+and extortion and a waste of time and resources and I, I don't have any idea how many 
+violent police interactions involve people with disabilities or mental health issues that never 
+would've happened if those people had gotten the help they needed, which is why the call 
+for better social services and more funding for social services are absolutely necessary.
+Rosa: I mean, we Americans are short-term thinkers. We don't have a lot of patience and 
+that's, I think, one of our national characteristics that's always tripping us up. This is not 
+gonna get better in a couple years, you know, much less a couple months as some cities 
+kind of go, oh, we tried that onto something else. This is gonna take a really long time and 
+we're gonna have to be willing to experiment. We're gonna have to be willing to have 
+failures and learn from them. And I don't know that the American public, much less the 
+people who elect to represent us at various levels have the stomach for that kind of longer 
+term thinking. But it is absolutely the only thing that's gonna get us out of this situation that 
+we're in right now.
+Sean: We ran an old Vox Conversations episode earlier this week with my terrific colleague, 
+Fabiola Cineas, and she was in dialogue with the police abolitionist whose name was 
+Derecka Purnell. who made a lot of genuinely interesting points. But she also said 
+something that crystallized a kind of first principle objection for me, and I'm curious what 
+you think you know, she'd said that the goal was ultimately to eradicate violence from 
+society.
+And for me, there will always be violence in society and we will need police to deal with it. 
+And while I appreciate the call to imagine a different world and to reexamine our deepest 
+assumptions about our current one. I am pretty firm on this point, as firm as I can be. And 
+yet at the same time, I'm also a white guy who has never felt threatened by the police and I 
+don't know what that's like.
+And I do think there's a moral obligation to take that seriously.
+Rosa: Yeah. Okay. But I guess I have two reactions, one of which is more agreement with 
+her, and the other of which is more disagreement. The more disagreement piece is that 
+people are always saying, well, we should listen to people in the affected communities, 
+meaning people of color in particular, but they're not homogeneous either.
+You know? And in fact, a majority of black Americans, and in particular, a majority of black 
+Americans who live in high crime neighborhoods, they do not want fewer police officers . 
+They want different, better policing, but they don't want fewer. But as I said, there's short 
+term and there's long term, and wouldn't it be nice to get to. No violence, but there's a pretty 
+long in the meantime, if we ever get there, you know, maybe we can kind of get ever closer. 
+But I agree with you. I don't think we're ever gonna get there. I agree with her that I don't 
+think that means we shouldn't try.
+You know, of course we should be trying. We should be trying to eradicate violence with 
+recognition, the awareness all the time. We probably won't succeed, but that maybe we can 
+reduce it and reduce it and reduce it and reduce it to a level that is less crippling societally. 
+But I think that as long as there is violence, we can't also ignore the fact that it is poor 
+people of color who are also the victims of the vast majority of violent crimes in this country. 
+And it's not good enough to sort of say to them, good news, everybody. We've decided that 
+the real problem is police, so we're not gonna have any police anymore. Well, believing that 
+structural racism exists, you can believe that and still believe that there are people right this 
+minute who, if there are no police, will commit more crimes and will hurt more people.
+And that doesn't mean were there no structural inequalities, et cetera. Would they have 
+turned out that way? Maybe not. You know, but we're where we are right now, and we can't 
+just wish it away. 
+I do think that the abolitionist terminology and the defund terminology have not done any 
+favors for those movements because I, I think that when you frame it differently, when you 
+frame it as one that is more inclusive to invite police officers to actually be part of the 
+conversation. You end up with a much better, more constructive conversation when you 
+frame it as, Hey, we all share a goal of making the society less violent and less racist, et 
+cetera. That's our goal. We all share that goal. We all think that it doesn't really make sense 
+for police to be mediating arguments between a teenage kid and their parent.
+Somebody with a gun there may make things worse rather than better. We all can agree on 
+that. And now let's talk nitty gritty. Let's talk. How do we move forward in a way that relieves 
+police officers of tasks that they generally do not wanna be doing? Don't feel well-equipped 
+for, desperately want some other city agency to step in and do instead of them. They're 
+actually gonna be, in many cases, allies. 
+We run a program here at Georgetown. It's a fellowship program with young DC police 
+officers, and we had a session last week. We had a workshop where this was exactly the 
+issue, and the officers were expressing incredible frustration about the fact that they 
+encounter over and over and over again situations where they want to refer people to social 
+services, you know, to counseling, to safe places if they're victims of domestic violence, 
+whatever it may be. And they're like, we call the Department of Behavioral Health and 
+nobody answers the phone ever. So I actually think that you start asking police to be part of 
+that conversation. They become some of the biggest advocates for funding all those other 
+things.
+Sean: Earlier you talked about some of the research on police training, and you talked 
+about the importance of instilling cops with a sense of self-confidence, so they aren’t acting 
+out of fear. And I think we can say that, if that’s a goal of police training — and it seems a 
+worthy goal… that it’s not working right now. Many cops report that they are afraid of getting 
+into violent interactions, or about whether or not a suspect is armed. Especially in these 
+high-profile instances of police violence, we hear that officers are afraid. So is there 
+something that we can do in training to make cops less afraid? To instill them with more 
+confidence, so that they aren’t primarily acting out of fear?
+Rosa: Yeah. I mean, I think in an ideal world we would have older cops for one thing. Right 
+now there's this recruiting crisis. Police departments can't be very picky. But you know, the 
+United Nations, this is decade or more ago, raised the minimum age for UN peacekeeping 
+soldiers to 25, and that's because they found that the vast majority of situations that 
+involved abusive behavior by soldiers involve very young soldiers.
+And that you raise the age of 25 people start aging out of being jerks. You know, they really. 
+And that if you can restrict it to somewhat older soldiers, that you're gonna have far fewer 
+problems. Not none, but fewer. You know, in an ideal world, I think we would see being a 
+police officer, something that is not your first job out of high school.
+You know, something that you have to get to after lived experience, and lots and lots of 
+training, recruiting people for their problem solving skills, for their critical thinking, for their 
+communication skills, and every police chief in the country will tell you that that's what they 
+want. We'll say, this is what we need.
+This is actually not like the military where you're gonna be out there with 50 other people 
+and a command structure and somebody can tell you what to do. Our police officers are out 
+there all by themselves, and yes, they can call their sergeant or they can call for backup. 
+But there's probably gonna be a significant period of time in any situation where it's gonna 
+be one or two officers alone having to decide how to handle a situation.
+And that really means that you want people who have really good judgment or really good 
+communicators, et cetera, because they're gonna have to make decisions for themselves, 
+which in turn of course, means that you need not only to recruit people with those skills and 
+characteristics in mind, but have training that really reinforces those.
+I mean, I had a conversation with, uh, a senior official in the DC police department who was 
+saying that he felt like one of the things a lot of the new recruits at the police Academy 
+lacked, it wasn't just, they didn't have deescalation skills, they just did know how to talk to 
+people. And he attributed a little bit to generational stuff of people who have got their heads 
+in their phones.
+They don't have the face-to-face interactions. And he was saying, They're really trying to 
+think of ways to literally force those recruits to go talk to people. Like your assignment for 
+the next two hours is to have conversations with 10 people to walk around the street, you 
+know, have conversations with people, just say hi and to just practice that.
+And it sounds so dumb, right? It sounds like, well, everybody knows how to talk, right? And 
+that's sort of an undervalued skill, but a tremendous amount of policing is learning how to 
+say, okay. Wow. Boy, you know, I can see you're pretty upset. I'd be upset too. Well, okay. 
+Well this, you know what's going on here? Huh?
+Okay. Well maybe we can solve this problem.
+Sean: We're dealing with an impossibly complicated dynamic and lots of people are justified 
+in their anger and there just isn't a way out of this. And it's partly because there is lots of 
+anger to go around, justifiable anger to go around that we can't move forward. It's just, it's 
+kind of dispiriting.
+Rosa: You know, one of the things I also hear a lot of my friends who are still police officers 
+saying is this frustration. police departments like everybody else in the universe, they value 
+what they can measure. And you can measure things like arrests. It's very hard to measure 
+situations that were diffused that could have gone wrong.
+You know, it's the dog that doesn't bark in the night, right? And so they say, You go on 
+YouTube and it's nothing but these terrible videos of police doing awful things. And you 
+know, they, they've sort of naive. They're often sort of like, why aren't there videos of police 
+doing good things ? Because we do good things all the time and they're not wrong, but.
+Nobody bothers to put on YouTube or is even recording in the first place. You know the 
+interaction that goes really well, the interaction that's pleasant or the interaction where the 
+police officer successfully diffuses a really tense situation and everybody goes away and it's 
+resolved and it's not even forget the general public seeing those videos, right?
+Police express frustration that their sergeants don't see it either, and nobody. Is tracking or 
+knows how to track who deescalated the most situations. And it's not that the cops don't 
+know, right? They absolutely know. Institutionally it's not rewarded in part because it's hard 
+to quantify, and that's part of the dilemma.
+Sean: Well, in the interest of ending this on a more constructive, optimistic note. You 
+mentioned the program that you, you help run at Georgetown for young cops in DC. This is 
+a program where you talk about race and violence and the role of policing and all that stuff. 
+Do you feel that work there is actually making a difference and giving you more hope?
+Rosa: I do. I really do. And yeah, that's the thing that really gives me hope. We're now in 
+our fourth cohort of fellows. So all told, I think we've, maybe… we've had about 70 officers 
+go through this and they're great. And they're super thoughtful. You know, they're super 
+self-aware. They really want to grapple with all of these issues.
+And I feel like that's part of what we hope will be a generational change in policing, at least 
+in this city, that those young officers will rise in the ranks, and they will, we hope, you know, 
+seed new ideas throughout the department and we really emphasize a big part of the 
+program is talking to them about, what does it mean to be a change agent within an 
+organization? You know, how do you do that when you're in a rigid, hierarchical 
+organization? And I can think of multiple examples of things that have come out of the 
+discussions we've had in those workshops or things that have been part of projects that our 
+fellows have done that have turned into policy for the department.
+Whether it's new policies for police interactions with adolescents, or whether it's better 
+training on officer wellness, or whether it’s some changes to police academy curriculum. 
+You know, no single one of them is remotely transformative. But going back to the kind of 
+harm reduction concept, no question in my mind: these young officers who've gone through 
+this program have done really concrete things that have made the department a little bit 
+better.
+And it doesn't solve racism. It doesn't solve poverty. It doesn't solve violence and crime, but 
+it makes life a little better for some, you know, for at least a few people, and it probably 
+saves a few lives and, and that's not chopped liver.
+Sean: Well, I think it's such great work and I commend you for doing it and for having a, a 
+few skins in the game and kind of getting your hands a little dirty as it were. So, Rosa 
+Brooks, you are always a source of wisdom and insight. Thank you so much for being here.
+Rosa: My pleasure, Sean. Thank you so much for having me.
+music 
+
+OUTRO/CREDITS:
+Erikk Geannikis is our producer, Patrick Boyd engineered this episode, Alex Overington 
+wrote our theme music, and A.M. Hall is the boss. 
+This really is a tough one. This is a very fraught issue for lots of understandable 
+reasons. I really appreciate the fact not just that Rosa has a unique perspective being a 
+law professor and having worked on the streets as a cop, she also really is trying to be 
+constructive here. She runs a program down at Georgetown that brings in young cops 
+and helps them think through these issues and imagine doing policing differently, and 
+better, and I commend her for that.
+Let us know what you think about this one. Drop us a line at the gray area at vox dot 
+com. 
+And if you appreciated this episode, share it with your friends on all the socials. It really 
+helps. 
+New episodes drop on Mondays and Thursdays. 
+
+Listen and subscribe.
+
+
+  https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx
+ 
+ 
+ 
+ 
+1

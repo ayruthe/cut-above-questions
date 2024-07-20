@@ -1,0 +1,905 @@
+﻿PUBLIC TRANSCRIPT | Sean Illing + Matt McManus | TGA |  
+Feb. 23, 2023
+TITLE: Taking Nietzsche seriously
+
+SUBTITLE: The 19th-century German philosopher has a history of being misread, 
+misunderstood, and misinterpreted. And yet his insights can still have resonance today — 
+but we have to grapple with the unsettling things in his work.
+
+DESCRIPTION:
+Sean Illing talks with political science professor Matt McManus about the political thought of 
+Friedrich Nietzsche, the 19th-century German philosopher with a complicated legacy, 
+despite his crossover into popular culture. They discuss how Nietzsche's work has been 
+interpreted — and misinterpreted — since his death in 1900, how his radical political views 
+emerge from his body of work, and how we can use Nietzsche's philosophy in order to 
+interpret some key features of our contemporary politics.
+
+Host: Sean Illing (@seanilling), host, The Gray Area
+Guest: Matt McManus (@MattPolProf), lecturer, University of Michigan; author
+
+Referenced works by Friedrich Nietzsche (1844–1900):
+	Ecce Homo (1888; published posthumously), Thus Spoke Zarathustra (1883), 
+Beyond Good and Evil (1886), Twilight of the Idols (1888), The Birth of Tragedy 
+(1872), The Antichrist (1888; published posthumously), The Gay Science (1882)
+
+References: 
+	Nietzsche and the Politics of Reaction: Essays on Liberalism, Socialism, and 
+Aristocratic Radicalism, ed. Matthew McManus (Palgrave; 2023)
+	The Political Right and Equality: Turning Back the Tide of Egalitarian Modernity by 
+Matthew McManus (Routledge; forthcoming)
+	Nietzsche's Great Politics by Hugo Drochon (Princeton; 2016)
+	Nietzsche's Letter to Georg Brandes (Dec. 2, 1887)
+	Nietzsche: Philosopher, Psychologist, Antichrist by Walter Kaufmann (Princeton; 
+2013)
+	“God is dead. God remains dead. And we have killed him. How shall we comfort 
+ourselves, the murderers of all murderers?” from Nietzsche's The Gay Science, §125 
+(1882; tr. W. Kaufmann)
+	"Atheist bus campaign spreads the word of no God nationwide" by Riazat Butt (The 
+Guardian; Jan. 6, 2009)
+	"Since Copernicus man has been rolling from the center toward X," from Nietzsche's 
+The Will To Power, published posthumously in 1901.
+	Immanuel Kant, Metaphysics of Morals (1797)
+	Kierkegaard's Attack Upon "Christendom", 1854-1855 (tr. Walter Lowrie)
+	Nietzsche, the Aristocratic Rebel by Domenico Losurdo (Brill; 2019)
+	Joseph de Maistre, Considerations on France (1797)
+	"Does Liberalism Mean Supporting Communism?" by Matthew McManus (Liberal 
+Currents; Jan. 4, 2022)
+	Frantz Fanon, The Wretched of the Earth (1963)
+	United States of Socialism by Dinesh D'Souza (All Points; 2020)
+	"The alt-right is drunk on bad readings of Nietzsche. The Nazis were too" by Sean 
+Illing (Vox; Dec. 30, 2018)
+	The Third Reich series by Richard J. Evans
+	Ayn Rand, Atlas Shrugged (1957)
+ 
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area. Subscribe in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Engineer: Patrick Boyd
+	Editorial Director, Vox Talk: A.M. Hall
+	
+
+INTRO:
+
+CLIP: passage from Nietzsche’s Ecce Homo VO:
+I know my fate. Some day my name will be linked to the memory of something 
+monstrous, of a crisis as yet unprecedented on earth, the most profound collusion of 
+consciences, a decision conjured up against everything hitherto believed, demanded, 
+hallowed. I am not a man… I am dynamite.
+
+Sean Illing: Those are the words of Friedrich Nietzsche… Nietzsche’s philosophy has been a 
+huge influence in my life. If you listen to the show, you already know that. But the guy is full of 
+contradictions.
+
+He’s in the rare echelon of philosophers who've managed to cross over into popular culture. 
+
+CLIP: from Little Miss Sunshine:
+STEVE CARRELL: Is that Nietzsche? You don’t speak because of Friedrich Nietzsche? 
+… Far out.
+
+That’s from Little Miss Sunshine, an Oscar-winning 2006 movie. For a 19th century German 
+philosopher, that’s pretty mainstream…
+
+And yet, when it comes to his actual philosophy — his ideas are hard to pin down. He wrote in 
+many different voices and in many different (and often contradictory) ways ….
+
+Nietzsche challenged readers to live heroically … To transcend the banalities of a sick, 
+decadent culture … The irony of course is that he himself was very sick … And near the end of 
+his life, while staying in Italy… he suffered a full mental breakdown.
+
+He never recovered.
+
+The contradictions pile up in Nietzsche’s work, too. In books like Beyond Good & Evil, he tosses 
+away most of traditional morality …   But he’s also trying to warn us about why this is such a 
+catastrophe for civilization… That has something to do with what he called “the death of God,” 
+and trust me, we’ll get into that later.
+
+He’s notorious for the concept of the Übermensch — or “Super-man”... this is an idea the Nazis 
+would later borrow to suit their own sordid political goals … And while it’s never entirely clear 
+what Nietzsche meant by that word, it’s obvious it had nothing to do with antisemitism or 
+eugenics.
+
+So, Nietzsche is a bit of a mystery … But he is, without question, a radical and inspiring thinker, 
+someone who anticipated some of our modern crises better than anyone else … And yet, 
+because of how he wrote (and often what he wrote), he can, in the hands of a certain kind of 
+reader, lead to some dark places…
+
+But… he remains an essential thinker for our time, … And it’s up to us to resolve the 
+contradictions.
+
+music 
+
+ID: I’m Sean Illing… and this… is The Gray Area.
+
+music 
+
+My guest today is Matt McManus. He’s a lecturer at the University of Michigan, and he’s the 
+editor of a new essay collection, called Nietzsche and the Politics of Reaction.
+
+As McManus reads him, Nietzsche is a political thinker – and a right-wing one, at that. He says, 
+if we want to really understand Nietzsche, we’re going to have to grapple with that fact. 
+
+McManus thinks that Nietzsche is the ultimate reactionary, and in that respect he thinks that we 
+can use Nietzsche to understand our politics today. And so I wanted to talk to him about how 
+this weird, brilliant, singular philosopher can shed light not just on the far right – but on 
+progressives, too.
+But… in order to do that, we’re gonna have to take Nietzsche seriously… and confront what he 
+has to say, even when we don’t like what he’s saying.
+music 
+
+Sean Illing: Matt McManus, welcome to the show.
+Matt McManus: Yeah, thanks. I’m looking forward to this.
+Sean: I think a Nietzsche episode is long overdue for this show. This one is tough for me 
+because I love Nietzsche. I mean, he's one of the great intellectual influences of my life, and I 
+continue to think he understood the crisis of modernity better and sooner than anyone, and yet 
+there is this dark side to Nietzsche, and if you take him too far too seriously, it can lead to some 
+pretty ugly places.
+We'll get into what I mean by that, but I just wanted to kind of throw my cards on the table right 
+at the start of this thing.
+Matt: Oh, hey, listen. I love the guy also. I mean, I sometimes get annoyed emails from people 
+being like, why are you attacking such a great thinker? Why are you trying to cancel Nietzsche? 
+I, I'm not trying to cancel Nietzsche at all. I started reading him when I must have been like, 17 
+or 18 years old. I was raised Roman Catholic going through the very cliched crisis, and I just 
+thought his work was electrifying.
+Right? Changed my life in a lot of ways.
+Sean: I mean, come on, dude. That's so cliche.
+Matt: Oh, a hundred percent.
+Sean: Did Nietzsche cause the crisis or, or was the crisis well underway by the time you 
+happened upon him?
+Matt: Oh no, it was well underway at that point. I mean, part of it was prompted by politics 
+because a lot of the Catholics that I knew and grew up with were very conservative. Quite a few 
+of them were very homophobic, uh, which I didn't like at all. Uh, but you know, part of it was just 
+also metaphysical. Like, I started asking questions like, well, does God actually exist?
+If God exists, you know, what form does he take? If there is no God, what does that say? And 
+you know, I didn't know shit about anything at that point, so I just did the typical thing, which is 
+go on the early internet, you know, this is just around when Wikipedia is coming up, being like, 
+who answers these kinds of questions?
+And they're like, oh, there's this guy. Write a book called Beyond Good and Evil and The 
+Antichrist. And so I went out to the store. The nice thing about Nietzsche too is because he's so 
+popular, you can get him at any bookstore, right? So I just picked up, I have the same copy 
+actually, Beyond Good and Evil, Twilight of the Idols, and The Antichrist for Penguin and uh, like 
+you, it just rocked my world, right?
+Like I'd never thought about things like that before. I didn't understand everything. You know, I 
+was 18 years old, but there was this real sense that there was something important going on 
+that was opening my eyes to ways of looking at things that I had never even considered before. 
+So I'm very grateful for that.
+But like a lot of people, he would sometimes say these things about slaves and women and 
+lower cultures and your eyes just kind of drift over that and you don't really pay too much 
+attention to it. And you're like, yeah, yeah, yeah, yeah. I think that we do need to pay attention 
+to that kind of stuff. So it's been a learning process for me also.
+Sean: Yeah, that's the thing about Nietzsche, right? From page to page, you can swing from, oh 
+my God, that's the most brilliant insight I've ever encountered. And then on the next page it's 
+like… ooh, yikes. Did he really just say that?
+Matt: And you're like, uh, I'm not really sure that I, uh, can get on board with that one.
+Sean: Yeah. You know, you, you edited this anthology of essays about Nietzsche and you've 
+just completed a monograph that is at least partly about Nietzsche.
+Matt: It's a history of right wing thought, generally, he figures largely in it though. I think actually 
+he has four whole sections dedicated to him –  more than almost everybody else.
+Sean: So what's the motivation there? Why do you think we need to engage with someone like 
+Nietzsche at this political moment?
+Matt: Well, I think there are two reasons. One good and one bad. The good reason is like you, I 
+think that Nietzsche offers a profound diagnosis of the problems of modernity that anyone can 
+profitably learn from, including wherever you stand on the political spectrum. And we can talk a 
+lot about what I think Nietzsche offers as a kind of positive program for our progressive or liberal 
+thinkers going forward.
+But the bad reason is, that for a long time, uh, it was expected that Nietzsche really just didn't 
+even have a politics, or if he did that, it was a pretty minor aspect of his thinking. What we've 
+seen is, of course, that he does have a politics, uh, and it's an extremely right wing politics. And 
+understanding that it not only helps us gain a better appreciation of his own thought, but it 
+allows us to see how it is that he's influenced generations of right and hard right thinkers, 
+including many who are very active today.
+Sean: Yeah. You know, the idea that Nietzsche was anti-political or apolitical was always so 
+bizarre to me. I mean, it's true. He spends a lot of time fretting about culture, but for him, culture 
+and politics are very clearly bound up with one another. And so his concerns about culture are 
+very much tethered to his concerns about politics.
+So you just simply can't separate those things out.
+Matt: My friend Hugo Drochon wrote a book called Nietzsche’s Great Politics, and that's actually 
+a line that comes from Ecce Homo, right? Uh, his autobiography, where Nietzsche actually 
+explicitly says, it's only with me that great politics will finally enter into the world, or will begin 
+again — sometimes it's translated variably.
+And by great politics he means… war that the earth has never seen before. Quite prophetic, if 
+you think that World War I and World War II were upcoming, right? 
+Sean: Oh yeah.
+Matt: And this isn't something that he looks upon with exclusively terror; it's something that he is 
+really anticipating because it will provide a kind of edifying or purifying function over the face of 
+the earth.
+So it's very hard once you recognize these statements to then go back and say, you know, he 
+was just a bohemian intellectual who was offering critiques of art or psychological advice.
+Sean: It may help to set the table a little bit for the rest of the conversation to just ask you how 
+people have interpreted Nietzsche over the years. He wasn't terribly well-known when he was 
+alive and writing, and he died in 1900. Then he, he ends up getting appropriated by the Nazis 
+for sordid reasons that we don't have to get into here.
+And then later in the 20th century, he becomes a kind of radical proto-postmodern progressive 
+darling. I mean, is it possible to give us some of the broad strokes here in terms of how he has 
+been read over the years? Why has this guy had so many philosophical lives?
+Matt: I think that there are a number of different things to be said about this. Nietzsche, early in 
+his own career, actually enjoyed tremendous academic prominence, something that people 
+don't know, but as a philologist, right? Um..
+Sean: And super quickly – what’s philology, for those of us who don’t know?
+Matt: Generally, the study of ancient languages, but really examining the roots of various words 
+in ancient languages. And this of course contributes to Nietzsche's early interest in things like 
+Greek philosophy. And people thought he was a Wunderkind, somebody who was going to 
+revolutionize the discipline, and great expectations were put on him. And then he releases his, 
+uh, first book, The Birth of Tragedy.
+And pretty much the whole philological community is like, what is this? Right? This is not 
+philology, this isn't quite philosophy. It's not even art commentary. It's just weird. And his 
+academic position pretty much craters at that point. Undeservedly, ‘cause it's a minor 
+masterpiece, I think. He wrote better books later on, but it's a very interesting text.
+Then, you know, he spends the rest of his life flirting with a bunch of different movements. Won't 
+get too much into them. He's only really gaining a little tiny little bit of attention near the end of 
+his life, where, in an important correspondence, he's chatting with one of the first lecturers in 
+Denmark who's talking about Nietzsche's work.
+And this is important because the lecturer says, I think of your philosophy as a kind of 
+aristocratic radicalism. And Nietzsche says, that's exactly right. You know, that's what I'm aiming 
+for. And then of course, after Nietzsche collapsed into madness, He enjoyed this extraordinary 
+intellectual prominence, unfortunately, amongst a lot of the worst kinds of people, particularly on 
+the political right where the Nazis appropriated him and almost transformed them into their 
+philosopher.
+German imperialists did the same in the First World War where they would hand out copies of 
+Thus Spoke Zarathustra to German soldiers on the front. So then after the First and Second 
+World War, there was a real effort by people like Walter Kaufmann to rehabilitate him, 
+deservedly, right, for English speaking audiences.
+Sean: And we could just say, just, just real quickly, Walter Kaufmann is the sort of foremost 
+translator of Nietzsche for American audiences.
+Matt: Absolutely. I mean, if you've read a book by Nietzsche, odds are it's the Kauffman 
+translation and you know, he's a great translator. He also wrote a very good book on Nietzsche 
+as a Psychologist, but that's kind of itself telling because the way that Kaufmann tried to 
+rehabilitate Nietzsche's reputation amongst the Anglosphere especially, was by presenting him 
+as a kind of bohemian existential psychologist who more or less doesn't have any bearing on 
+politics at all.
+And this was pretty effective in convincing people that they could read Nietzsche safely while 
+not having to align him with these far-right movements that he had once been so associated 
+with.
+Sean: Yeah, he's not fascist. He's just a little weird.
+Matt: Yeah, exactly. He's a little cranky and eccentric around the edges, right? Then starting, 
+you know, in the 1950s and really climaxing in the sixties and seventies, he's appropriated by 
+generations of French intellectuals, mostly leftists, who find all kinds of interesting stuff to do 
+with his work.
+So much so that by the 1970s, you even find people like Michel Foucault, just saying, I am a 
+Nietzschean. Right? With a hundred different qualifications to that of course. But this led to the 
+kind of presupposition, even amongst conservative thinkers, that Nietzsche was fundamentally a 
+kind of bohemian liberal, maybe even radical intellectual.
+And now we've kind of come full circle, uh, since a new generation of right and far-right thinkers 
+have really rediscovered him and reinterpreted him, I think more appropriately as a right-wing 
+thinker. His politics are not Foucault’s politics. Uh, and they're definitely not Kaufmann's kind of 
+soft psychologism. He is very committed to aristocratic radicalism and that’s a pretty nasty thing, 
+especially if you hold to liberal and progressive views like I do.
+Sean: So let's get into the ideas. As you point out, Nietzsche is one of those rare philosophers 
+who has managed to enter into the pop cultural imagination. That's partly why so many people 
+have opinions about him, despite having never read him. And the thing I hear the most about 
+Nietzsche is he's the guy who was a nihilist, who gleefully pronounced that God is dead.
+That trope triggers the hell out of me. I, I don't know about you, Matt, but we should clear this up 
+right now because I think understanding this part of his thought, what he actually meant here, is 
+really essential to making sense of everything else that comes out of his mouth later. So what 
+did Nietzsche mean by God is dead?
+Matt: One thing that it doesn't mean is that Nietzsche is there to kill God or offer a scholastic 
+rebuttal of conventional proofs for God's existence, right? What's important when he says, “God 
+is dead and we have killed him,” is that Nietzsche is describing something that has already 
+occurred, even if people aren't really acknowledging it.
+Or more importantly, even if they're not prepared to deal with the implications of what it is that 
+they've done. So the crisis that he's talking about is really the crisis in European Christianity that 
+he sees as emerging in the middle of the 19th century when the natural sciences, which 
+themselves were an offspring of the Christian worldview, basically killed their father and 
+established a new secular view of the universe. 
+But he is very concerned that it's going to generate many new kinds of outlooks and new kinds 
+of approaches to the world, many of which are going to be sick, unhealthy, and lead people to 
+be profoundly either unhappy or potentially even worse – to seek happiness in the most crass, 
+venal places.
+Sean: I mean, that's sort of what's so ironic here, right? Like when, when Nietzsche is talking 
+about the death of God, it's really a lamentation. You know, he's saying like, yo, yo people, do 
+you see what we've done here? Do you understand the crisis this is going to unleash? We are 
+absolutely not prepared for what is about to happen – or for what has already happened, 
+actually.
+It's so different from this notion that he was sort of dancing on God's grave.
+Matt: Oh, absolutely. One of the things that I find frustrating about... say the Richard Dawkins 
+types. Richard Dawkins famously had a bus that would go around the UK…
+CLIP [here and here; a news story from 2009]
+NEWSMAN: London’s iconic red buses will soon display the message that God does not 
+exist. The plan is to have thirty buses carrying signs that say: There’s probably no God, 
+now stop worrying and enjoy your life. The campaign has the support of prominent 
+atheist Professor Richard Dawkins.
+DAWKINS: It’s funny, and it gets people to talk about it. It gets people to think.
+Matt: That's a very crude, simplistic, almost banal atheism. Right? ‘Cause it almost tries to 
+ignore religion and the history of religion and the way that it contributed to our very basic moral 
+values, and say, Now that we don't believe in God, we'll just carry on like everything was going 
+on before. We'll just take this little bit out of that. 
+Whatever you can say about Nietzsche and his approach to Christianity, he took it extremely 
+seriously. He did not ignore religion. If anything, he was trying to develop what you might call an 
+active atheism or even an active antitheism. 
+There are some remarkable things that come out of his work from that, but it's really a testament 
+to his creativity and honesty that he took this kind of issue as seriously as he did, and really 
+dedicated his life to trying to solve the problems that he thought were thrown up from this.
+Even if I think, um, most of his solutions were quite repelling.
+Sean: Yeah, he has this startling line. And like so many of his lines, it packs so much into a few 
+words. He writes, ever since Copernicus man has been rolling away from the center toward X, 
+it's getting at this idea that humanity's self-understanding of its place in the cosmos, right? Our 
+understanding of our own creaturely significance… that starts to melt away with Copernicus, 
+when we realize we're actually not the center of things. 
+And then it finally gets extinguished by Darwin when we realize, oh, we're just a random product 
+of blind, impersonal forces. And that is a gigantic event in human history.
+Matt: Absolutely, right? It implies fundamentally that there's nothing all that significant about 
+human life. And that consequently any kind of meaning we attribute to it has to be ours for the 
+making. But I think it's also just important to stress that even his approach to antitheism was 
+extraordinarily creative and innovative, and has been of great influence even to theologians 
+going forward.
+For instance, it can be very tempting to see natural science as kind of the antithesis of 
+Christianity. What's remarkable about Nietzsche is he says that actually, modern science has its 
+basis in this Christian ethic that you must always search after the truth and you must be 
+relentlessly honest in that pursuit, which could also trace back to Plato, for example.
+And he says, this led to a lethal situation where in one of his most striking comments, he says, 
+one day Christians were compelled to ask the horrifying question, which is to ask the question 
+against themselves, right? Is the Christian ethic about truth that I buy into itself true? And that's 
+where all the kind of problems start to begin, ‘cause this is where you start to see the scientific 
+method, that emerges from this Christian outlook, turn inwards.
+I don't know whether this is entirely true as a kind of unpacking of the basis of modern science 
+and its association with antitheism, but it's a really striking creative claim. And again, very 
+contrary to cruder atheists like a Dawkins or Christopher Hitchens who just say, you know, 
+science emerged, had nothing to do with religion and then destroyed religion.
+We don't need it anymore.
+Sean: So if God is dead wasn't a celebration, and it wasn’t, Nietzsche wasn't a champion of 
+nihilism. He was. He was diagnosing it. So in terms of the story we want to tell here about his 
+legacy, why was the death of God such a cataclysmic political event for him? Like, why did he 
+think we really need to grapple with this?
+Matt: Well, this brings us to the roots of his aristocratic radicalism, and it's a very complicated 
+question, so I'll try to unpack it as simply as I can. 
+He believes that ultimately the basis of most conventionally egalitarian systems, uh, including 
+liberalism, democracy, and socialism, ultimately is this Christian ethic, right?
+Think about Thomas Jefferson saying all men are created equal. Didn't really believe that, 
+obviously, ‘cause he had slaves, right? But still a very inspiring statement. Nietzsche says, at its 
+root, this comes from the lie, he calls it, of equality of souls that you find in Christianity, because 
+according to the Christian outlook, all human beings are sinners.
+All of us are finite, and all of us are equally loved and equally responsible before the throne of 
+God. Once you take that away, what you find is something that looks a lot more like a kind of 
+socially Darwinian universe, where Nietzsche says, of course, there are fundamental 
+inequalities between people, just like there are certain kinds of fundamental inequalities 
+between animals.
+There are some animals that are brought into the world destined to die because they're too sick 
+and they're not gonna be able to survive. And there's nothing wrong with acknowledging that. 
+It's just a kind of natural fact that we need to learn to accept. And this is again, what's eventually 
+going to lead to his convictions about aristocratic radicalism, which he sees as the necessary 
+substitute for Christian egalitarianism.
+Sean: Right. So, it's this idea that our whole notion of, of absolute moral truth was tethered to 
+God. So the real problem wasn't that, everyone is now suddenly on the road to atheism. The 
+problem for him is that we are still clinging to these absolute values about good and evil, about, 
+as you were saying, the fundamental equality of human beings.
+But the foundations for these original claims had dropped out beneath us.
+Matt: Once you take God away, the notion that human life has any kind of dignity or any kind of 
+intrinsic value at all, vanishes with it. And Nietzsche is very critical of people, let's say Immanuel 
+Kant who think that you can somehow sectorize a notion of dignity and say that each individual 
+life has an intrinsic worth, even if we don't necessarily buy into God and he thinks this is why 
+Kant, for example, needs to bring God back in, even after his critical thought had destroyed the 
+possibility of proving God's existence, uh, cuz it's so important morally. 
+Uh, and again, he says, once you deny the idea that life has any intrinsic value, let alone that 
+each person's life is of equal value relative to everyone else's, this much more competitive, 
+diverse, uh, and quite frankly, brutal world, where you have to will value to your life, into being, 
+through your own efforts.
+Sean: And it is worth saying that the claim here wasn't that there could be no morality or truth 
+without God. He’s saying the moral order that shaped our civilization that had collapsed. And 
+that was a political crisis as much as anything else. And this is so important for Nietzsche, partly 
+because he thinks it reopens this question of what humanity actually is.
+And he's trying to force this confrontation with this crisis. And given how the 20th Century 
+unfolded, it is unnerving to revisit some of his predictions about, you know, quote wars to 
+determine the future of mankind, right? Like, the destruction of established religion for him 
+wasn't the end of religion.
+This is the beginning of nihilism. Nihilism was what happens when our, to use his language, our 
+highest values, lose their value, lose their ground. And that sort of sets us adrift in this, in this 
+moral abyss.
+Matt: It's quite startling. He does predict a lot of things that have a very clear coincidence with 
+different subgroups and subcultures that we see today. 
+So for instance, he says, one of the things that I'm concerned with is that people are going to 
+give into a kind of passive nihilism where they're gonna assume there's really no point to my life. 
+So the only thing that's worth pursuing is a kind of hedonic pleasure. And so they're gonna 
+dedicate themselves to drugs and alcohol and opiates, to dull the pain, uh, of not having any 
+kind of meaning to their life. And Nietzsche is very contemptuous of this, in a way that I think is 
+deeply unfair.
+Another kind of nihilism that he thinks is going to emerge – very interesting – is this strong 
+commitment to scientific realism, because he says what you see when people describe 
+themselves as realist is a re-articulation of the idea that knowledge has some kind of worth for 
+its own sake, and the fact that I have a lot of knowledge and see the world the way that it is 
+without judging it, without evaluating it, gives me a kind of purity.  
+But the other more important predictions he makes is that there'll actually be very active kinds of 
+nihilism or active responses to nihilism that will emerge.
+Some of these more active forms of nihilism will be people who just enjoy destruction for its own 
+sake. Wanna take revenge against the world on the basis of their feelings of profound 
+resentment and alienation. 
+Other groups he thinks will be unwilling to accept the full implication of the death of God. And 
+what's gonna be interesting about them is he says they will try to produce utopias on earth. That 
+essentially they'll say, We no longer have a kind of heaven that will guarantee us bliss in the 
+future, but we are still committed to this Christian ethic of everyone achieving redemption and 
+happiness, but we need to achieve it in the world here and now.
+In one of his most remarkable formulations, he says, the truest forms of Christianity that are 
+available right now are liberalism, utilitarianism, democracy, and especially socialism. ‘Cause all 
+of these people are committed to this idea that we can carry on Christian morality, but we're just 
+going to try to achieve a more happy, equal dignified society in this life now. And he thinks again 
+that that's contemptuous, ‘cause it's not fully dealing with the implications of the death of God 
+and… he wanted to smash it.
+music 
+
+Human beings seem naturally inclined toward religion.
+
+So.. what happens to our religious impulses… after the death of God?
+
+That’s coming up… after a short break.
+ 
+
+MIDROLL 1
+
+music
+
+Sean: You know, I always read Nietzsche as saying there's gonna be a vacuum in the wake of 
+this Enlightenment destruction of God. And something's gonna fill it. And what's gonna fill it is 
+political religions, for lack of a better phrase, like nationalism, or communism or fascism, right? 
+Like, that these -isms would become the new anchors of identity.
+And human beings are deeply religious by nature, and that doesn't mean we're conventionally 
+religious. I think what he meant was that human beings have a thirst for absolutes. We want to 
+be certain, we want a horizon and a story that secures it for us. We want capital T truth, and  
+whether it's God or political ideologies, we're gonna glom on to whatever provides us with this 
+horizon of meaning.
+Whatever gives us this way to interpret events and and validate action and all that kind of thing. 
+That is partly why he was anticipating that there's gonna be a new kind of ideological 
+metaphysical conflict in the 20th century, and it is a direct result of this destruction.
+Matt: I think Nietzsche himself had complicated feelings about this, as he did about everything. 
+At points in his writing, he does seem to be attracted to this kind of aesthetic idea of being a 
+philosopher, right? Somebody who apprehends the world the way that it is, without illusions, 
+without faith, without any kind of ulterior convictions being brought to bear on it.
+But more often than not, I think you're absolutely right that he says, human beings actually 
+cannot live like that, right? We cannot live according to this aesthetic outlook. We need to put 
+our faith in something. And Nietzsche himself was one of the great secular mythmakers of all 
+time. I mean his chief work, Thus Spoke Zarathustra, is essentially a prophesizing of the 
+appearance of the Superman or the Overman who's going to redeem the history of humankind 
+because when he arrives, he's going to will great projects that will provide a sense of meaning 
+and vindication to human life. 
+So he set himself a task in some ways that no one could possibly achieve. He wanted 
+simultaneously to be honest enough to reject any potential mythmaking that wasn't firmly 
+grounded in reality, while at the same time being sufficiently honest to recognize that no human 
+being including himself could possibly live with that.
+A lot of the interesting dynamics of his texts come from the clash between these competing 
+impulses I think.
+Sean: You used the term Übermensch, right? The Superman. I think this is another term that 
+people know, and they probably know it came from Nietzsche, but they may not know what he 
+actually meant by that. What was the Übermensch for him?
+Matt: I'm not sure he knew what the Übermensch was for him. Uh, at points he suggests, I am 
+not an Übermensch and any Übermensch is gonna be necessarily stronger than me. So he is 
+not gonna look like what I project onto him cuz he is gonna will his own identity into being. But at 
+other points he has a kind of formula for the Übermensch.
+And this is actually something that goes back to his early work on the birth of tragedy, where, 
+one of the things that he points out is that with the elevation of the Christian egalitarian ethic, 
+you see the diminution of heroic values of the sort that you saw in Homeric poems, where, if you 
+think about somebody like Achilles, Achilles doesn't feel guilt over the massacres that he 
+conducts. If anything, he sees his capacity to inflict violence as a testament to his strength, and 
+as a sign that he's going to achieve immortality. 
+And Nietzsche really admires this, to a certain extent, right, where he says, there is a vital, 
+powerful, proud individual who doesn't allow the mass, who looks upon him as a frightening 
+figure, to diminish his near divinity.
+At the same time, Nietzsche also points out, uh, Achilles is kind of a dumb ass, is the only way 
+to describe it. He has two modes of apprehension, either, you know, come at me, bro, or I'm the 
+biggest and the strongest, and you're all gonna bow before me. And he does at points say that 
+one of the things that Christianity accomplished was a deepening of the human soul through the 
+inventions of things like guilt, through the invention of something like a conscience.
+And even though this had the effect of undermining these, kind of, vital, heroic characteristics, 
+he still wants to keep a little bit of that in his new Übermensch. One of the descriptions he gives 
+of him is he would be a kind of Caesar with the soul of Christ, uh, which is a remarkably 
+paradoxical formulation.
+But I think you can kind of get the idea, right? It's somebody who's going to be thoughtful and 
+reflective about the world in a way that somebody like Achilles just never is. But he's still going 
+to embody these kinds of heroic, confident characteristics. And a lot of people have tried to 
+pinpoint somebody who seems to match this configuration. Uh… but I don't think that anybody 
+who had emerged in the 20th century who quite met it to his satisfaction, so they, not all the 
+people like Hitler who claim to be a figure like this.
+Sean: One of the most, I think, beautiful accounts of Christ actually is in Nietzsche's book, The 
+Antichrist. He has this kind of begrudging respect for Christ. 
+Matt: Oh yeah.
+Sean: As this figure who established this kind of new moral universe, right? That is a supreme 
+act of creation, and that is something he admires as much as anything.
+Matt: Nietzsche often thought that having a great opponent who was worthy of you would of 
+course compel you to become stronger, and it's very clear in The Antichrist, his best book on the 
+subject. Christ was the one opponent he thought was worthy of him. Sometimes Socrates also 
+gets thrown in there, but by, you know, his very late life, he was even signing his letters: The 
+Antichrist.” About as megalomaniacal as you can possibly get, right? 
+But I think that you're absolutely right that he sees Christ as doing something that is genuinely 
+awe-inspiring, which is to create a world-historical faith that endures over the course of 2000 
+years. And one of the reasons he says Christ was able to do that, of course, is because Jesus 
+was willing to commit a supreme act of sacrifice in order to live according to his value system. 
+He died on the cross for humanity, right? Compared to him, most other Christians are kind of a 
+pale imitation, since how many Christians do you know who would actually be willing to lay 
+down their life for another, the way that Jesus calls upon them to do.
+Sean: He says that there was,but one Christian and he died on the cross.
+Matt: Exactly. Right? I sometimes think it's a shame, uh, in a ulterior universe, Nietzsche 
+actually reads Søren Kierkegaard, who he was planning on reading before he fell into madness, 
+‘cause Kierkegaard himself had very similar views of Christianity near the end of his life. 
+He would point out things like, listen, there's a fundamental difference between Christianity and 
+Christendom – this kind of conservative nationalist outlook that reduces religion down to being 
+essentially a social glue that allows people to live more easily. I think Nietzsche would've found 
+a kind of kinship with this view.
+Sean: I wanna go back to something you, you mentioned earlier, and that is really his, his 
+hatred for democracy and his contempt for egalitarianism. 
+Matt: Oh yeah.
+Sean: In your essay, in that anthology on Nietzsche, you say that we, we really ought to 
+understand him as – and now I'm quoting you – the most profound and dark defender of 
+hierarchical reaction in the modern era.
+What makes him both profound and dark from your point of view?
+Matt: First off, I just wanna say that I think that Nietzsche is the greatest reactionary thinker of 
+all time, maybe rivaled only by Dostoevsky, but what's interesting about Nietzsche is, and 
+Losurdo points this out in his book, earlier kinds of conservatives were really committed to this 
+idea that what we need in order to support a hierarchal worldview is more religion. Because 
+religion serves as a kind of social conservative glue that also sublimates human hierarchies in 
+important ways.
+So you see people like Joseph de Maistre, for instance, characterizing the French Revolution as 
+a fundamentally satanic enterprise. It's actually the term he uses in his Considerations on 
+France. Nietzsche has no truck with that. Nietzsche says, actually, and this is what's so 
+remarkable, the French revolutionaries were absolutely Christian in their orientation.
+If anything, they took Christianity far more seriously because they really believe in human 
+equality, human dignity, and human freedom for the herd, whereas these kind of crass social 
+conservatives who think that you can use Christianity just aren't brave enough to interrogate 
+their own worldviews sufficiently, uh, and Nietzsche is. 
+And he says at the root of the French Revolution, socialism, liberalism, and democracy, is this 
+Christian idea that all human souls are equal and that we should try to create a humane beatific 
+world where the criteria of justice is how well is your society doing for the least among us.
+And he says, I reject that emphatically. So we need to get rid of all these secular forms of 
+Christianity, particularly socialism, but liberalism and democracy also need to go hard and we 
+need to replace it with this system of aristocratic radicalism that is deeply committed to 
+inequality at its very core.
+Sean: Yeah, I mean, this is something you see really throughout Nietzsche's writing: this deep 
+fear of the leveling power of mass culture. And he's always trying to protect the free creative 
+individual against, to use his language, which you just used as well, the herd, and we shouldn't 
+dance around this part of it, right? 
+Matt: Oh no. 
+Sean: He pretty clearly thinks that the average person cannot face up to reality, isn't up for the 
+challenge of creating themselves, right, in the wake of God's death.
+And the average person for that reason prefers to make a virtue of ignorance and self-
+fulfillment, and that's all he sees when he looks at democracy, this triumph of the least creative.
+Matt: Absolutely, right? Uh, he thinks that what you're going to see in a democratic society, let 
+alone a liberal or socialist society, is a leveling, uh, of all higher values and a reduction of all 
+human beings to the most animalistic level, where the kind of politics that people will be 
+concerned about is how do we redistribute food to the poor more effectively?
+How do we show greater compassion to human weakness and disability? You know, he would 
+look at the kind of woke activists, uh, that people like Jordan Peterson hate so much and say 
+these are the most Christian individuals in society right now. Way more Christian in many 
+respects than the social conservatives who claim allegiance to this faith, ‘cause they really 
+believe in catering and placating human weakness.
+He doesn't want any of that. What he wants, again, is an aristocratic radical society where the 
+lower orders can be used even as slaves, and he's not afraid of that term, for the projects of 
+these truly great individuals. And the reason for this is he thinks that some people are just 
+herds, right? Uh, animals.
+They don't really contribute that much to life. They're gonna go about their merry little way, and 
+if you give them too much power, they're going to drag the truly great amongst us down. So why 
+let them? Why not reduce them to the level of slavery, and allow the great individuals out there, 
+the Napoleons or whatever, to get on with the project of producing genuinely edifying 
+enterprises in human life.
+Sean: Look, human beings are not all the exact same– there are differences between 
+individuals… anyone can observe that. It is the epitome of non-controversial. Some people are 
+stronger, faster, smarter, better-looking… But… plenty of thinkers have made that same banal 
+observation and still supported egalitarianism and liberal democracy. 
+So, despite our differences, maybe all humans are equal on some deep metaphysical level. Or 
+moral level, or whatever you prefer. Does Nietzsche actually give an argument for why he 
+doesn’t think that’s true?
+Matt: Well, I don't think that he actually provides a lot of arguments for this. Now, to be fair to 
+him, he does point out that a lot of egalitarians just treat the equality of souls as an axiomatic 
+truth, right? It's just something that's obvious and that we start our moral musings from. And I 
+don't know that that is true.
+I think that you need to develop a theory of equality that defends it comprehensively from a 
+philosophical or theological perspective, and many of us don't bother to do that. Uh, and we 
+should. 
+On his front though, arguing that there is a fundamental inequality of the souls, I don't think he 
+ever really provides compelling arguments for that, and I'm not sure that he's really confident 
+about that. Precisely because he keeps flipping through the deck, if you wanna call it that, 
+looking for the kind of right argument that will knock down, prove his point. 
+So sometimes he'll say things like, look what I mean by an inequality of the souls... it's just the 
+kind of Darwinian inequality that you see in nature, right? Where, yeah, the lambs look upon the 
+eagles and they think that eagle is a really monstrous figure because it is strong and it is 
+dangerous, And Nietzsche says, no, you know, the bird is just hungry. It probably doesn't even 
+think about the lambs. It just looks upon them as a kind of tasty snack, and almost has a bit of 
+love for them in that respect.
+And I don't think that that's all that convincing, uh, not least of which, because from a purely 
+Darwinian standpoint, cockroaches are the most evolved species, right? Because they'll fucking 
+survive. And I don't think that Nietzsche’s saying, be more like the cockroach, right? That is the 
+more evolved sensibility.
+At other points, he tends to align it with a kind of health, psychological health, or even physical 
+health. He says, look, just like there are healthier bodies and stronger bodies, so too are there 
+healthier and stronger minds. He never really provides that much of a template for this, uh, but 
+there's a kind of I know it when I see it mentality.
+And… again, I'm just not really sure that I buy this idea that people who are psychologically 
+more healthy are necessarily better than others? I'm not even sure how one would actually 
+define that, especially because a lot of great people, including Nietzsche, seem psychologically 
+very fucking unhealthy, let's put it that way, right? If anything, their deep deficiencies as 
+individuals and their profound anxieties seems to be a catalyst for them engaging in these grand 
+enterprises.
+Again, is that self-evident? I don't think so. 
+Sean: I agree.
+Matt: But, it's a remarkably creative kind of interpretation. And I think that what's important 
+about this is it does put pressure, theoretical pressure, on people like myself who are 
+democratic socialists, to defend quality on a more theoretically sophisticated basis, rather than 
+just treating it as axiomatically obvious that either people are equal, or that everybody is going 
+to accept that people are equal.
+music 
+
+What would you say is the defining belief of political right? Is it a 
+defense of tradition? A devotion to the past? 
+
+Matt’s gonna tell us what he thinks… after one last quick break.
+
+ 
+
+MIDROLL 2
+
+Music
+
+
+Sean: We tend to think of the political right as being mostly about this devotion to tradition or to 
+gradual change, but you say, no, it's really much more about a defense of hierarchical 
+organization. Why is that an important distinction for you to make, especially today?
+Matt: Well, the political right has never actually been that committed to maintaining tradition. 
+The way I define the political right is in terms of its commitments to inequality. I think that F.A. 
+Hayek is absolutely right, that to be on the political right means that you believe there are 
+demonstrably superior people in society and they're entitled to higher status, higher political 
+influence, and more wealth if you're kind of crude. 
+Ever since liberal and egalitarian movements have gained hegemony over much of the world, 
+the effort has always been to try to push back against them, which is necessarily gonna entail 
+transformative change of a certain type. 
+And this is true of even people who will label themselves traditionalists of a certain sort. Think 
+about somebody like Ronald Reagan in this country, right? Ronald Reagan instituted some of 
+the most profound transformations in the United States since FDR.
+Now, I think Reagan trains the country very much for the worse. And it's worth noting that, in the 
+so-called land of the free that he constantly talked about, there were more people in jail in the 
+USA by 1991 than there were in the Soviet Union, the so-called evil empire. 
+Or even think about somebody like Margaret Thatcher, right? Margaret Thatcher presented 
+herself as a conservative and enacted a revolutionary set of changes that were consciously 
+intended to profoundly reformat British society. So even these traditionalist figures are not 
+comfortable with retaining forms of egalitarian institutions that they don't want, and they're very 
+happy to reconstruct them or even get rid of them if that's what's necessary, even if they've 
+been around for decades.
+You know a really telling example of this also is, uh, William Buckley. I'm sure you know 
+Buckley, right?
+Sean: Sure. The founder of the National Review, a very famous American conservative writer, 
+thinker, pundit.
+Matt: He used to go on campus tours and a bunch of know-it-all professors and eggheads like 
+me would sometimes sit there and be like, you know, Buckley, like you're all about conserving 
+and preserving and tradition and all that stuff. But what about like FDR's welfare state? Isn't that 
+part of the American consensus? And shouldn't you be committed to conserving that? 
+And every single time they said that, he laughed in their face, saying, I am not interested in 
+conserving that at all. We have to get rid of it, and if that means big transformations, then so be 
+it. Right? 
+So the way that this aligns with Nietzsche is that he is very much in keeping with this attitude 
+towards change that you see on the part of the political right, but he wants to go further than any 
+of them are usually willing to go. For many on the political right, the ambition is to kind of turn 
+back the clock on liberal secularism and move back to this more Christian model of hierarchical 
+complementarity where there will be social stratification. It'll be justified according to a religious 
+basis, uh, and… we'll all get along. 
+Nietzsche says, actually the problem is that Christianity is at the base of all these egalitarian 
+movements. Any kind of religion that emerges will probably also have the same propensities 
+inherent within it.
+So what we need to do is actually commit ourselves to a kind of militant secularism, because 
+only once we become secularists that we can realize that Darwin is right, that there are 
+fundamental inequalities between people, and that those should be reflected in society.
+Sean: This is a really huge point. Most of the conservatives drawn to Nietzsche over the years 
+don't really wanna face up to his challenge, right? They may hate progressivism and they want 
+to reinforce Christianity as a moral and civilizational anchor. 
+But Nietzsche's whole point is that it doesn't work like that, right? If you're a conservative who 
+hates progressivism, you have to realize that the progressive movement for more egalitarianism 
+grew out of Christian soil. It is a secular extension of Christian morality. Nietzsche is at least 
+consistent in his contempt for that, but a lot of conservatives aren't. So they're trying to have 
+their cake and eat it too.
+Matt: Oh, absolutely. Right? I'll give two examples. Nietzsche would look at people like, say 
+Jordan Peterson or Dinesh D’Souza, both claim to like Nietzsche and also wanted to defend 
+Christian civilization. And he'd say, uh, you people may claim to believe in the Christian God, 
+but you certainly don't like his message at all. You wanna reject his message as emphatically as 
+you possibly can. 
+By contrast, all those woke secularists that you constantly rail against might not even believe in 
+the Christian God anymore, but boy oh boy, do they love his message. They absolutely agree 
+as Frantz Fanon once put it, that the wretched of the earth have God on their side and will one 
+day triumph, and should triumph, right?
+So, think about Dinesh D’Souza's recent book, United States of Socialism. He is very 
+contemptuous of people like Bernie Sanders for undermining a kind of religious conviction that 
+he thinks is essential to holding the United States together.
+But at the same time, he will directly appeal to Nietzsche to criticize things like the Scandinavian 
+social democracies by saying even if a kind of social democracy could work, as it seems to 
+there, why would we want to do that? That's a society he says, of last men, in the way that 
+Nietzsche describes, where they are concerned for the least amongst them. They don't commit 
+themselves to any kind of great projects. I want none of that. And this remarkable tension is 
+never reconciled in his book. 
+Jordan Peterson is even worse in a lot of senses, where, on the one hand, he will sit there and 
+constantly appeal to Nietzsche, describing how this death of God has led to the birth of all kinds 
+of secular totalitarian ideologies like communism or Marxism, while never taking on board 
+Nietzsche’s fundamental point that communism isn't antithetical to Christianity; communism was 
+Christianity. It's the herd gaining control of the house, and doing what they inevitably were going 
+to do, which is level it.
+Sean: It does feel like you… you sort of make a plea to the left. The left, certainly in this country, 
+has a kind of reflexive discomfort with religion, certainly in the American tradition. But part of 
+what you're saying here, and certainly part of what Nietzsche would say is that no, actually 
+contemporary progressivism is very much an heir to the Christian tradition and that that 
+presents a kind of political opportunity for the left that they probably haven't made good use of 
+up to this point, but maybe they should. 
+Matt: Yeah, I would absolutely agree with that. The most important Christian figure in American 
+history is I think inarguably M.L.K, right? And M.L.K. was a radical in almost every respect. He 
+wanted a very pronounced form of economic democracy, in addition to the elimination of all 
+forms of racial hierarchization.
+And he argued for that on a Christian basis, uh, I think correctly. And Nietzsche would've had 
+nothing but contempt for someone like M.L.K., but at least he would've said, he really gets it. He 
+understands what this message is about. It's about empowering the lower orders of society to 
+strike back against the elites.
+And I think that the left is mistaken if it assumes that there isn't a kind of power to this Christian 
+ethic that it could mobilize on behalf of more progressive causes than it traditionally has been 
+used for.
+Sean: What do you make of Nietzsche’s appeal on what we now call the alt-right. I wrote a 
+piece about this for Vox a few years ago after I heard that racist halfwit Richard Spencer tell 
+someone in an interview that he was, quote, red-pilled by Nietzsche. But this faction of 
+reactionary politics today, or right wing politics today, it's younger and more transgressive and 
+it's kind of weird and, and clearly Nietzsche is a popular figure for them. 
+And I think part of what I see happening here is Nietzsche is a very subversive writer and 
+thinker. And in the last decade or so, the left has achieved a kind of cultural supremacy, right? 
+The left is sort of influencing the culture more than the right has been.
+And that has shifted some of that subversive transgressive energy to the alt-right, or whatever. 
+And now there's this kind of punk rock delight in shit-posting anti-woke memes, and there's just 
+something really juvenile about it. But I could see how Nietzsche could inspire it, right? He tells 
+you, yeah, look, the society is all upside down.
+All these sacred cows need to be slaughtered. If you're living in a multi-ethnic society, you trash 
+pluralism, right? If you're part of a liberal democracy, then you play with fascism, right? It's just 
+negation for the sake of negation or just poking holes in sacred cows for the sake of poking 
+holes in sacred cows, and really nothing besides.
+Matt: I mean, think of somebody like Paul Joseph Watson, who once said conservatism is the 
+new counterculture.
+Sean: Paul Watson, is that, is that the Alex Jones guy?
+Matt: The very same.
+Sean: Okay.
+CLIP [Paul Joseph Watson, Feb. 2017]
+PAUL: In fact, I’ve never seen so many members of the lefty twitterati as when I tweeted, 
+“Conservatism is the new counterculture.” So I tweeted it again, and again, and again, 
+and again.
+Matt: You know, and I was pissed off at that because he says he likes things like Nirvana and 
+punk. I'm like, you know, I don't know that defending the cops is all that punk buddy, but we'll 
+put that aside for now.
+I think that that's absolutely true. And I think this tells us something important about Nietzsche. 
+Nietzsche's worry, really, was that even though God was dead and we should commit ourselves 
+to this aristocratically radical vision of the world, that was not what was going to happen.
+Uh, instead the herd would continue to triumph and various forms of secularized, Christian 
+doctrines would become evermore hegemonic. And this would lead to a leveling of all higher 
+values and the entrenchment of a very kind of nihilistic outlook over the world. 
+And if you view these kinds of ideas as hegemonic, culturally, the way that you just described, 
+you can understand why you could turn to Nietzsche as a kind of countercultural figure, and 
+present yourself as a kind of right wing punk, or right wing countercultural figure. 
+Now I think a lot of this is done in bad faith and it's extremely crude. Uh, and we can talk about 
+how the right misappropriates Nietzsche, uh, but there is a kind of affinity there to his work that 
+we shouldn't deny.
+Sean: What do you think is the primary way in which the alt-right misappropriates or abuses or 
+misreads Nietzsche?
+Matt: Richard Evans in his Third Reich trilogy points out that Nietzsche had a profound 
+influence on fascism. And this is something that has been better understood by historians than 
+by philosophers. You know, we like Nietzsche and we wanna read him. And the idea that he 
+was aligned with the most sinister movement of all time and profoundly influenced them is a 
+deeply discomforting thought.
+Sean: Yep.
+Matt: But it is something that should give us pause because I think that Nietzsche was not a 
+fascist thinker in some respects. But he definitely provides ammunition for far right movements, 
+very overtly in many other respects. 
+He wasn't a far right thinker in the sense that he was deeply contemptuous of nationalism, 
+which was just another herd morality that was emerging by weak people, because they weren't 
+able to will their own destiny as individuals. They needed to kind of project it onto this collective 
+identity that would then be the standard bearer for great politics going forward. 
+Uh, and some of the things that I admire about Nietzsche, is just how much fun he'll poke at 
+things like antisemitism, German nationalism… So in these respects, we can criticize the far 
+right for its appropriation of Nietzsche since it almost invariably turns in this kind of nationalist 
+identitarian, racist direction. 
+On the other hand, there is no denying that a person, again, who says we should train a group 
+of slaves that will be at the service of the truly great people who will demonstrate their arrival 
+through great politics of violence: that can be very conducive, to a kind of far right, alt right 
+politics, and most of the people who've taken up his mantle, people like Richard Spencer, are 
+inconsistent.
+But they're not wrong to assume that Nietzsche provides a license for violence, exploitation, 
+slavery, radical forms of inequality. Uh, and I think that we need to be attentive to that in a way 
+that we haven't been in the past.
+Sean: Well, that's sort of the other side of this. You know, if you're someone stewing in 
+resentment and you're searching for a psychologically satisfying explanation for your own 
+discontent, this punk rock side of Nietzsche is pretty intoxicating. You read 'em and you're 
+thinking to yourself, well, the problem isn't me. Right? It's, it's this unthinking herd out there, 
+right? 
+The world is rejecting me because I refuse to dance to the same conformist music as everyone 
+as everyone else, right? When of course, the reality almost invariably is that the person thinking 
+that is not the Übermensch he thinks he is. And yes, it's usually men. 
+But if you're the type who doesn't like what the world's become or becoming, it is not hard to see 
+the appeal of Nietzsche's obsession with decline and decadence. And, like, the Ayn Rand 
+fanatics who, who read her work and think they're John Galt. Right? And society is stifling their 
+greatness.
+You're not, I'm sorry to say, actually,
+Matt: Whenever somebody puts down on pen and paper that we should have an aristocratic 
+and highly elitist society, it's a pretty good bet that they think they're gonna be part of that elite, 
+right?
+Sean: Of course!
+Matt: And, the problem with texts like this is of course, it invites readers who are sympathetic to 
+the text to imagine that they will also be part of that elite.
+Like, you very rarely will find Ayn Rand fanatics who will sit there and say, I'm not John Galt. I'm 
+one of the second-handers. Same is true. You very rarely find people who read Nietzsche's 
+politics, sympathetically imagining while I am part of that herd and I will be the slave. And that's 
+all well and good, right?
+But I think this is where I would offer my own critiques of Nietzsche. And I think we need to be 
+critical of him as a philosopher, in a way that maybe we haven't before. One of the things that's 
+interesting about Nietzsche is he's a profound diagnostician of ressentiment, or resentment, but 
+he only ever locates resentment on the political left, where it's envious people looking up and 
+wanting to bring others down. 
+He very rarely talks about the kind of resentment that can emerge on the political right. Uh, 
+which I think is by far the most potent kind of resentment that you find in politics today.
+And the resentment that you see emerging on the political right very much is this kind of 
+aristocratic attitude, that, I am entitled to superior status relative to others. And this is being 
+taken away from me by the losers of society. I can't quite understand how, but they keep 
+managing to accomplish that. And I am embittered about that and I will do something about it. 
+Sometimes this can take extraordinarily malicious forms. Probably the worst example of this 
+kind of right wing ressentiment that I found is George Wallace in the 1960s, uh, who was the 
+governor of Alabama. He once said that if the Supreme Court will actually enforce 
+desegregation in schools, then I'll just get rid of all public schools in Alabama. My white children 
+will not go to school with Black children. And if that's the kind of equality that we're going to see, 
+then no one will go to school.
+And this is just something that Nietzsche never really contemplates. This idea of aristocratic 
+resentment. And I think we need to be much, much more pronounced in diagnosing that in our 
+society right now. 
+The real creatures of spite and malice that exist right now usually aren't people on the political 
+left. There are plenty of them in the Trumpist movement who think that this is their country. They 
+were entitled to it. They're better than others, and they will not allow the losers and immigrants 
+of the world to take it from them.
+Sean: I mean, you're a teacher, I assume you, you teach Nietzsche. And, and I'm not asking 
+you, you, like, you, how do you counsel your students not to read Nietzsche? I mean, I think you 
+and I both pretty firmly believe he is absolutely worth reading. Whatever you think of him.
+Matt: Oh yeah, everyone should read him. 
+Sean: He's indispensable to trying to make sense of the pathologies of, of modern politics and 
+much, much more.
+But when you do encounter someone who's younger, like we once were, but when you do 
+encounter someone who's being entranced by Nietzsche in some of these ways we've 
+described, what do you say to them? How do you tell them to read Nietzsche or to take 
+Nietzsche – or do you at all?
+Matt: I do. Yeah. I mean, look, I teach a class on the political right? And Nietzsche is an 
+important module on that. And I think that Nietzsche can have a profoundly beneficial effect on 
+students by getting them to ask questions that they didn't before, by instilling in them a deep 
+sense of intellectual honesty, and really just by fostering their creativity, right?
+I mean, that's something we didn't talk about, but Nietzsche has been a profound influence on 
+all kinds of artists through the 20th and 21st century, most of whom I really admire. People like 
+James Joyce, for example. So if anything, we should be encouraging people to read more of 
+Nietzsche.
+But we need to also insist that they read him carefully, and recognize that there is a deep 
+politics in his work. It is a politics that is fundamentally contrary to the liberal and egalitarian 
+values on which your society is predicated. And I think that there's a lot of, I'll just use the term 
+evil, in what it is that he's trying to accomplish politically. And we should be critical of that, while 
+also accepting the fact that there are extraordinary gems in that work, as well.
+Sean: What I've always said about Nietzsche is that, and I used to teach him as well, he can 
+only take you so far. And if you're concerned with politics, he will lead you into an abyss 
+because he can't offer, doesn't wanna offer, any basis for meaningful collective action.  
+His thought necessarily collapses into a muddled individualism, which is why he, I think, 
+ultimately becomes much more useful to artists than to politicians and legislators. But he 
+remains incredibly important and incredibly dangerous because he was right about quite a bit, 
+and we are still very much living in the shadow of his destruction.
+Matt: I mean, along with Marx, he's, um, one of the great diagnosticians of the crisis of 
+modernity that emerged in the 19th century. And he's indispensable to understanding that.
+The way that I go about rebutting him is by saying, look, I take seriously this idea that 
+ressentiment can lie at the basis of all human actions.
+Uh, and I don't think that there's any denying that there's plenty of ressentiment on the left as 
+well. Anyone who sits there and sees those “burn the rich” or “eat the rich” signs can't help but 
+be a little bit worried about that. But I think that progressive causes, unlike what he thinks, 
+actually require quite a bit of strength, creativity, and will to go into them if they're going to be 
+successful. 
+And I think he profoundly underestimated the emotional importance of love as a kind of 
+empowerment, including universal love. Whether you understand that in a Christian, a liberal or 
+a socialist way, that's the kind of emotional basis on which I'd want to ground my politics, not 
+this kind of aristocratically radical sensibility.
+Sean: I think that's a, that's a good note on which to end. 
+This was awesome, man. I love this stuff, so I appreciate you coming in to help me think it all 
+through, Matt.
+Matt: Yeah. Thanks. I had a great time.
+music 
+
+
+OUTRO/CREDITS:
+
+Erikk Geannikis is our producer, Patrick Boyd engineered this episode, Alex Overington 
+wrote our theme music, and A.M. Hall is the boss. 
+I think it’s really easy to write Nietzsche off. But he, as much as anyone – maybe better 
+than anyone – was willing to stare down some of our darkest instincts, some of our 
+worst impulses… and really reckon with them. And to go on that journey with Nietzsche 
+– looking into the abyss, as he would put it – is kind of a thrill, as a reader. And 
+whatever one thinks of Nietzsche, I think he’s always going to be worth reading.
+But tell me what you think. Drop us a line at the gray area at vox dot com. 
+And if you appreciated this episode, as always, share it with your friends on all the 
+socials.
+New episodes drop on Mondays and Thursdays. 
+
+Listen and subscribe.
+1

@@ -1,0 +1,731 @@
+﻿Sean Illing + Jerusalem Demsas | The Gray Area | 1/19/23 
+PUBLIC TRANSCRIPT
+TITLE: The roots of homelessness
+
+SUBTITLE: What do we owe our fellow Americans when it comes to shelter?
+
+DESCRIPTION: Sean Illing talks with writer and reporter Jerusalem Demsas about the 
+causes of homelessness in America. They discuss our ideas of home ownership, and how 
+our country’s cultural expectations and policies are working against us. 
+
+Host: Sean Illing (@seanilling), host, The Gray Area
+Guest: Jerusalem Demsas (@JerusalemDemsas) staff writer, The Atlantic
+References: 
+	“The Homeownership Society Was a Mistake” by Jerusalem Demsas (The Atlantic; 
+Dec. 20, 2022)
+	“The Obvious Answer to Homelessness and Why Everyone’s Ignoring It” by 
+Jerusalem Demsas (The Atlantic; Dec. 12, 2022)
+	“The Billionaire’s Dilemma” by Jerusalem Demsas (The Atlantic; Aug. 4, 2022)
+	“Stuck! The Law and Economics of Residential Stagnation” by David Schleicher 
+(Yale Law Review; Oct. 2017)
+	“Black Americans And The Racist Architecture of Homeownership” by Alisa Chang, 
+Christopher Intagliata, and Jonaki Mehta (NPR; May 8, 2021)
+ 
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area. Subscribe in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Editor: Amy Drozdowska
+	Engineer: Patrick Boyd
+	Editorial Director, Vox Talk: A.M. Hall
+
+
+INTRO:
+Sean Illing: Think about where you live. Why do you live there? And since 2020....do you find 
+yourself wanting... a different home, somewhere else?
+
+Since that landmark year, the American home buying and rental markets have gone from hitting 
+record lows…. to exceeding record highs. 
+
+And pandemic-era economic changes are the driver. Many of us are now working from home, 
+and have re-thought where we can and want to live…. Which means people are moving. In fact, 
+there are fewer homes available for sale than ever -- there just isn't enough supply for all the 
+demand. 
+
+And that has all kinds of ripple effects – especially on those who are unhoused or on the verge 
+of losing their homes. 
+
+In this country, there isn't a safety net if you're on the edge. So, the number of people 
+experiencing homelessness is on the rise. 
+
+Why can't we keep up with the supply of houses....and what do we owe our fellow human 
+beings when it comes to shelter?
+
+ID: I’m Sean Illing, and this is The Gray Area.
+
+music 
+
+My guest today is Jerusalem Demsas. She’s a staff writer at The Atlantic and she used to be a 
+policy reporter here at Vox…you might even recognize her as the former co-host of The Weeds.
+
+Demsas is a housing policy expert….she can explain the market – past and present – better 
+than anybody I know. But, as you'll hear, she's also keenly aware that human beings are at the 
+heart of housing...and that where we live, or can't live… has a dramatic effect on our lives.
+
+So I invited Jerusalem on the show to talk about all this… and the first thing I wanted to know 
+was… how did she get drawn in the first place to write about… housing in the first place?
+
+music
+
+
+Jerusalem Demsas: It's really funny cuz like you can obviously come up with a bunch of stories 
+for why you are where you are. But in this particular case, it actually is quite a direct story. Like I 
+was in, I was studying economics in undergrad and I was in a labor market economics class and 
+there was like an extra assigned reading for something and it was a paper by a Yale law 
+professor called David Schleicher.
+And it was a paper called "Stuck". And this was in 2017 and so it was right after Donald Trump 
+had just won the presidential election, and was about to be sworn in, I believe. And so everyone 
+was like, there were all these theories floating about, around, what's going on in real America, 
+like what has happened to upend conventional political thinking around who was going to win 
+this election. 
+Basically the premise of the paper was that for a long period of time, moving from an 
+economically depressed region to one that was growing would always pay off from an economic 
+standpoint because even though the cost of living was higher, the wages you were earning were 
+so much higher than what you would've been earning, that it made sense to move.
+So if you're a janitor in New York City, you're making a lot more and your standard of living is a 
+lot higher than if you are a low wage worker in a rural town. That doesn't have the same kind of 
+economic opportunities. But over the course of the late 20th century, as we're seeing a lot of 
+things in particular, as we're seeing the cost of housing grow, this script begins to flip that like, 
+yes, you see a lot higher wages, but for more and more people, the cost of living grows to the 
+point that you don't actually see this pencil out. 
+And so what that means is that a lot of people end up being stuck in these communities where 
+there aren't really good jobs, but the good jobs are in a place where the cost of living is too high 
+for them to access it. And, you know, I was like, you know, a senior in college and I was like, 
+wow. Like I have figured out exactly why, all of these people voted for Donald Trump. And I had 
+this like a monocausal explanation for a couple of months. But the more I got into housing, the 
+more I realized that there's just really under. Or, or misunderstood and also, um, largely ignored 
+phenomenon of, of what's going on in our housing market.
+And it's really, really important and it plays a really big role in how people's lives turn out. 
+Sean Illing: Is there a simple way for you to sum up what's actually broken about housing policy 
+in this country other than the fact that the rent's too damn high?
+Jerusalem: The fundamental problem is that housing policy is not oriented around making sure 
+that there is affordable, accessible housing for everyone. And there's a bunch of things that 
+stream out. 
+Because we are not focused on that, we're focused on a bunch of things, whether it's preserving 
+the way communities look right now, or increasing property values in some areas, or whatever it 
+is, because our focus is not affordable accessible housing, you have a bunch of different 
+policies that spring from that, that end up making it impossible for people to live where they 
+need to live. And I think it can sound really wonky when we're talking about things like zoning 
+regulations or housing finance, or how to finance affordable housing or whatever it is.
+But at the fundamental level, it's just like, people should be free to live where they want to live 
+because that's like the foundation for a good life. Picking your own community or being able to 
+stay in a community that you're rooted in. It is the foundation for your spiritual life or your, like, 
+personal life or the people you end up wanting to be friends with or marry or whatever it is.
+And if you're not able to make the choice about where you live under a housing market that is 
+basically excluding you because of prices, because of rents, because of fundamentally 
+insufficient supply and insufficient diversity of types of housing, then you can't make that choice.
+You're being pushed to live where you can afford to live, and that means your community is 
+being chosen for you. It means your life is being chosen for you in a way that you have very little 
+control over.
+Sean: So, I'm sorry if this is a stupid question, but we're not afraid to ask the stupid questions 
+around here, so I'm gonna ask it anyway. 
+Do we even have a clear definition of what - to use, the phrase, I think you used – what 
+affordable, accessible housing actually means?
+Jerusalem: Yeah,it's a big question because I mean, it depends, it's like affordable for who, like 
+what do we mean by this? And, the federal government has this idea of what's affordable to 
+someone with a certain percentage of the area median income.
+So like someone with 50% of the area median income. So who's doing worse than a lot of 
+people in their community, what's affordable to them is obviously very different than the 75th 
+percentile or 150% or whatever it is.  
+
+But then also there's this question of like, how much of this is bringing down the cost and how 
+much of this is a problem of poverty. Like, often people are talking about affordable housing, 
+they're talking about it from a middle class standpoint. Like, they're talking about how can I 
+afford a first starter home that's 300 or $400,000? Um, and for a lot of people who are working 
+in the housing space, when they're talking about affordable housing, they're really focused on 
+low income renters, people who could maybe afford, you know, 300, $400 a month to pay on 
+rent.
+And so, I agree that this is like a very nebulous term, but I also think it's just like this, the 
+animating idea that like regular people should be able to afford housing and shelter is like not 
+really what's at the center of what we're doing today,
+Sean: I know you've argued that a, a big part of the problem is this, you know, mythos of home 
+ownership in this country and we'll, we'll get to that, uh, a little bit later. I just have to say that I, I 
+kind of hate you for making this argument because I'm a homeowner and I know you're correct, 
+but I'm already decked deep in this sinkhole of money and I can't back out now, so I'm just 
+gonna lean into my cognitive dissonance, I guess.
+Jerusalem: I think in general with these conversations, because as I've mentioned, housing is 
+so personal to people. I wanna make sure, like I am often just trying to talk about housing policy 
+at a macro level. I think the individual decisions people are making for their lives or like == 
+you're, we're all constrained by what's available to us. And also there's a lot of good reasons to 
+be a homeowner. 
+So no shame. No shame.
+Sean: Just don't buy a house with foundation issues. I'm gonna drop that nugget. I'm gonna 
+moonwalk right outta the virtual room. 
+I wanna ask you how much of the homelessness problem in this country – and that's something 
+I really wanted to to to dive into in this conversation – how much of that problem is the direct 
+result of our housing policies? In other words, how much of the homelessness problem has 
+been effectively engineered in this country?
+Jerusalem: Yeah, this is a really good question, and I think it requires taking a step back to 
+think about what we mean by causality. Like what causes what. Because if you talk to someone 
+you know on the street or someone who's at a shelter or someone who is couch surfing, and 
+you say like, Hey, like how did you end up in the situation? 
+They're gonna tell you a story about individual vulnerability that is completely true. They're 
+gonna tell you about maybe a divorce that they went through that cut their income in half. 
+They're gonna talk about a medical emergency that they went through that really impacted their 
+finances, a lost job, a predatory landlord that evicted them and left them with a black mark on 
+their record that made it difficult for them to rent again.
+And all of these things are true, for that person. Like that's what happened. 
+But when we think about macro changes across time, you have to look for what's changing, at 
+the societal level because there have always been predatory landlords. There's always been 
+poverty, there's been lots of divorce. There's been all these different things. 
+But the rate at which we're seeing folks become homeless, now it's around 500,000 people in 
+this country are homeless. And more importantly, there are tens of millions of low income 
+renters who are always at that brink of potentially becoming homeless if they face one of these 
+emergencies. That is new.
+And the cause of that is when you look across the country, there are states that are high poverty 
+that don't see the kinds of homelessness that places like California and Washington and 
+Massachusetts see. When you look at places that have high rates of mental illness and high 
+rates of drug addiction, they don't see the level of homelessness.
+What you do see across the country is that what determines whether a state sees or an area 
+sees high rates of homelessness is whether it a sufficient amount of housing available to very 
+low income renters. And whether the very bottom of the market, there are renting opportunities 
+available for people who are in dire financial situations.
+And if those exist, like in places like Detroit or in Philadelphia where there's a lot of housing 
+relative to what we see in places like San Francisco or LA or Boston or DC, you don't see that 
+rates of homelessness, even if there's poverty, even if there's mental health issues, even if 
+there's drug addiction – because the housing is available.
+And it sounds really simplistic, but like the problem of homelessness is in the name. It's homes. 
+People don't have them. And I think it's really reasonable why people don't conceptualize it this 
+way. If you come across homelessness in your daily life, you're likely to experience it or 
+remember it in a way that's pretty jarring. Like maybe you see someone experiencing a mental 
+health crisis, or you see like drug addiction going on, or you see something that seems 
+extremely jarring to you in public. And that becomes your vision for how homelessness functions 
+in society. 
+But most homelessness is like not seen that way, right? You don't notice someone who's 
+crashing at a motel. You don't notice someone who's couch surfing in their friend's apartment, 
+kids being separated to different family homes because there's no central place where they can 
+all live together. Those things are really hidden and that's what makes up the bulk of 
+homelessness.
+Sean: You know, and I appreciate that you go there with this, you know, because it's like, you 
+know, you can ask like, so, you know, what's the, what's the link between housing, affordability 
+and homelessness? 
+ And, of course, some might roll their eyes and go, well, if houses are too expensive or if we 
+don't have enough, then there will be lots of people experiencing homelessness.
+But it is more complicated than that. And part of the problem is that a lot of us probably have 
+preconceived notions about what it means to lose your home and what that looks like. So we’re 
+missing a lot of what’s going on here. 
+Jerusalem: Yeah, and I think it’s sort of like a funnel, right? Like you have at the very top, a 
+large number of people who are in unstable housing situations who are low income, for whom a 
+specific emergency might push them into homelessness. 
+And then of those people, like a certain number, if there's not enough housing, will fall into 
+homelessness. And then for many of those people, it'll become much more worse, whether 
+because of individual vulnerability, like the ones we talked about. Or because of just bad luck. I 
+mean, luck is also a big factor in this. When you talk to people who are homeless, you're just 
+like, wow. Like that's just like insanely unlucky, that that would happen to you on top of all these 
+things.
+And for those people, when these populations are large enough, then you get a larger growing 
+number of people who are chronically homeless, who are experiencing extremely difficult things 
+on the street, and then become exposed to potentially really harmful drug situations or criminal 
+activity and become victimized themselves and enter that kind of cycle of poverty and violence.
+And that's a situation where, I think it's really important to realize that people see this and they're 
+saying like, okay, like I just don't get why the government can't get these people off the street. 
+It's only 500,000 people, and that's actually a quite manageable sum for the entirety of the 
+United States, right? Like, that's not actually that many people. When you think about all the 
+government services that are available.
+The problem is, of course, we have to address the flow of people who are falling down that 
+funnel. You have to stabilize those people so we can actually help the chronically homeless, the 
+folks who are in shelters, to get outta that situation.
+Sean: Okay, so if we have a supply problem, then that means we have a building stuff problem. 
+Which leads to the question, why is it so damn hard to build things, to build houses, more 
+houses in this country? Why is it so much more expensive here than it is in other places?
+Jerusalem: Yes. So the fundamental reason, and in particularly in these really high cost of 
+living cities and counties and suburbs, where the house, the homelessness crisis is most acute, 
+is because it is illegal to build housing. 
+And I wanna be clear here, what I mean is that in these places, you own a single family home 
+that is on a lot where the city has said it must be minimum 10,000 square feet. And you are not 
+allowed to tear that home down and build a house that is 9,000 square feet.
+You own this home and it is illegal for you to do this. And that is compounded by regulation after 
+regulation. It's illegal for you to build a duplex on that lot. It is illegal for you to build a mother-in-
+law suite in your backyard on that lot. And what that does is that it compresses the number of 
+housing opportunities that are available to people.
+And it also inflates the size artificially of the houses that are allowed to be built, which means 
+that houses more and more are built to, over the course of the 20th century, we see houses 
+being getting larger and larger. It used to be that you could find tons of starter homes, 1500 
+square feet, that would be like a first house that someone would buy, maybe when they're in 
+their late twenties, early thirties.
+The supply of those starter homes is like dwindling to near non-existence, especially in these 
+areas. 
+What that means is that it becomes, you're raising the floor for what it means to buy a house. 
+Sean: Is part of the story there cultural, like has home ownership became more and more of a 
+status symbol, I guess in some sense? That the drive to create bigger and bigger and bigger 
+houses and have more space between houses, that this is all sort of like compounding and 
+contributing to the problem.
+Jerusalem: I think it's hard to tease out the story of zoning regulations is, alot of it has to do 
+with wanting to keep areas segregated by race and by class in particular. And even when that 
+gets struck down, there is a desire to maintain a certain type of community, which includes kind 
+of racialized and classist ideas. But also is just like, those ideas inform then what we think of as 
+a nice neighborhood. This idea of like a white picket fence, every house kind of looks the same. 
+That's also informed by how our transportation policy was created as well. 
+And obviously there would be big houses in America regardless of this. It's a very wealthy 
+country we live in and there are a lot of people who could afford to have bigger houses. 
+But there are a lot of people who can't, who used to be able to buy their way in or rent their way 
+to greater degrees of prosperity. And that being eliminated, I think has a lot less to do with 
+culture and a lot more to do with the literal policies,and both unintended and intended effects of 
+making it illegal to build even small single family homes.
+music 
+
+It’s not just money…homeowners employ a ton of tactics to maintain their 
+property values. 
+
+Coming up after the break, Jerusalem and I discuss the sneaky but 
+consequential world of environmental protections….
+
+ 
+
+MIDROLL 1
+
+music 
+
+Sean: Correct me if I'm wrong on anything here, but you know, other countries allow the state to 
+regulate and enforce environmental standards or building codes or that sort of thing. 
+But here, the whole process – I'm not sure if it's right to say that it runs through the legal system 
+– but the process is vulnerable to the legal system in ways that just continually undercut efforts 
+to build things.
+Jerusalem: Yeah, so, in the US, one example of this is there's a law called the National 
+Environmental Policy Act. And it mostly applies to like big transit projects or just large, very, very 
+large projects that might be done, energy projects or things like that. And then at the state and 
+local level, there are environmental regulations that are modeled off of this. 
+What ends up happening is that you create this framework for which developers or individual 
+property owners have to justify to the state, that the thing that they're trying to build does not 
+violate some sort of environmental desire. 
+And that sounds good in practice, right? Like you think like, oh yeah, it makes sense. Like when 
+someone's building something, we don't want it to harm the environment. 
+But what's actually happening is that, things that are obviously not going to be harming the 
+environment like a bike lane, like a solar project, like are being stopped in protection of things 
+like parking lots, or, you know, single family homes, which we know increase car dependency 
+and make it more difficult to transition to a more clean energy future. 
+And so what ends up happening is that on project by project level, you are creating these 
+regulations that are really, really onerous. We know that multifamily housing is more 
+environmentally friendly. One, because heating costs and cooling costs are shared amongst a 
+bunch of different people. Like I live in an apartment building, even if I turn my heat off, it doesn't 
+get that cold in here because my neighbors have their heat on. The building itself is heated in 
+the hallways and things like that. That shared environmental benefit is obviously baked in. 
+But in other countries, right, we trust the government to say, the government itself will have the 
+ability to make the determination about whether or not something is environmentally friendly or 
+not. And instead in our country, what we do is we create this avenue for people to sue. And so 
+you can sue and say, Hey, I don't think that this environmental impact statement or this report 
+was filled out properly. And then you just, instead of actually pursuing the end of environmental 
+protection, what you've done is create a space for people who have access to lawyers, very 
+wealthy people, interest groups.
+Sean: Right. 
+Jerusalem: And it's one of those things where it's like very clear that these laws are being used 
+and a ton of regulations, which sound really good in theory, are actually being used for bad 
+ends.
+Sean: Well, I mean this intersects with an argument you've made – I think correctly – about the 
+contradictions of liberal ideology. You know, liberals want housing to be affordable, especially 
+for groups that have been excluded in the past. 
+But that bumps up against the material interest of incumbent homeowners who use the system 
+of laws and regulations we've created in the name of transparency and fairness –but they use 
+them to protect their own wealth. 
+And I think that's just a fact of the matter – and I think it's important to just call it out. And you do.
+Jerusalem: Yeah, I definitely think this is one of the things that's most important to recognize is 
+that people really are good in recent decades at identifying regulatory capture, right?
+But what we've become not very good at seeing is the way in which we ourselves or people who 
+are regular voters can also capture parts of government and make it difficult to do things that 
+are broadly popular or broadly necessary for the rest of us.
+So, for instance, you know, homeowners, there's nothing wrong with being a homeowner. Of 
+course not. But we've created a system in which we've pitted certain people's interests against 
+everyone's interests. And what that means is, like, some groups of homeowners may not want 
+people living there who are very, very wealthy, may not want poor people in their community.
+I wrote a story last year about how this very, um, expensive exclusive town in Atherton, 
+California. This guy named Mark Andreessen, he is a venture capitalist, he's a billionaire.. He 
+has written a lot about how government is captured by incumbent interests, how we need to 
+build big things. He and his wife submitted a public comment in his town of Atherton opposing 
+the building of multifamily housing, saying that it would destroy property values, and raising a 
+significant other concerns.
+And it's just that, it's a situation where, we have created a system where like someone like that 
+can recognize, of course, on a societal level how harmful it is to stimi the government in this 
+kind of opposition. And how much it makes it difficult to build things that are necessary, whether 
+it's housing or infrastructure projects or renewable energy or whatever it is.
+But at the same time, on an individual level, feels empowered to stop that in their own 
+community. And if there are people in every community who wanna stop that, they're not gonna 
+feel individually responsible for the collective effect. But that system is making them individually 
+responsible. 
+And within liberalism, I think that you just mentioned, I think there are these competing impulses 
+of like, feeling a sense of urgency around climate change, feeling a sense of urgency around 
+racial justice and class justice and economic justice.
+And at the same time, feeling a sense that there should be community control, which prevents 
+the government and prevents the private market from building things. And it's a balance. There's 
+a level at which you want both of those things to exist, but we've shifted so far in the direction of 
+community control at this point where, if there's a scarcity of something, rich people are gonna 
+get it, you know,
+And so, it's people who are in the middle class, it's people who are poor, who are gonna be 
+really screwed in that situation.
+Sean: yep.
+Jerusalem: Yeah.
+Sean: Yeah. Fancy that, huh?
+So you just mentioned an example from California and, you know, California is what everyone 
+likes to point to as the case study of what's wrong or broken in this space. Do you think that's 
+why, I mean, does California for lots of reasons, exemplify or distill all of these problems?
+Jerusalem: I mean, I think with California, they're just a little bit ahead of the curve of what 
+what's coming down the pipe for a lot of places. 
+So the places that are experiencing the worst of the housing crisis are the places that have seen 
+the most economic growth. And that means a ton of people have tried to move there to share in 
+that economic growth, to add to that economic growth, to take part in the dynamism that exists 
+in these places.
+And California has not one, but two major centers of that, both Los Angeles and San Francisco. 
+And it benefited from that for a long time. It benefited from that. That is the one of the growing 
+parts of the entirety of the US economy, let alone the California economy, is this pull to have 
+really great workers come in and economists refer its idea as agglomeration economies, when 
+workers come together, when workers come together and firms come together and discover that 
+they're more productive together than they are further apart. That's why you get a Silicon Valley. 
+That's why you get like a Hollywood, people come together and they learn from each other. 
+They spin off and create new things that are related to those fields. 
+But on top of that, it's not just those people, right? When those people all move there, they 
+demand a bunch of services and goods. They demand lawyers and legal services. They 
+demand doctors and nurses and hospitals. They demand taxi drivers, new restaurants, all these 
+different things. So you create a bunch of different jobs that aren't just directly related to that 
+field. And while California enjoyed that growth, it didn't wanna accommodate for that growth by 
+building sufficient housing.
+Now, other places are also growing, right? Like it's not just the California cities. And the other 
+superstar cities with similar phenomenons like Seattle or Boston or DC or whatever it is. You 
+now see cities growing like Austin, Texas, like Phoenix, Arizona, like Miami, like, Raleigh – all 
+these different cities, Nashville. Like you see these cities also experiencing increasing amounts 
+of growth, both because they have things that they're pulling industries to. 
+But also because California, Seattle, all these other places haven't accommodated for workers, 
+and workers are forced to move. And of course in the last couple of years, the new 
+phenomenon of remote work has allowed for more and more people to forgo living in these 
+places and still benefit from those jobs. 
+And so you see a lot of growth happening. And you see a lot of the patterns being repeated, 
+right? Like you see in Florida, Florida State government, which is a place that has, you know, 
+traditionally really been telling people – Move here. We want that growth. We're excited for it –  
+trying to block local efforts to build more housing. 
+So it's not a thing that I think is specific to California. I think that California was just, and the west 
+coast in general were just, ahead of the curve in the economic experience.
+Sean: So is the, you know, the Nimbyism problem you were just talking about with Mark 
+Andreessen, you know, that's 'not in my backyard' for those unfamiliar with the term – is that 
+phenomenon unusually bad in California? Or are we just more aware of it in California?
+Jerusalem: Two things here. 
+One is that not in my backyard usually refers to someone who is in favor of something in 
+general. Like, you're in favor of affordable housing in general. But you're not in favor of it in your 
+backyard or like your neighborhood or something like that. 
+So I think that that's really evident amongst liberals, because I think we, like, often do talk a lot 
+about wanting more affordable housing or wanting more clean energy. 
+But the idea of just in general, this idea of opposition towards new things, towards change, 
+towards growth, I think it's just like a human thing. I think we're all kind of like NIMBYs in that 
+way, right? If you buy a house in a community, you kind of like the way that it is. You could 
+imagine certain things changing for the better. Like maybe you want more trees or you want, 
+like, the curb to be repainted or whatever it is. So you have things that you can imagine 
+improving it, but like they're small things usually, or like obvious improvements that are not really 
+structural, big changes that are different than what you would've imagined when you first bought 
+the house.
+And so I think that that's a pretty human element. And what you want in a society is a 
+government which can mediate between desires for stability, and also accommodate and 
+encourage healthy growth and change. Because I think that when people become too attached 
+to a community as a series of buildings or infrastructure, they can forget the thing that makes 
+their community great are the people, right?
+I think about this a lot, in like, I grew up right outside DC and you know, you can just trace the 
+growth of where new immigrant food pops up based on the commercial rents in an area. And it 
+used to be that, like, there were lots of cool, new, amazing restaurants popping up all around 
+the inner core of DC all the time.
+And now, I mean, for the last decade at least, all of them have been in the suburbs and further 
+and further out from the core. And so are you missing out on cool new, amazing things that new 
+people can bring you? Because places only really change and experiment when they're 
+available to people for whom changing and experimenting is what you wanna do.
+So you're young, you don't have a lot of money, you need to rent somewhere cheap. You can't 
+have that, then you're not going to have that kind of dynamism.
+Sean: Yeah. And look, I don't wanna paint every person who opposes developments, you know, 
+in their neighborhood as cartoon villains. I mean, I get that people move to certain places, to 
+certain neighborhoods because they like the aesthetics of that place. Or they like the community 
+in that place. And these things are fragile and they can change or go away and make the place 
+different or unrecognizable. And that is a not trivial concern. I do just wanna say that. 
+How much of this do you think is just a scarcity problem, right? This is a country without social 
+safety nets, where everyone is kind of on their own, where the only way to secure your future 
+and your family's future is to just acquire as much wealth and resources as possible.
+And it's not hard to see how that imperative collides with the housing crisis. You know, people, 
+they're defending their property values. And in a country where homes are such a huge financial 
+asset, I get it.
+Jerusalem: Yeah, I think a few things here. 
+One is that it's not actually clear to me that people are actually working in service of their 
+property values here. Let's take that example of like, you own your own property and a 
+developer comes to you, Sean, and says the city has just upzoned and they now are allowing 
+me to build a duplex on your lot. And now your lot is worth a lot more to me than it was before 
+when it was just a single family home. 
+And I say, Sean, I'll pay you $200,000 more – me the developer – than what you paid for it, to 
+buy your house and turn that into a duplex.
+Your property values have gone up because it's become more possible to build more housing. 
+So, it's not really clear to me that people are actually acting always in their financial interest 
+when they do this. We've created this idea in America in general that like apartments are 
+blights, that people who live in them are poor, they're immigrants, it's dirty, those are slums.
+This is something that's been developed and pushed both by, like, the court system and also 
+politicians and cultural rhetoric. Which is not something that was inherently going to be that way. 
+It was definitely something that was created intentionally. 
+But, that first point I think is really important that, like, I don't think people are often acting in their 
+best financial interests. Especially when you factor in, when you grow older, there's now tons of 
+people. Like AARP is now an organization that's been working a lot on housing supply because 
+they have a phenomenon of seniors who buy houses, they are trapped in them, because they're 
+like, you know, the house is an asset that has like money stored in it, but they don't wanna 
+move.
+But they also can't access a second floor of their house anymore because they can't go 
+upstairs. And so they're stuck on the bottom floor of their home. So they're confined to the first 
+floor of their homes, and they would move to a smaller unit in their community, but that doesn't 
+exist, because they've been opposing the building and construction of affordable housing, or of 
+different types of housing in their areas.
+And so you're screwing over your future self, often as a homeowner, when you oppose these 
+things. You're screwing over your kids, maybe, who won't be able to stay and grow up and live 
+in your community. That means you can't live near your grandkids.
+So I think that there's this idea that these people are always acting in their best interests and 
+often they actually are not. So I think the important thing is here, how do you construct a 
+government system which takes the reasonable concerns around massive amounts of change 
+and weighs those against the costs of not building?
+Because if I turn to you and I said like – Hey, you can vote for this policy and you'll get to keep 
+your neighborhood exactly how you like it, but it's gonna cost every worker in America $10,000 
+a year. We would think that's ridiculous. But that's actually what's going on here, is that the 
+costs are so great that wages have been impacted at that kind of a level.
+And so, I, I really do think that it's a question, not of how do we change people's minds around 
+this, but how do we create a government system which mediates all of these concerns in a 
+reasonable way?
+Sean: An argument I often hear, mostly from conservatives, is that progressive cities like San 
+Francisco or LA or New York City have bigger homeless populations because they provide all 
+these welfare services, which in the end just enable the very problems they purport to solve. 
+Now we have some data on this, right? And it disproves this claim, no?
+Jerusalem: So, I mean, the first thing I'll say is I, I like to put people in kind of in the mindset of 
+what would happen to them and try to, like, logic this out a bit, right? 
+Let's say that Sean, for some reason you had a massive financial emergency. You and your 
+family are about to be homeless. The first thing that you probably do is you tap your family and 
+friend connections. Like, hi, like, can you help me out for a little bit? Like, I just need to get back 
+on my feet. People can't help you out. You like, make sure your kids are okay. You make sure 
+your spouse is okay. You try to find a place to have just immediate shelter. 
+The idea that someone would leave their community to go to a place that they have never been 
+to where they have no connections to job networks, no connections to social supports, because 
+they heard that San Francisco or Los Angeles is like a better place to be homeless doesn't 
+actually make any sense, like, it's just not how individual people react to crises. They stay in 
+their places they're familiar with because they know that they can get access to services or help 
+from the networks that they already have in those places. 
+So we know that people like, you know, maybe would move from like a Montgomery County, 
+Maryland to a DC, or they'd move from like a Long Island to a Manhattan or something like that.
+But people are not making multi-state trips to get to blue cities to get access to services, which 
+often are not actually that great, especially on the West Coast, which we know never has 
+enough beds anymore to accommodate the homeless population. 
+The second thing is though, when you look at randomized control trials of whether or not 
+government supports, like, giving renters more income or whatever it is, reduces or increases 
+homelessness. It reduces homelessness. 
+So it's one of those things where, again, like it's technically true that we do not have sufficient 
+data to fully disprove this theory, but all the data that we do have pushes against this idea. And 
+also just common sense around how regular people would behave pushes against this idea. 
+So I do think it's one of those things where people want to find something else to blame 
+because the actual culprit is just really, really difficult to solve on a political level.
+music 
+
+
+Is the American dream of owning a house…. a myth we should all let go 
+of?
+
+ 
+
+MIDROLL 2
+
+music 
+
+Sean: I wanna circle back a little bit to what I was joking about earlier – about this, you know, 
+the mythos of home ownership. And, you know, the story that we've all been told in this country 
+about owning a home is pretty simple and at least superficially reasonable [LAFF] it's, you know, 
+don't waste money on rent, buy a house, build equity, cash out later after the value of your 
+house has increased. And then you just buy a nicer home. And so it goes, it's the American 
+dream. 
+Do you think that's A, wrong and B, something we really have to rethink or let go of in order to 
+mitigate – I won't say solve, but mitigate – the problems we're talking about.
+Jerusalem: I think the real problem with that message is how uniformly positive it is about home 
+ownership for everyone at every stage at any point. 
+What you have right now is a culture and a politics, which says to every single person, the 
+second that you can buy a house, do so. And we reinforce that message by not caring, or trying 
+to fix how bad the rental market is. If we actually thought that home ownership was a really 
+meaningfully good choice, we wouldn't need to prop it up through all these financial gimmicks or 
+whatever it is the federal government does to try to prop it up. 
+We would not ignore how terrible the rental market is because honestly, a lot of people are 
+choosing to own a house because the rental market is so bad that they're just trying to escape 
+that reality. Whether it's not being able to have ownership over your space, like you can't paint 
+the walls the way you want to, or you can't garden the way you want to, or you're at the behest 
+of a landlord who might just pop in unannounced, or might just kick you out if he doesn't want 
+you there anymore. And also at the lower end, really a threat of unfair, unreasonable and 
+predatory eviction practices or whatever else is happening.
+And so I think that's one of those things where meaningful choice towards home ownership is 
+not being had in this country because we've made the alternative so terrible for most people that 
+it's really the only thing you can do if you wanna have a secure future. 
+And so largely my point, and I have this article for The Atlantic, about the Home Ownership 
+society and rethinking it, is that it's a really heterogeneous experience. For a lot of people, 
+owning a house is a great financial decision that works out well for you. 
+For the marginal person, for the person right now who's considering buying a house, I think it's a 
+really mixed bag. A lot of the properties that are available to you might be extremely old, in need 
+of repair, might sink tons and tons more money into it. Climate change is making it such that a 
+lot of properties that are at the affordable level for people are things that are going to potentially 
+be destroyed by storms or fires or whatever.
+I referenced a finding by NPR around how the department of housing and urban development, 
+which was in a quintessential example of having like pro home ownership reign is attempting to 
+push more and more people, especially, first time home buyers and people of color, into 
+accessing home ownership, which sounds like a really great goal. And they end up pushing 
+them to buy homes that are directly going to be flooded, with near certainty, in the next couple 
+of years. And it's one of those things where it's, these homes have already flooded, this area 
+has already flooded, and it will flood again. 
+And it's one of those things where, do we actually think that the cult of home ownership is such 
+an amazing thing to join, that we are saying to someone that it is better that you own a home 
+that will likely experience this massive financial harm in the future. And also just like the 
+personal harm and stress of having all your stuff flooded is obviously also terrible and is not 
+really priced in. 
+And so I think there are all these things like this that we don't consider when we tell people to 
+buy houses that are really important.
+Sean: Well that's also part of what makes it a bit of a shaky investment for lower and middle 
+class people in particular because a lot of the wealth gains to be had are rooted in luck and in 
+the places where you can be more sure of the value increasing – well, those are the places that 
+are obscenely expensive to buy – and you can't, the barriers to entry are too high anyway, so 
+you're kind of screwed.
+Jerusalem: But even there, Sean, I think that's what's so crazy. Even there, in those places, 
+like, would anyone three years ago have guessed that there would be a shock to labor markets 
+that would allow people at high levels to move out of San Francisco and still work in tech? Like, 
+remote work was not predicted by almost anyone at this level, like we have 20% of workers 
+working at some level fully remote. I mean, that is unheard of. 
+And it's one of those things where, that had had a massive impact on housing costs and I think 
+people, I think that they can predict, they'll say like, oh well San Francisco, DC – that will always 
+appreciate, we know that's gonna always appreciate. 
+We don't know what's gonna happen, and we're telling people to put all their money there 
+anyway.
+Sean: This is related to the homelessness problem we're talking about, because we have this 
+current dynamic of pushing people into buying houses, and at the same time we have this policy 
+preference for never-ending rising housing prices. And that just punishes newcomers. It just 
+makes it harder and harder and harder and harder for people to get into the home ownership 
+game. 
+When the music stops, there are a lot of people without a chair.
+Jerusalem: Yeah. The fact that your property value is something means that, let's say we say 
+your property value is $500,000. That means that there's someone willing to pay that, hopefully 
+multiple people willing to pay that property value. The higher and higher it gets, right? Eventually 
+it's like, who can afford like a 2 million house? Like, very few people can afford that. And that's 
+what we're saying with constantly appreciating housing prices, that there should always be 
+someone new, ready to pay that price. 
+And at some point, the dam breaks, right? Like, at some point that there's not gonna be enough 
+people to pay for that.
+Sean: I mean, Part of the problem now – the homeless problem in particular – as that 
+intensifies, people become more responsive to reactionary and draconian policies. They just 
+wanna criminalize homelessness. They just wanna just get it the hell off my radar, get it off the 
+streets, at all costs.
+But in the end, that just ensures that the underlying problems will persist. Right. 
+That's a road to nowhere, or nowhere good.
+Jerusalem: I, I mean, I do think we're at a really bad inflection point here because people are 
+so frustrated and fed up because of homelessness in particular, but also housing costs that 
+they're willing to turn to really, really counterproductive policies. 
+And this isn't just me saying this as like, I think it's pretty inhumane to just criminalize people 
+who have nowhere to live. That's definitely a big part of it. 
+But also, like, it doesn't work. You're telling someone who's homeless, it's illegal for you to camp 
+here. It doesn't actually give them anywhere to go. In DC there was like local reporting which 
+showed that people at a new encampment were just people who had been dispersed from old 
+encampments, like, you have to actually have somewhere for them to be, in order to tell them to 
+leave.
+And, especially in California where there are not enough homeless shelter beds available for the 
+population, it's kind of ridiculous to be like, oh, it's illegal for you to be here. Our attempts to 
+criminalize poverty don't actually make poverty outlawed. Like, people are not poor by choice. 
+And so it is one of those things which is really depressing, is that like, because we've really 
+kicked the can down the road so much, at this point I'm not sure how much patience voters 
+have for a solution which is really a long term one.
+Sean: Yeah. And I just feel like as a society, we just don't really have an answer to a really 
+basic question, which is, what do we owe our fellow human beings? Or, we have many 
+answers, but certainly no consensus. 
+And part of what's interesting to me about this problem is that it doesn't really collapse neatly 
+along conventional, partisan, or ideological lines. There's never a perfect equivalent on 
+anything. But the left and the right really don't have an answer for this. And they contribute in 
+different ways to the problem. 
+And in the interest of being real, like – I think a lot of people, most people perhaps, don't want to 
+bear the cost of doing what's right here.
+And the uncomfortable reality is that if you really drill down, a majority of people in this country 
+have internalized our very hyper-individualistic culture, and many of us are comfortable and 
+there's not a lot of appetite for real sacrifice. And maybe some of that has to do with the scarcity 
+problem we were talking about earlier.
+And maybe some of it is just the fact that this is a very libertarian society. And the bigger the 
+country gets, the more atomized the country gets, the more these sorts of collective action 
+problems become insoluble.
+Jerusalem: Yeah, I mean, a couple of responses there. 
+One is that it is the problem of regulatory constraints on building, housing infrastructure, other 
+types of infrastructure. The truly libertarian response to that should be to allow for property 
+rights, right? Like, if you own your house, you can paint it blue, you can, no homeowner's 
+association or like overzealous local government can tell you you can't have your kid move into 
+your garage. Like, that is the truly libertarian response here. 
+And I think that's one of the things about this, this problem to me is that like, it should attract 
+every ideology, like, leftists are in favor of building social housing building, uh, uh, and, and 
+protecting lower income renters and, and in promoting a stable housing and rental environments 
+for people.
+Conservatives are very opposed to government intervention in this space. Libertarians similarly 
+have those kinds of reactions, in theory. 
+But I think what it comes down to is, while everyone kind of has these, like, fancy and theoretical 
+ideologies at the theoretical level, what really matters is structure of government. When you 
+have a local government that is in charge of permitting housing, that has the power to block 
+infrastructure in general, it takes just a couple people to block it all. And that doesn't matter if 
+98% of people are in favor. It just takes a lawsuit. You only need one person with a lawyer.
+And the question here is how we have allowed this structure of government to proliferate and 
+has a lot to do with the fact that we have deference towards the legal system as being the best 
+way to resolve these kinds of disputes. And also because we fetishize local government and 
+treat it as if it is closer to the people because it is smaller, but really it's a lot less representative 
+because many fewer people vote or engage.
+And so the really democratic outcomes, they don't happen at the local level. They happen at the 
+state level or the federal level, or more so at the state level, federal level than they do there.
+Sean: Yeah. I'm constantly searching for ways to explain a dynamic that exists in other spaces. 
+Like healthcare in particular. 
+So even if you're someone who, on a moral or ideological level, doesn't believe healthcare or 
+housing is a human right, there's still the fact that as a society we are paying a price for these 
+problems, one way or the other.
+Don't give people healthcare? Well, they end up in the emergency room and that drives up cost. 
+Don't provide housing livable wages, a basic social infrastructure to people? Crime and other 
+social pathologies go up. You have more people that end up in prison. 
+And we all pay for that, right? Like, there's no way we're not paying for this one way or the other. 
+Jerusalem: Yeah. 
+Sean: And so, like, pretending like the problem doesn't exist and just retreating into our 
+libertarian cocoon, that's not gonna get the job done, that's not gonna make anything better. It's 
+certainly not gonna make these problems go away.
+Jerusalem: I thought Covid 19 would be much more of, like, a come-to-Jesus moment for a lot 
+of people. Like, I mean, especially with housing, right? What we saw with homeless folks, 
+homeless shelters were terrified about how to shelter people, especially in the winter, while the 
+spread of Covid 19 could mean death or serious disability, or a number of things for both the 
+homeless population. But also it's community spread. If more people in your community had 
+covid, it was a public health issue. It wasn't an individual issue. 
+And what was great is that that spurred a lot of places to start investing in converting hotel 
+space into homeless shelters. That was a double whammy for communities because hotels had 
+been depleted. And so getting that kind of funding input from public sector was able to tide them 
+over. And it also gave homeless folks a real place to go. A lot of times people are like, well, I 
+know someone who rejected going to a homeless shelter. 
+And you have to recognize that a lot of homeless shelters are gender segregated. So it means 
+you have to separate maybe from your partner, or even your children in order to go to a 
+homeless shelter. They don't allow pets. And that may seem like a joke to some people. Like, a 
+lot of people don't expect to become chronically homeless. Like, I have a dog and if I thought I 
+was gonna be homeless for a week or so, I wouldn't just abandon my dog because, you know, 
+it's like, from one week from now I'm gonna have a new place to live. The apartment I'm gonna 
+be is gonna open up. 
+And then also, can be quite dangerous, right? Like, there's a lot of victimization that can happen 
+in these spaces. But with a hotel room, you have privacy, right? There's like, there's a door, 
+there's a place to go to the bathroom that's private, that feels safe and secure. So there's a lot of 
+innovation that happened there, and thankfully we're seeing some places take that seriously 
+and think about converting hotel space and other places into homeless shelters in the future.
+I agree with you. I think a lot of the times there's not a lot of solidarity here, which is sad, but I 
+also think that it's not, you know, actually that important for solving this problem right now, 
+because it is in everyone's interest that we deal with the housing cost problem. This is not 
+something that is about charity for one person or another. This is gonna affect everyone. If 
+there's not affordable housing for you or your kids where you need it to be, when we look at our 
+universities, where there's no affordable housing for students or housing at all, like the rates of 
+student homelessness have gone up. You're gonna send your kid to UC Berkeley, and they're 
+not gonna have a place to live? Is that really the society, what we want? 
+And, it really is going to become a systemic problem in every single sector, for higher education, 
+for public health, for all these things.
+Sean: You said it better than me. Even if you have some aversion to charity or, you can't help 
+but think of people who have fallen, you know, into bad times as responsible in some way for 
+their own plight.
+This is still, even if that's your point of view, this is still in your interest to address. 
+I think that's just a key point. So, I will leave it there. 
+And I'll just say like, this was an education for me as someone who doesn't think about these 
+sorts of questions very often. So thank you for helping me do it, Jerusalem.
+Jerusalem: Yeah, happy to be here. Thanks for having me. 
+Sean: And if you care about these problems at all, you should absolutely follow Jerusalem's 
+work at The Atlantic. She is a terrific reporter and one of the best in this space, so check out her 
+work. 
+music 
+
+OUTRO/CREDITS:
+Erikk Geannikis is our producer, Amy Drozdowska is our editor, Patrick Boyd 
+engineered this episode, Alex Overington wrote our theme music, and A.M. Hall is the 
+boss. 
+Let us know what you think about this one. Drop us a line at the gray area at vox dot 
+com. 
+And if you appreciated this episode, please, share it with your friends. New episodes 
+drop on Mondays and Thursdays. Listen and subscribe.
+
+
+
+1

@@ -1,0 +1,595 @@
+﻿The Gray Area | Sigal Samuel + Martha Nussbaum | 1/5/23 | 
+PUBLIC TRANSCRIPT
+TITLE: What do we owe animals?
+
+SUBTITLE: Philosopher and author Martha Nussbaum talks with Vox's Sigal Samuel about how 
+humans should treat other animals, and why we haven't gotten it right
+
+DESCRIPTION: Guest host Sigal Samuel talks with philosopher and author Martha 
+Nussbaum about her new book, Justice for Animals. Martha discusses several different 
+ethical, legal, and metaphysical theories for how we humans should treat other non-human 
+animals, and offers her own distinct new approach.
+
+Host: Sigal Samuel (@SigalSamuel), Senior Reporter, Vox
+Guest: Martha Nussbaum, author; Ernst Freund Distinguished Service Professor of 
+Philosophy, U. Chicago
+References: 
+	Justice for Animals: Our Collective Responsibility by Martha Nussbaum (Simon & 
+Schuster; 2022)
+	Drawing the Line: Science and the Case for Animal Rights by Steven M. Wise 
+(Basic; 2003)
+	Primates and Philosophers: How Morality Evolved by Frans de Waal (Princeton; 
+2006)
+	Animal Liberation: A New Ethics for Our Treatment of Animals by Peter Singer 
+(1975)
+	Fellow Creatures: Our Obligations to Other Animals by Christine Korsgaard (Oxford; 
+2018)
+	Political Liberalism by John Rawls (1993)
+	The Universal Declaration of Human Rights (1948)
+	"Ag-Gag" Laws in the United States (Animal Legal Defense Fund)
+	Zoopolis: A Political Theory of Animal Rights by Sue Donaldson and Will Kymlicka 
+(Oxford; 2011)
+ 
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area. Subscribe in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Editor: Amy Drozdowska
+	Engineer: Patrick Boyd
+	Editorial Director, Vox Talk: A.M. Hall
+
+
+INTRO:
+
+Sigal Samuel: Hi, I'm Sigal Samuel…. sitting in today for Sean Illing.
+
+music
+
+I’m going to be honest. For most of my life, I haven’t really cared that much about animals. I 
+figured I just wasn’t an animal person. 
+
+Then… the pandemic started. Suddenly there was all this time when I was stuck at home, sitting 
+in front of my window…watching the birds. And I just became completely obsessed with them. I 
+started reading books about how smart birds are — like how crows can solve all these really 
+complex puzzles.
+
+A few months later… I went snorkeling for the first time… and I got to meet a couple of 
+octopuses in the sea. They played hide-and-seek with me, camouflaging themselves to try and 
+trick me. Their intelligence wowed me so much that I have no desire to ever eat calamari again. 
+I even met a pod of dolphins, and their curiosity and playfulness were so palpable to me that I 
+felt a bond right away. 
+
+I think a lot of us feel some kinship with animals that we see a bit of ourselves in. [SLOW]  But 
+what about other animals that aren’t as obviously smart (at least from a human perspective)? If 
+they’re conscious… or even just alive…. do they deserve just as much of my concern? 
+
+And beyond whether animals seem like us… what about their relationship to us – Does it matter 
+if they live around us humans or in the wild? If an antelope somewhere in the African savannah 
+is suffering from some antelope disease, that’s not the kind of thing I need to do something 
+about…is it?
+
+
+music
+
+ID: I’m Sigal Samuel… and this… is The Gray Area. 
+
+music
+
+HOT:
+
+My guest today is Martha Nussbaum. If I were to list all the books she’s written and prizes she’s 
+won, it would probably take up this whole episode. So I’m just gonna say this: She’s a very, very 
+big deal in the philosophy world. Like, a big enough deal that her essays were required reading 
+in my philosophy classes in undergrad. She’s taught at Harvard and Oxford, and now she 
+teaches ethics and law at the University of Chicago. 
+
+But Martha is not one of those ivory tower philosophers whose ideas just sit in a dusty book on 
+some shelf. She wants her ideas to change laws in the real world. Typically she’s focused on 
+laws that affect humans. But her daughter Rachel, who made a career working for the rights of 
+animals, got her to care more and more about this issue over the years. Rachel died in 2019, 
+and as an act of what she calls constructive mourning, Martha just wrote a new book called 
+“Justice for Animals.” 
+
+The goal of the book is to present a revolutionary new theory about what we human beings owe 
+animals. 
+
+But Martha started by telling me about the old theories and why she doesn’t think they’re good 
+enough. 
+
+music
+
+Martha Nussbaum: So first of all, there's a very dominant theory, which is used in law right 
+now. It's, used by the non-human rights project. Steven Wise is a, a very fine lawyer for animal 
+rights, and he follows the traditional idea of a ladder of nature where humans are at the top. But 
+he thinks that there are few animals, particularly great apes, but also whales and elephants, that 
+are enough like humans to deserve to count as persons in law. 
+Now, let me say that I don't think that's the whole of what's on his mind as a human being – but 
+as a lawyer, this is what he thinks he can get judges to care about. So, you know, he thinks that 
+where the world is, is that we care more about animals that seem more like us.
+Now, first of all, I think there's a lot of empirical gaps in his theory because, I mean, nature 
+doesn't present a single ladder. It presents remarkable horizontal complexity. There are animals 
+who have senses that we totally lack, like birds. They can navigate by perceiving magnetic 
+fields, which is something we can't do. Dolphins can figure out what's inside an object by echo 
+location, which we cannot do. 
+And second, it's just the wrong reason to care about doing justice to another creature, that it's 
+like us. I think that would be a bad reason if it was another human being. And of course a lot of 
+people do think that the fact that a certain group is more like us ethnically or religiously or so on, 
+is a reason to treat that group better. But we, I think we can recognize that as a bad reason. 
+But with animals, I think we need to recognize that as a bad reason. Our reasons should be 
+because of what is happening to them, not because they're like us.
+And so then, the biggest problem is that he has absolutely nothing to say about the terrible 
+sufferings of animals that he deems not sufficiently like us. That is to say, all birds, most 
+vertebrates, all invertebrates.
+And so the worst horrors that I feel we need to deal with immediately are the sufferings of 
+animals that we raise for food in the factory farming industry. He has nothing to say about that. 
+So that to me makes the theory a real non-starter.
+Sigal Samuel: And it seems to me that ladder of nature approach, which goes back many 
+centuries, the Scala Natura approach, this idea that animal species are arranged in this 
+hierarchy with humans at the top, closest to God. Typically it's, how people think of that is the 
+ones at the top are ones we imagine to be very intelligent or have this capacity for rationality. 
+And I think like more recent animal science from people like the primatologist Frans de Waal, 
+has really shown us that every species actually has its own brand of smarts, as you were saying 
+with dolphins and echolocation, or how birds navigate.
+It's just that each species has its own brand of smarts that are adapted to its specific needs and 
+its specific environment. Right? 
+Martha: That's absolutely right. And of course, we've also recognized the amazing abilities of 
+creatures that we used to think of as very stupid. We see now that birds are some of the most 
+complicated creatures, and for a long time, they used the expression bird reign to need a real 
+dummy. But that was because they thought that if they're physiologically not very like us, like 
+birds don't have a neocortex, they could not possibly be very intelligent. But in fact by a different 
+evolutionary path, birds arrived at similar destinations, and they have remarkable abilities.
+Now that we know so much more about animals, we can't afford to think in this crude way.
+Sigal: So tell me about the next approach that you explore, which is the utilitarian approach. 
+I know that, you know, philosophers from Jeremy Bentham all the way through to Peter Singer 
+today have really popularized this one. 
+Martha: Well, of course it's done great good in the world. And I think if we could only go as far 
+as that approach goes, that is curtailing needless pain, that would already be quite a lot. 
+But basically Bentham's thought that the only good thing in life is pleasure and the only bad 
+thing in life is pain. All the other things that people deem good and bad, are just variations on 
+that one single theme. 
+But that's much too simple because both humans and other animals pursue many different 
+things in their lives. They want to have social relationships with one another. Animals don't need 
+only to be free from pain. They need social relationships with other members of their species, 
+often with members of other species. They also need lots of space to move around in. And 
+sometimes they feel pain when they don't have those things – but not all the time because an 
+animal grows up in a zoo in a single enclosure, it doesn't know – but it's a deprivation 
+nonetheless. 
+So in short, it doesn't take account of these many deprivations that animals, and of course 
+humans – I mean, I've criticized utilitarianism for humans in similar terms – what we need is an 
+approach that thinks of forms of life is complicated and having many different parts, not 
+reducible to one thing. 
+Another problem with utilitarianism is that it thinks about the good state as a state, that is, an 
+animal should be in a state of pleasure, or in Singer's version should be in a state of 
+satisfaction. 
+But both humans and other animals don't want to end up in a kind of happy state. They want to 
+be active, and they wanna be agents in creating their own lives. So just as in the human world, it 
+gives bad guidance, making people think about, well, we'll give them some food, rather than 
+trying to render them active in earning their own food and so forth. So it is a very bad way of 
+dealing with human hunger and poverty. So too in the animal world, animals are active beings, 
+and what they want is not just a comatose state of not being in pain. They wanna be active 
+strivers.
+Then the third thing is that utilitarianism is very preoccupied with averages. So what is the social 
+goal is supposed to be the greatest either total pleasure, or the greatest average pleasure, 
+depending which version we use. But actually, that means that the ones who are at the bottom 
+of society's ladder don't get any special attention. And that would mean that in the calculus 
+between humans and other animals, might turn out that the pleasure of humans in eating meat 
+and so forth would outweigh the pain inflicted on animals. 
+So in short, it's not individual focused enough. It used individuals only as containers of pleasure 
+and pain, rather than as separate beings who should be treated each one of them as an end, 
+and none as a mere means to the ends of others.
+Sigal: Right. So I mean, utilitarianism on the one hand, it seems like it moved us forward 
+somewhat because, you know, I kind of like that Bentham said, the right question for us to ask 
+about animals is not, can they reason, but can they suffer? Like, that seems like a helpful 
+intervention in the conversation.
+But focusing just on suffering or pain and pleasure as this single calculus also kind of brings up 
+these issues that you're mentioning – and it sounds like at the end there you were kind of 
+getting at the issue of like, it sort of reduces every creature, whether a human or animal, to just 
+this container that is sort of interchangeable with all other containers. We're all just vessels that 
+can contain this many units of pleasure or pain. As opposed to a more Kantian approach, right? 
+So this is another approach you talk about in your book, an approach inspired by Immanuel 
+Kant, who famously insisted that we shouldn't treat others as a means to an end. They each 
+have dignity, they're an end in themselves. 
+And it seems like you really like that idea. But when it comes to contemporary philosophers like 
+Christine Korsgaard, who've tried to use Kant to build up a theory of what we owe animals, you 
+ultimately reject that approach too. 
+Why is that?
+Martha: Okay, well the first thing to say is that Korsgaard diverges greatly from the historical 
+Kant who thought we could just use animals as means to our own ends. So she wants us to 
+treat animals the way Kant thought we should treat humans. 
+So that's great. And I'm all in favor of that. And I also should say, I mean, Korsgaard was 
+actually my PhD student and she wrote a dissertation on Kant and Aristotle with me and John 
+Rawls. And there is still a lot of Aristotle in the book. The Aristotelian part is that she sees 
+animals, I think quite rightly, as creatures who pursue a wide variety of distinctive ends. And that 
+that's what they should be able to do. 
+So I agree with much of that. 
+What I don't agree with is that she retains the focus on the idea of complicated ethical 
+deliberation, which she thinks only humans are capable of. Now, she quite clearly says that 
+doesn't make us better, but it does mean, she says, that only we can be active citizens 
+producing the results that treat animals better. 
+Now, I think that is just much too simple because animals are very active in indicating what they 
+need and what they want. They have marvelous, complicated ways of speaking, signaling. 
+Some are language-like, some are just indicative of their preferences. She calls animals passive 
+citizens. They're not passive citizens. They have voices and they articulate what they need, and 
+we should be listening to that and take account of that, just the way that right now I think we've 
+learned that people with cognitive disabilities who may not be able to use human language, we 
+should listen to them. 
+And so I think that she's just treating animals in the end, too, in a somewhat condescending way 
+by suggesting that they're not capable of indicating actively what they need.
+Sigal: Yeah, it seems like what's really tricky about Korsgaard's position is, she wants to 
+maintain this very Kanty view, that there's something really special setting us apart from other 
+animals like our rationality.
+And I actually found it interesting in your book, you write – her position would not be 
+uncomfortable if she simply said, this is the human form of life. And to some extent it is different 
+from other forms of life. All lives are uniquely wonderful in their own way.
+And like, honestly, that sounds great to me. And I kind of wondered when reading that like, 
+great, why can't that just be the view, just without the Kantian framing of humans are ends or 
+animals are ends. 
+For me personally, it feels like a really weird claim to make about anyone, human, non-human. 
+Because sort of in my way of seeing it, no creature objectively has rights, right? Like this thing 
+called rights is a fictional story that we as humans construct, like rights don't somehow fall from 
+the heavens or emerge from the essence of the creature.
+And so I'm just trying to understand, do you disagree with that philosophically or do you agree 
+with it philosophically and just use the language of rights because it's a really powerful rhetorical 
+tool, it can be useful in politics and law?
+Martha: Well, first off, both Korsgaard and I agree that there's a sound argument for ascribing 
+rights to both humans and animals. Both of us find ourselves thrown into the world, a rather 
+hostile world, needing all kinds of things, including property, to live and to do what we want to 
+do. 
+And it's a legal concept. I think that's what rights always are, is a legal concept. 
+So what I think metaphysically has nothing to do with it, because my overall position, in my 
+view, is that in political principles and legal principles, we should never include any controversial 
+metaphysical positions. This is what John Rawls said famously in Political Liberalism that if 
+we're in a pluralistic society where people differ about metaphysics, we should never include in 
+our political principles these controversial metaphysical claims about which people differ. 
+Now, Korsgaard does not – I mean, one of my problems with her book is that she never comes 
+to grips with that argument of Rawls's. So she actually does allow herself to make some 
+controversial metaphysical claims, namely that all value is the creation of various forms of 
+subjectivity, et cetera. 
+And I just think we shouldn't say anything about that one way or the other. We should try to 
+frame our principles in a philosophically abstemious way. Not paring away the controversial 
+metaphysical claims, but using the language of rights to talk about an ethical reality that's 
+common to human and animal lives.
+Sigal: I guess I'm just questioning whether it's possible to talk about an ethical reality without 
+making some kind of controversial metaphysical claim.
+Martha: Well, I mean like why so? I mean, we live together and we get along in many ways. 
+When the Universal Declaration of Human Rights was framed, people from many different 
+cultures who had many different religions and metaphysical beliefs got together and said, well, 
+we better not use the language of the immortal soul. We better not use this or that. But we can 
+agree to use a thin common ethical language of human dignity, and that's what they agreed to 
+base the Universal Declaration on. 
+So I'm doing the same thing. I'm following that lead and doing it for similar reasons, that we 
+want to get along in a world in which people disagree about fundamental metaphysics, about 
+things like, is there an immortal soul, is there life after death, and so forth. 
+Ethics too, of course, is controversial. But in ethics, if we leave out these religiously 
+controversial things, I think people can actually come into an agreement.
+
+music 
+
+If you ask me, Martha actually does make some controversial metaphysical 
+claims. She argues that we can find out what objective moral rights an 
+animal has… by looking at that animal’s objective capacities. 
+ 
+How exactly does that work? That's what I'll ask her…. After a quick break.
+
+
+
+ 
+
+MIDROLL 1
+
+ 
+
+music 
+
+Sigal: Now that we've kind of deconstructed some of the competing theories about animals and 
+kind of shown some of their shortcomings, tell me, if the, 'so like us' approach doesn't cut it, 
+utilitarianism doesn't quite cut it. Kant doesn't really cut it – 
+Tell me about the approach that you think is better and that you're really fleshing out in this 
+book, which is your capabilities approach.
+Martha: So for many years I've been part of a large group of economists and philosophers 
+working initially in human development ethics, who have been trying to urge that a good, 
+normative theory of society's development when we're ranking societies to see how well they're 
+doing is what we call the capabilities approach.
+Now, capabilities don't mean skills, they mean substantive opportunities for choice. So a 
+capability is not, in other words, a skill that you have. It's an opportunity out there in the world 
+that you have, which of course has to be aided by law and society, to choose various things that 
+you value.
+So the central question that we think should be asked in ranking nations in terms of their 
+development is not what is their GDP per capita, and not even how satisfied are the people, the 
+utilitarian view. But rather, what are people actually able to do and to be? So it focuses up close 
+on the strivings of people and the various obstacles that come between people and the things 
+that they wanna get. And then it asks, what are they actually able to do and to be? 
+And the answer to that question is the capability set that that person has. So for a long time 
+that's been used and it's used in the human development reports of the United Nations 
+Development Program as a comparative measure of different human societies.
+Now, what I then did was to take the next step and to use it as a normative benchmark of basic 
+justice. I said, well, we want to go further and not just compare A with B, but to say, what is a 
+minimally just society? And then what you have to do in order to do that is to say, which 
+capabilities would be the most important, like a bill of basic rights for that society.  
+And what I do in a variety of books that I've written on this is to say there are 10 basic 
+capabilities that a minimally just society would foster, focusing on protection of life, protection of 
+health, protection of bodily integrity, and a whole list of others. 
+But see already, in one of the books that I wrote on this approach, I said that this approach can 
+be extended to non-human animals. You can see the natural extension because animals too are 
+trying to get things that they value and they have various impediments. 
+But over the years I've gathered a small group of people around me who talk about this and we 
+try to work it out. And now I think I'm ready to work it out in, in great detail to say, what would a 
+capabilities approach for animals be like? 
+Now, the basic idea is that each creature would be entitled to have a minimal threshold level of 
+opportunity to pursue the most important activities that are characteristic of its form of life, as a 
+member of that species.
+So the idea is that, that means we look at a lot of different parts of the creature's life. It's not like 
+utilitarianism in reducing everything to pleasure and pain. We say, well, what is it for an elephant 
+to live well? And then we look at the different parts of an elephant's life that elephants seem to 
+value – and of course here you need to turn to people who actually have studied elephants in 
+great detail and listened to them for years and years and years. And then you make the 
+elephant capabilities list, this is what elephants should have. You make a different list for 
+baboons, for birds and so on. 
+So, but each creature in its own way should be able to have a minimal level of opportunity to 
+pursue the characteristic activities of that creature.
+And now I say, should be able to, because it leaves space for choice.
+So there are dolphins who are solitary and they don't wanna go around with a large pod of 
+dolphins. Fine. But they need to have that choice, that opportunity space.
+Sigal: Right. So like just spitballing here. The capabilities approach list for, let's say dolphins, 
+might be, like, basic entitlements – life, health, bodily integrity, ability to swim over like large 
+bodies of water; opportunities for social engagement, opportunities for play – right?
+Martha: Yeah, well of course at the very high level of generality, there's gonna be a lot of 
+overlap with the human list, because play is on the human list, too. 
+But the form of play and the form of social engagement will be very different.  And some 
+creatures only need their own kind. They might like relationships with other species, but they 
+don't need them. I think that's true of dolphins. It's true of elephants. 
+But some creatures, particularly dogs, cats, horses, are characteristically social across the 
+species barrier. And they particularly seem to need relationships with humans.
+So we add that in and so forth.
+Sigal:  Right. Okay. That makes sense, because for an animal that's sort of evolved 
+symbiotically with humans, then at this point it might be part of their basic capabilities list to be 
+able to have that interaction with a human, for example.
+Martha: Yeah, because there are people who think, oh, this is bad, that they depend on 
+humans. I've known people who would just like to let all the dogs and cats free, and not have 
+humans being in charge of them in any way. 
+But of course, the thing is, now they've evolved in such a way that they're thoroughly dependent 
+on humans. They cannot live well without humans. 
+There are people who think we should therefore not breed them at all and let them go out of 
+existence, but I don't hold that view and I actually argue against that. 
+But that means that their good will be defined in a way that includes human relationships.
+Sigal: So, I'm kind of curious, like when you're thinking about the capabilities approach, what 
+would that mean practically. What that would look like practically for the most commonly 
+domesticated animals, pets, but also maybe farmed animals, animals used in research.
+Are there really sharp ways you think society would need to change to make room for 
+accommodating animals' different capabilities?
+Martha: Oh yeah. Absolutely. 
+Well, I mean, the first thing is the word pet. I think the word pet is insulting to animals. It 
+suggests they're toys to be played with. And I do think that there are a lot of people who think 
+their dogs and their cats – [LAFF] their dogs and their cats  – are just toys that they can play 
+with. And during Covid, a lot of people adopted a dog or a cat because they were lonely. And 
+then they took them back again now that they can go out and socialize.
+So, no, I would use the term companion animals. And I would ask the question what it is for a 
+companion animal to live well. 
+And I do think that society has to change quite a lot. So just starting there, most societies now 
+have quite a lot of laws protecting companion animals from cruelty. Those laws are not very well 
+enforced. 
+So that brings us to the larger issue of animals lack legal standing. They can't be a plaintiff in a 
+court action. A child with minimal cognitive ability, a human child, even though they couldn't of 
+course go to court themselves, they can go to court represented by a guardian. And if they're 
+being abused, there can be a suit brought on with them as the plaintiff.
+That can't be the case right now for dogs. But it should be the case. If a dog is being abused 
+and there is a law against it, then they can sue to demand enforcement of the law through a 
+suitable guardian. 
+What I have in mind, actually, for dogs and cats is very similar to what we now do with child 
+welfare. Every city, every state has a Department of Child Welfare services. And for example, I, 
+as a member of a university that has some projects that use young children, and so there are 
+young children on our campus – I have to take every year a two hour course in child welfare so 
+that, even though I'm not part of any of those projects, if I see a child on our campus who's 
+being abused in any way, I become a mandatory reporter. And I must then right away call the 
+Department of Child Welfare and say there's abuse to a child here.
+I think the same thing should be true with companion animals and with any animal who lives in 
+close proximity to humans. Namely that we would all become mandatory reporters of abuse to 
+those animals. 
+Now, what that would mean for dogs and cats would simply be more adequate enforcement of 
+the laws that are there already. And it would be also more attention to things like the needs of 
+dogs for adequate exercise. The law doesn't even really cover that, because most people don't 
+give their dogs adequate exercise. They think it's okay to keep a large dog indoors most of the 
+day and then maybe walk it once in the morning and once at night. And they don't notice that it 
+has tremendous psychological and physical impact on the health of that dog. 
+For animals that are raised for food, oh boy. All the animal protective laws at both the federal, 
+state, and local level consciously omit the animals we raise for food. So the Migratory Bird 
+Treaty Act, which is a very good law that was put in around the turn of the 20th century to 
+protect migratory birds. 
+But birds that are raised for food unh huh, they're not covered by that act. And the same is true 
+for the Animal Welfare Act, another very good federal law – it even specifies how animals must 
+be given adequate water, adequate food – but it doesn't have anything to say about the animals 
+that are raised for food. 
+Now, I guess my end point would be that we don't eat animals at all. For the most part, to 
+prematurely deprive a sentient animal of life is wrong. So I think if there's actually going to be 
+eating of meat, I would like in the long term to see it be only that kind of stem cell grown meat 
+that we're beginning to hear about so much now.
+Sigal: Yep. Mm-hmm.
+Martha: And that, you know, tastes like meat, but it doesn't involve killing.
+So that would be the long term. 
+But in the short term, I'm an incrementalist and I think we need to start by stamping out the 
+worst abuses. And right now the whole factory farming industry is a horror show. And it's so bad 
+that they've even gone to great lengths to get state laws forbidding people to tell what's going on 
+there. 
+Sigal: Right, those Ag-Gag laws.
+Martha: Yes, because they know that if people know about that, they would rise up in protest. 
+music 
+
+Do the animals living in our homes or on our farms deserve more of our 
+concern than animals out there in the wild? 
+
+That's coming up…. After one last quick break.
+
+ 
+
+MIDROLL 2
+
+ 
+
+music 
+
+Sigal: So we were talking about the eating of animals and // I'm glad you're mentioning this 
+because probably the vegetarians and vegans listening to this might have some questions 
+about how the capabilities approach would affect different farmed animals. 
+And in the capabilities approach, you talk about really wanting to preserve the opportunity for 
+animals to be able to strive for what they would naturally strive for.  And you give as an 
+example, you know, eating eggs. I think, if I'm remembering right, you say, if you have a hen 
+who, let's say she has just laid eight eggs. And you take four. And you allow her to keep 
+incubating some. That maybe seems okay, because she's still getting to fulfill her striving.
+Martha: Yeah. I think that's right. I mean, I think that certain extreme vegan positions are not 
+entailed by the capabilities approach. Someone can also add on things that I don't add on. But 
+what the capabilities approach, as you quite rightly say, does promise a creature, is the chance 
+to fulfill their striving over a reasonably long life.
+Now, I mean here I'm not alone, I'm together with Sue Donaldson and Will Kymlicka in their 
+book Zoopolis, who think that the egg industry can actually be reformed in order to be ethically 
+adequate in the way that you describe. Because eggs, cage-free eggs and eggs that are 
+curated in the way you describe, can still make a profit. And that's happening, actually, about 
+half the United States is now cage-free. And yet eggs are still sold and they still, it's still a 
+business that people are willing to go into. 
+Sigal: Just to kick the tires on this a little bit, one thing I sort of wonder – some might object to 
+this idea of, well, it's okay to take some of the eggs because the animal is still getting to fulfill 
+some level of striving.
+The larger question that raises for me is whether, when we humans are having to make that 
+capabilities list for different animals, I guess we kind of have to be the arbiters of what the 
+essential capabilities are that end up on that list.?
+Martha: Oh yes, this is always a difficult thing when we make choices for animals. It comes up 
+when we ask, should I sterilize my cat? 
+But I think here we have to use a principle of hypothetical consent, thinking about the 
+alternatives in front of that animal ,and thinking what they would say if they were aware of the 
+alternative and they had a choice to make.
+Now, in the case of the egg, what the hen gets satisfaction out of is having some offspring and 
+raising them, and the number is not so significant. 
+But in the case of sterilization, it's more tricky. If you think about, let's say a male cat, the 
+alternatives before the male cat would be to be a terrible nuisance and not find a good home, 
+and therefore be abandoned to the street. Or to be neutered. And therefore, many humane 
+organizations, and in fact most, are now mandating sterilization for the animals that are up for 
+adoption because they know that the alternative is the street. 
+And then with the female animal, I think it's even clearer, because pregnancy is not chosen by 
+that female animal who is mounted by a male animal. And most female animals will be depleted 
+and exhausted by too many pregnancies, just like a human. Now, of course, they can't know 
+that and they don't see any alternative. I think in the long run, maybe we'll get animal 
+contraception developed and there would be other options. But right now the option for a female 
+animal is pregnancy after pregnancy, the children of which inevitably would not all find good 
+homes, and they would be abandoned to the street. Or, neutering at some point. And I think the 
+ideal point of neutering would be after the cat or dog has had one litter. I do think that's a 
+satisfaction that the creature ought to have. 
+If we were in a world where there were not hundreds and countless strays being abandoned to 
+the street, that would be my best policy.
+Sigal: Yeah. I wanna pick up on what you were just saying about contraceptives and talk a little 
+bit about animals in the wild. 
+In your book, you actually go beyond just advocating for us to do more to take good care of 
+companion animals, farmed animals.
+You entertain this idea of, and defend this idea of actually doing things to help animals in the 
+wild – and you actually complicate that whole idea of the wild. 
+But I just wanna be totally honest with you – when I first encountered this idea a year or two 
+ago, I honestly just thought it was like, laugh out loud, ridiculous. I could get on board with the 
+idea that maybe humans should help animals that they've domesticated, you know, we have 
+some kind of responsibility to them. 
+But there's like a difference between fixing a harm that we as humans have caused, and then 
+like, proactively helping wild animals from, you know, preventing them from getting a disease or 
+even from being eaten.
+But some people really do make these arguments. And one thing you said in your book actually 
+did really make me think, and it was your point that there's actually no such thing anymore as 
+wild nature, because actually all spaces are under human control, and so we do have that 
+responsibility even to wild animals.
+Can you just explain how that can be? Is there any wild actually left?
+Martha: Well, there is no place unless maybe on some other planet that is not right now 
+controlled by human beings. Take the land, all the animals that are so-called wild animals or on 
+wildlife refuges that are curated by nations or in various kinds of spaces within nations that 
+belong to those nations and are superintended by them and that are impacted by habitat 
+depletion and various kinds that are human.
+Take the air, again, I mean, the conditions in which birds live are impacted by humans and 
+humans control the kind of atmosphere we have now, the pollutants in it and all of the dangers 
+to birds that come with that; the buildings, the birds crash into and so forth. 
+Then in the seas, which might seem to be the last great frontier of wildness, humans are 
+everywhere. We control the amount of plastic that is endangering the digestion of marine 
+mammals. We control the amount of noise – this is a thing people don't realize. Most marine 
+creatures navigate more by hearing than by sight or smell. And the noise pollution that's out 
+there from humans is incredible.
+So, I mean, of course most of these examples are examples of bad things that we've created, 
+but the truth is there's absolutely no clear line between the conditions we've created and 
+conditions that would be there if we were had never existed, that's just a thought experiment 
+that we can't do anymore because we don't know what the world would be like if humans had 
+never existed.
+So what we do know is that right now we're in the driver's seat. We control the shape of those 
+habitats, whether air, land, or sea. And we can do a lot to make them more conducive to animal 
+flourishing.
+Sigal: Does that mean that even for issues that aren't directly, directly, directly traceable to us, 
+maybe a population imbalance between species, should we be using contraception to tackle 
+that?
+Martha: Well, population imbalance is almost always caused ultimately by things that humans 
+control because for example, why is it the villagers in Botswana think there are too many 
+elephants? Well, it's because they've allowed human population to grow so much and the 
+villages are are multiplying. And therefore the elephants are squeezed and they come into the 
+villages and they strip the bark from the trees and then the villagers cry out.
+And so in general, it's always a question of balance and humans never attend to the balance. 
+And so usually when there seem to be too many wild horses, say the ranchers in Wyoming. 
+Well, why do they say there are too many wild horses? They say that because they want to use 
+the land for grazing their future factory-farmed cattle.
+So it's always about humans trying to grab something that the animal might like to have.
+I think that if there's a population imbalance, first of all, humans have to control the human 
+numbers. That's the first thing. 
+But then there are sometimes cases where, let's say the habitat could support a certain number 
+of elks, but the elks have done well, so they're reproducing rapidly. And people say, oh, there 
+are too many elks. Probably, in this case, they're not saying it in a simply selfish way, but they're 
+just noticing that the elks don't get enough to eat.
+Sigal: Mmmhmm.
+Martha: What do we do? 
+Well, one possibility is we introduce hunting. People can shoot the elks. I don't like that for 
+obvious reasons. 
+Second possibility, we introduce wolves so that they tear apart the elks. Well, I don't like that 
+because it's a more painful death for the elks than it would be than even a bullet to the head.
+So I think better than either of those alternatives would be – I mean, I suppose we concluded 
+that humans have not really caused this problem, I still think that animal contraception should be 
+investigated as part of the solution. Because with human population, we've learned how to do 
+contraception. With animals, we haven't really learned forms of contraception that don't damage 
+the animal. We need to work on that. 
+But if we do the research and we get forms of contraception that don't impinge on the life of the 
+animal – and we have actually done that for smaller animals, for rats, for example. So rather 
+than having exterminators leaving out poison for rats right now a lot of cities are using 
+contraception for rats, which is much less cruel, and it's quite effective.
+Sigal: This is something I really like about your approach, that it recognizes that we as society 
+have many different important and irreducible values, and so sometimes they're naturally gonna 
+be in tension with each other. And we're inevitably gonna face tragic dilemmas or trade-offs, 
+sometimes between competing values. And sometimes the best we can do is try to find the path 
+that seems to minimize the pain that would be experienced by, let's say rats. But also that 
+protects what is maybe like a reasonable value for humans, which is not to have pests around 
+that might harm us.
+Martha: Yeah. 
+Sigal: So do you think we should intervene in any way when it comes to predators in the wild, 
+like lions and gazelles being eaten?
+Martha: Well, I think right now the answer is no. But I do think we should regard it as a problem. 
+Because these creatures suffer just as much as being killed by another animal as they would if 
+they were being killed by a human. 
+And where we live with an animal, we always do interfere. We don't encourage cats to kill little 
+birds. We teach them a substitute behavior. And so long as the cat is happy with the substitute 
+behavior, like, say, a lot of scratching or whatever, then things are okay. So we need to at least 
+investigate substitute behaviors for animals who are under our control in the wild. 
+But given that we don't know how to do that, and given that it's really, we'll mess it up if we 
+attempt to do that, right now I think the main thing is don't make money off of cruelty, which is 
+happening. So most eco safaris involve people who love cruelty paying a lot of money to the 
+tourist agencies in Botswana or whatever to go and see this predation taking place, and I call 
+this sado-tourism. 
+So I think the first step that we could take in the direction of limiting predation is not to 
+encourage it to happen by having an industry that makes a lot of human money off of it. And 
+that might mean that that species of wild dog would ultimately become extinct. But for me, it's 
+not the species that matters, it's the individual creatures.
+Sigal: Martha, thank you so much for talking to me today.
+Martha: Thank you so much. I really enjoyed talking to you a lot. 
+OUTRO/CREDITS:
+Erikk Geannikis [juh-KNEE-kiss] is our producer; Amy Drozdowska [drose-DUFF-
+skuh] is our editor, Patrick Boyd engineered this episode, Alex Overington wrote our 
+theme music, and A.M. Hall is the boss. 
+Let us know what you think. Drop us a line at the gray area at vox dot com.
+And if you appreciated this episode, please, share it with your friends. Send it to the 
+animal lovers in your life, and to the people like me who think they’re not animal lovers. 
+Maybe this is the moment where that changes for them, who knows?! 
+I’m Sigal Samuel, I write about the mind — from animal intelligence to artificial 
+intelligence — on vox dot com. Feel free to check me out there.  
+Sean Illing will be back next week with new episodes of The Gray Area….Episodes of 
+the show drop on Mondays and Thursdays. Listen and subscribe.
+
+
+1

@@ -1,0 +1,607 @@
+﻿Sean Illing + Thomas Chatterton Williams | 01/12/2023 | TGA | 
+PUBLIC TRANSCRIPT
+TITLE: Can race be transcended?
+
+SUBTITLE: Is it possible to move beyond racial identity? Or is that naive?
+
+DESCRIPTION: Sean Illing talks with author Thomas Chatterton Williams about race and 
+identity in America. Thomas has analyzed racial identity through the lens of his own 
+upbringing, and the performativity and pressures he experienced. In conversation with 
+Sean, Thomas speaks about how he sees these identities as restrictive connections to the 
+racial oppressions of the past, whether it's possible to achieve liberation without sacrificing 
+solidarity, and on the complex interplay between race and class.
+
+Host: Sean Illing (@seanilling), host, The Gray Area
+Guest: Thomas Chatterton Williams (@thomaschattwill), author; contributing writer, The 
+Atlantic
+References: 
+	Self-Portrait in Black and White: Family, Fatherhood, and Rethinking Race by 
+Thomas Chatterton Williams (W.W. Norton; 2019)
+	Losing My Cool: Love, Literature, and a Black Man's Escape from the Crowd by 
+Thomas Chatterton Williams (Penguin; 2011)
+	White Fragility by Robin DiAngelo (Beacon; 2018)
+	"Camus' Stance on Algeria Still Stokes Debate in France" by Eleanor Beardsley 
+(NPR; Nov. 7, 2013)
+	The Brothers Karamazov by Fyodor Dostoevsky (1880)
+	Between the World and Me by Ta-Nehisi Coates (One World; 2018)
+	South to a Very Old Place by Albert Murray (Vintage; 1991)
+	"The limits of anti-racism" by Adolph Reed (2009)
+ 
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area. Subscribe in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Editor: Amy Drozdowska
+	Engineer: Patrick Boyd
+	Editorial Director, Vox Talk: A.M. Hall
+
+
+INTRO:
+
+Sean Illing: Here’s a phrase you don’t hear much anymore: “Post-racial”
+
+If you were around back in 2008, this was a popular term…
+
+[CLIP: Obama’s 2008 Election Night speech in Grant Park] OBAMA: Hello, Chicago!
+
+America had its first Black President, the vibes were good, lots of optimism … 
+
+[CLIP] OBAMA: If there is anyone out there who still doubts that America is a place 
+where all things are possible… tonight is your answer.
+
+But Obama’s victory very quickly gave way to a reactionary movement on the Right…
+
+And….  since then….
+
+CLIPS: [flash-bang noise]
+NEWSCASTER: Police cars set on fire. Officers attacked. The fury ignited after 46-year-
+old George Floyd died.
+MATT GAETZ: There is an attempted cultural genocide going on in America right now.
+BEN SHAPIRO: Critical race theory essentially argues that racism is baked into all the 
+systems of American society.
+
+…the idea of a post-racial America seems naive.
+
+Is there anything we could do, individually or as a society, that could get us back to that 
+optimism for a post-racial America?
+
+ID: I’m Sean Illing, and this is The Gray Area.
+
+music 
+
+My guest today is Thomas Chatteron Williams … He’s a contributing writer at The Atlantic and 
+the author of Losing My Cool and Self-Portrait in Black and White … Both of which are memoirs 
+about his collision with race and identity in America.
+
+Williams is a controversial figure … His ideas about race are certainly unorthodox and that has 
+earned him a ton of critics … On the left and the right…
+
+It’s not entirely accurate to say that Williams is calling for a “post-racial” America … But he’s 
+definitely asking us as individuals to transcend race as an identity… 
+
+For him, our racial categories are prisons … And as long as we’re trapped inside them, we’ll 
+never escape the oppression they’ve helped create.
+
+It’s a provocative argument for sure … and for that reason it’s also the kind of argument we love 
+to engage around here … So I invited Williams onto the show to talk about it…
+
+music 
+
+Sean Illing: Thomas Chatterton Williams, welcome to the show.
+Thomas Chatterton Williams: Thanks for having me.
+Sean: So I wanna start with your background just a little bit. The way you talk about these 
+issues is really through the lens of your own life and your own experiences.
+Thomas: Sure. So I'm the first year of the millennial generation, born in 1981 in suburban New 
+Jersey. Very much still in a culture where the principle of the one drop rule governs your sense 
+of racial identity. So my father's a black man from the segregated south, from Texas, grew up 
+mostly in Galveston under segregation.
+My mom's a white evangelical Christian from Southern California. And we were what is called 
+today a multiracial family. But we didn't think of ourselves that way. We were, we were a Black 
+family, and I kind of, in retrospect, had a uncomplicated way of thinking of racial identity. So I 
+never really identified as biracial, didn't really have that terminology in my vocabulary until I was 
+in my twenties.
+I grew up very much with this sense of race as a binary, a Black, white binary, either or. My first 
+book is a coming of age memoir about hip hop culture and the street culture that's infused into 
+the music that, I guess, promoted a kind of idea of racial authenticity that there was a proper 
+way to behave as Black - as a Black male specifically.
+And so I - I wrote about kind of growing through this racial identity and then growing out of it in 
+my first book, Losing My Cool. And I thought that that was basically how I would think about 
+race forever, that Backness is more expansive than the way I had grown up thinking about it. 
+But then I moved to Paris when I was 29, and I married a French woman who - it dawned on me 
+- had blonde hair and blue eyes as my mother did, does. And it started to occur to me that if we 
+had children, that we might have children who it would be very difficult to physically recognize 
+as Black. You know, I had to recalibrate what I was prepared to do in raising a child and sending 
+a child into the world with the kind of racialized thinking that I had grown up with, and to decide 
+whether that was something to really be passed on.
+And so I thought, the physical presence of this child destroys the kind of fiction of race that I had 
+grown up believing, and it makes me have to step back and question the categories I pledge 
+allegiance to.
+Sean: So when you were growing up, did you feel your racial identity was a kind of 
+performance? Did you feel pressure to perform your race in that way?
+Thomas: Very much so. And a kind of criticism that I receive sometimes is that, well, you know, 
+growing up, we're all performing in many different ways and teenage identity is something very 
+much in flux and people are trying on different identities. And so to what extent was the racial 
+performance that you think of as so profound, to what extent was that just normal teenage 
+insecurities and things like that? 
+And you know, that's a very good question, and I can't separate the degree to which some of 
+what I'm thinking about is just the insecurity of teenagehood. But I was very much performing a 
+kind of idea of black masculinity that I think was marketed and sold to my generation, the kind of 
+racial performance that I very much would say I was doing when I was in school or at the 
+basketball court or whatever was in tension with the kind of identity that I inhabited in my 
+father's household. 
+And I used to think that one was a more authentic Black identity, and that would be the one 
+outside of my father's household. And the identity at home was something else than that. And 
+the book was my resolving the fact of the expansiveness of Blackness and that they were not 
+actually in a racial tension.
+Sean: So when did that binary logic of race that you grew up in, we all kind of grow up in, when 
+did that start to crumble for you? When did your self-conception really begin to shift?
+Thomas: When I held my, my daughter Marlow in 2013 is when my sense of the way race 
+works fell apart. 
+And to reiterate, I didn't think, here I have a white child. I thought this child is. Somewhere 
+between 20 and 25%, Sene-Gambian, West African descended. No one in the street can look at 
+her and perceive that. What does that mean to call that person white? What does it mean to call 
+myself Black if I can produce a child that looks like that? I think that these categories don't 
+contain us, and I suspect they might not contain other people as well. But we just happen to be 
+living on the very margins where they fall apart.
+Sean: So fast forwarding to the present. You just used the word category. You know, is the 
+main problem for you the fact that we seem to be trapped in these racial categories?
+Thomas: Yeah, very much so. I just think that we're drowning in the boundaries of identity, of 
+abstract group categorization that oftentimes really oversimplifies the multiple identities that we 
+always inhabit and, and flip around. And that speak to the expansiveness of our human 
+experiences, you know, and we reduce everything to the idea of here I am, a mixed race Black 
+man, but a Black man all the same, because a drop of Black blood makes a person Black 
+because you can't be white because white is, is free and Black is enslaved. And I'm talking to a 
+white man and you have privilege and I can't understand certain things about you and you can't 
+understand certain things about me. Or we have to present ourselves that way to be fully 
+respectful of the way the discourse is supposed to operate now, you're supposed to defer to me 
+on certain matters, and that's the kind of gallantry that you perform for me, because we're 
+supposed to understand you as having started out with certain advantages that are withheld 
+from me.
+And I think that this is just not how human life works. And I think that it causes quite a lot of the 
+problems that we're dealing with politically, intellectually, culturally. There's a real historical 
+wound that I don't think we can downplay. But sometimes a correction can become an over-
+correction, and a solution to a problem can actually become, in many ways, a problem in its own 
+right that rivals the thing it was trying to remedy.
+Sean: Yeah. You know, I will say that I share your discomfort with racial essentialism for lots of 
+reasons. I mean, I guess the most obvious of which is that the most committed racial 
+essentialist are also the most committed racist.
+Thomas: Very much so.
+Sean: You know who loves racial essentialism? Richard Spencer. You know, the whole notion 
+of his or anyone's white supremacy sort of falls apart without the bogus claim that white people 
+are biologically distinct from, and therefore, superior to other races.
+Thomas: Very much so. I think that, and they don't start from the same motivation, but there is 
+a point at which a kind of anti-racism starts to reproduce the exact same categories of thought 
+that race is the thing that's real and the thing that cannot be transcended starts to reproduce 
+that in a way that would make quite a lot of sense to the actual racist.
+They just don't necessarily buy into the same hierarchical reasoning. But they start from a lot of 
+the same presuppositions. And it actually gets you to a similar place. 
+Richard Spencer believes a lot of the same things that you can hear the most prominent anti-
+racist, like Robin DiAngelo say. He thinks that whiteness is a thing that's very real and that 
+curtains people like you off from people like me, and that those boundaries are what matter 
+most in our interaction.
+I don't think that gets us to where we want to be if we wanna make a multi-ethnic society that 
+allows individuals to flourish. 
+So I come from a position that is somewhere in the center, and tries to avoid the kind of race 
+essentialism that encroaches from both the left and the right. And that's a place that angers 
+quite a lot of people.
+Sean: I think as a service to the audience, it may help to just kind of say briefly what we mean 
+by race essentialism. I mean, for me it just, pretty simply, it just means the idea that every race 
+has some kind of essence that makes it distinct and separate and often better or less than other 
+racial groups.
+I don't know if that maps with your definition.
+Thomas: Even if you take out the better or less than, which is what the racist would apply, a 
+racist might say. I think it's actually really good that Black people can dance really well. Black 
+people dance well. That's insanely racist, and it's not even true because every single quality that 
+you associate with a race, individuals can disprove that. 
+To reduce the individual to the quality of the group is to diminish the individual.
+Sean: Yeah. Yeah.
+Thomas: All of that kind of thinking. It's so deeply problematic. But we all, we all slip into this 
+from time to time. And sometimes people will try to get out of the biological race essentialism, 
+but they'll do something culturally or socially that essentially functions as though it's a biological 
+reality. So ‘Black people behave this way, or Black people like these things, or Jewish people do 
+this.’
+And it might as well be a biological effect because you socially construct it to the point that it's 
+so limiting that it still diminishes the individual's capacity to surprise.
+Sean: All right, let's get into the meat of this. 
+My instinct, like the place I'm coming from, is a kind of lefty class politics. And for me, the 
+political toxicity of race makes me want to avoid it as much as possible because I think it often 
+makes achieving social justice more difficult because of the toxicity.
+But I also understand that it's incredibly easy for me to say that. I'm not just trying to say the 
+right thing here. You know, I'm genuinely conflicted about what I don't understand, maybe what I 
+can't understand about my own blind spots. 
+I just wanna put that out there on the table.
+Thomas: Well, I think that we need more kind of honest conversation the way you set this up 
+between people who are racialized in society as other, and, and people who are racialized as 
+white and kind of occupy that. The way we've thought about race for so long is like a neutral 
+space, like whiteness just is, and everybody else is a degree of deviation from that white, 
+invisible norm.
+And I also don't think that, you know, racialized people, Black people, other types of non-white 
+people have all of the answers and this conversation is going to have to be a dialog. You can 
+have blind spots because you are Black. 
+One of the things that Albert Camus, who's one of my favorite writers said that really stuck with 
+me is that, you know, he was catching so much hell for being pretty quiet on the Algerian 
+question, when Algeria was fighting for independence and Sartre and everybody were, were 
+accusing him of shirking his responsibility as an Algerian to weigh in.
+And he said, and it's important to know he's a French Algerian, but he considered himself an 
+Algerian. He said, ‘on the contrary, it's precisely because I'm from Algeria that I want to be quiet 
+here because I think my identity can blind me to what might be the, the correct analysis.’
+Sean: Yeah, well, you get lots of points for invoking Camus I, we've done a couple episodes 
+about him. 
+Thomas: Really?
+Sean: Yeah, he's, uh, one of my moral heroes, as nerdy as that sounds.
+Thomas: Mine too. I, I'm gonna teach a course on him at Bard next semester.
+Sean: Oh, right on. Anyway, we're off the tracks. 
+music 
+
+Alright, we'll get ourselves back on track here… 
+
+I want to ask Thomas: Is it a reasonable political goal in America, to 
+transcend race altogether? 
+
+And I will, after a quick break.
+
+ 
+
+MIDROLL 1
+
+music 
+
+Sean: So how then would you describe your political project, do you want us to transcend race 
+altogether? Is that ultimately the goal?
+Thomas: Yeah, I think that we won't achieve the kind of multi-ethnic societies that most of us 
+would like so long as we keep reproducing habits of thought that were passed down to us from 
+the plantation, from the collision of Africa and Europe in the new world, through a fundamental 
+economic oppression that created a class of slaves.
+I don't think that these are rehabitable categories. You can try to capitalize the B in Black, make 
+white people live with the lowercase w. Those categories still imply a hierarchy that even trying 
+to correct them only reinforces, doesn't actually change. I think we have to have fundamentally 
+kind of new thinking about ourselves and each other.
+And having new ways of seeing ourselves in each other. We're gonna have to find new ways to 
+talk about these things, and doubling down on identity is not working.
+Sean: Well, I mean, the thing about identity, I mean, every identity, you're right, is a social 
+construct. But that means it's not just a decision we make as individuals, right? It's something 
+that's affirmed and reinforced and often imposed on us by other people.
+Thomas: It's a constant negotiation.
+Sean: Yes, that's a better word for it.
+Thomas: Between your idea of yourself and the identity reflected back at you from the 
+institutions and people you interact with. 
+So I can't just say I'm anything, and that's the end of the conversation. But we can collectively 
+decide to change the way we think about certain things. People often say, well, even if it's not 
+rooted in biology, I, I'm attached to my identity as, as X. 
+And I think you still can be. But I think you can say that a certain community of people created a 
+certain music in a certain geographical location, and, and that's the tradition that you come from 
+and you feel attached to that, but you don't have to actually go through the steps of racecraft 
+that make that a kind of ethno-biological reality.
+Sean: For you, like when does adherence to a social category like race become so ingrained 
+that it effectively takes on the significance of a biological category?
+Thomas: That's a great question. When does it take on that significance? 
+I think it takes on that significance when you simply reproduce the ways of thinking that are 
+handed down to you. And it ceases to be that when you take the time to figure out who you 
+actually are as an individual, the expansiveness of your humanity and what connects you to 
+others. 
+For me, that inkling of this happened when I was 19 years old and I read The Brothers 
+Karamazov and I realized my inner states were being described by a Russian racist who lived in 
+the 1800's and was a proselytizing zealot. He was able to describe the interstates of my being 
+fundamentally in a way that the people who looked exactly like me and lived next door to me 
+could not. That planted the seed of questioning, might there be something that is actually my 
+identity that doesn't fit in this way of thinking that I've been told is the way the world works. 
+So I don't know if that answers your question, but I think that thinking very seriously about who 
+you are specifically is the first step out.
+Sean: I find myself struggling in these ways when I'm having conversations about 
+postmodernism or something like that, where it's like, yeah, yeah, yeah. Most of our categories, 
+maybe all of our categories, depending on who you ask, are just totally foundationless If you 
+plumb them to their depths, really.
+And I just don't know how much that fact really matters in a practical sense since we are such 
+socially embedded creatures. And you know, at some point, and I don't know when this 
+becomes just kind of an academic exercise, and then once we step out of the seminar room, 
+we're bombarded by the realities of the social world that we live in.
+Thomas: Well, that's the most common pushback I think I always get, is that this all is fine and 
+good until you step out in the real world and you're enmeshed in a social construct that has 
+repercussions if you interact with a police officer or all these things. 
+And that's true. And you know, I don't think that we have to have 100% buy-in to the kind of 
+argument I'm making that we need to transcend race. But I think that norms can change and we 
+can have more subtle ways of thinking of ourselves and each other than we do now. And there 
+can be a kind of partial victory and there can be communities in which there is a better way of 
+thinking about these questions than there tends to be right now.
+And so that's what really worries me about what's going on in, in elite spaces. In media, cultural, 
+artistic, elite, corporate institutions, the lack of good thinking and new thinking on race that's 
+happening in those spaces is - it's the opposite of what I would hope for. I would hope that we 
+would have the best thinking on how to transcend race in the universities. 
+And we actually have some of the most regressive thinking on racial categorization there, or in 
+museums or in magazines now.
+Sean: We may agree on this. I mean, I, part of the problem for me is that too much of this 
+discussion is actually anchored to – or it's happening in elite spaces. 
+And part of what I try to do on the show and in my life, just as a moral exercise, is try really hard 
+to imagine the world from the perspective of someone who's living a very different kind of life. To 
+the extent that that's possible. 
+If you're a Black person occupying a very different social space than someone like you or me 
+now today – do you really have a choice to not identify as Black if the world you swim in every 
+day is constantly reinforcing that identity?
+Thomas: It's a good question, but you had mentioned earlier a very important word that we 
+barely touched on, which is class. And I think that we could clear up a lot of confusion about 
+essentialism and racial categorization if we would, as a culture, spend more time dwelling on the 
+ramifications of social class. 
+And I wonder to what extent the sense of entrapment in racial categorization that that Black 
+person who's having a different experience in life than both of us are – I wonder to what extent 
+that's governed by their class position. And I wonder to what extent you and I can understand 
+each other and can take certain ideas and practices and norms for granted that a working-class 
+person in Mississippi not far from where you are now, would not be able to participate in even if 
+they're white.
+Sean: Yeah, I mean, I, I think race and class and all these things intersect in really complicated 
+ways. You know, I don't know if — it may well be that a poor white kid and a poor Black kid in 
+Mississippi have more in common or have a more similar experience of the world than a poor 
+black kid in Mississippi and a very rich Black kid in Manhattan or San Francisco or something 
+like that.
+Thomas: That's been my experience.
+Sean: I mean, I don't know. I'm, I'm speculating.
+Thomas: I – to a degree more than most people that I socialize with now – I've, I've lived in 
+several different classes and I think that the working class Black kids that I grew up spending 
+quite a lot of time with in my childhood had a lot more in common with the working class Italian 
+kids that I grew up with in New Jersey than they do with the kinds of upper middle class and 
+well-to-do Harvard-educated Black people that I encounter in adult life.
+Sean: Yeah, I mean, I guess the point I was just getting at is that someone living a very different 
+life under very different conditions is gonna experience the world differently and therefore have 
+a different set of choices and pressures. Which isn't to say that even then there isn't some 
+degree of freedom to choose or think differently, but it is to say that it's hard, man, like really 
+hard.
+Thomas: I agree with you. But I think a lot of things that matter are hard and are challenging. 
+I think it was really hard for a lot of people to change their thinking on who can marry or to what 
+degree people can be openly gay in our society. And that's one of the most incredible things 
+that I've ever seen is the speed, the rapidity with which an entire social norm could change in 
+less than 20 years.
+The entire culture shifted on something like that. And so I think it's possible, and I think that was 
+hard. And I think that's actually something that had buy-in from elites, certainly. 
+But you can also talk to a lot of people of different class levels who now fundamentally think 
+differently about sexual preference.
+Sean: Yeah. And even saying that class and race intersect in complicated ways isn’t an 
+argument for ignoring race. I mean, that – that doesn't work either. It's just to say that the picture 
+is really muddled because, well, reality is really freaking muddled, you know? 
+Thomas: It is.
+Sean: And this is partly why class transitions from one generation to another can be so 
+disorienting to families.
+Maybe race isn't real in the particular way that you're talking about, but a common experience in 
+the world produces a shared consciousness, and that's real.
+Thomas: That's right. I think that's a fantastic way of making the point. 
+Race is classed and class is raced. 
+What you're talking about, the kind of jarring class transition, it can feel like a racial betrayal, 
+because I think there's a fundamental misunderstanding of what the thing was that united us 
+was a racial identity or authenticity. But in fact, what it was was a shared experience. 
+Which is why it's so important to have many more kind of stories, many more kind of narratives 
+of what it means to be X category so that you see the expansiveness. 
+We need more expressions of what it means, and I was stuck in a single story growing up. And 
+what I was pushing back against and recoiling from was this notion that I had to perform a single 
+story, to have that negotiation between my sense of self and the others around me be validated.
+Sean: You're not necessarily asking Black people to give up their racial identity altogether. 
+You're really asking white people to give up their whiteness.
+Thomas: Oh yeah.
+Sean: Is that something that has to happen first or is this something that has to happen 
+simultaneously or, or what? Because I think this is actually an important point.
+Thomas: Right. I'm glad you brought that point up because none of this can work so long as 
+white people fundamentally believe that they're white and that that's a real category, and that 
+makes them different from people who are considered non-white. 
+You actually have to have white people cease buying into the racial binary to make any 
+progress, especially when you just think about how many people in America are considered 
+white and how many people are not. I mean, white people are still most people in America, so 
+you need them numerically, if nothing else. But also because they set the terms of the racial 
+binary. Whiteness is defined as not being that racialized Other. 
+But I do think that, you know, somebody has to make a move first, and so rather than wait for 
+white people to stop at some point in the future, Blacks and other non-whites might have 
+something to contribute here by modeling how to transcend racialized thinking.
+Sean: Yeah, I guess what I'm pushing on here is… so these categories were imposed on Black 
+Americans by white Americans, right? So it's not like Black self-awareness is the cause of anti-
+black racism. 
+Thomas: Absolutely.
+Sean: Right. And even the lefty materialist in me has to say that even, even if on a cultural and 
+psychological level, hell, the metaphysical level, even if Black people and white people were to 
+abandon these constructs yesterday, we'd still be confronting the material disparities in our 
+world, say, in our criminal justice system or, wherever. Right?
+Thomas: That's right.
+Sean: Making a move on one front doesn't eliminate or do anything about the problem on the 
+other, and that – I don't know what to do then, you know?
+Thomas: Well, even criminal justice and some of the material discrepancies benefit from being 
+looked at through lenses other than strictly racial lenses.
+Sean: Yeah. Yeah.
+Thomas: Black Lives Matter was a really interesting movement in raising awareness about the 
+degree to which people die in the custody of police far too frequently in this country, and a 
+disproportionate amount of those people will be Black. The most disproportionate amount are 
+actually Native American. But the most numerically are white. So I think that you can frame the 
+issue as a racial issue. And that gets you so far.
+But it might actually be better to frame the issue as one that's universally applicable. We have a 
+problem of American citizens dying and being abused in the custody of law enforcement that's 
+really out of whack with Western country norms. And this is something that affects us all as 
+American citizens, and we should all be concerned about this. And you can kind of do away with 
+the racecraft.
+This is something that has been reiterated by people like John McWhorter or Coleman Hughes 
+or Glenn Lowry. And they're coming from a Black kind of perspective that people don't often 
+wanna hear. But for every example of abuse you can find that fits X race category, you can find 
+it for Y race category also. You can find white people who have died in every imaginable way in 
+police custody. 
+That's not to say that there's not a history of real racism, and that Black people don't have every 
+reason to feel particularly menaced throughout American history by law enforcement and also 
+failed by government protections. That's all real. 
+But I don't necessarily know that the solution is to only, like, focus on the racial lens as opposed 
+to the other lenses that we can apply.
+Sean: Yeah. I mean, I would reject that false choice for sure. Right. I don't think when you're 
+dealing with social problems, I don't think it ever makes sense to focus on only one variable. 
+Right?
+Thomas: And you sound very reasonable saying that, but we often are being encouraged to 
+focus on only one. I think that we are in a moment where there is an extraordinary pressure to 
+reduce everything to one. 
+Here is the single lens, and it's every aspect of our coverage now. We're being forced to think 
+about things in terms of identity. And it falls apart with the… the lightest scrutiny. 
+The single lens.
+music 
+
+The idea of rejecting racial identity might seem liberating. 
+
+But for many Americans, racial identity doesn’t seem like something you 
+can just opt out of. 
+
+I’ll ask Thomas about this… after one last quick break.
+
+ 
+
+MIDROLL 2
+
+music 
+
+Sean: I can imagine plenty of Black Americans – well, I don't have to imagine this, plenty of 
+Black Americans have these arguments – that the racial cleavage in this country is so deep and 
+so central to our history and our culture, that Blackness isn't something they can escape, even if 
+they want to. And therefore their Blackness has to be defended and asserted.
+Does that make any sense to you?
+Thomas: It does make sense to me. You know, that resonated with me when I read Ta-Nahesi 
+Coates' Between the World and Me, a book that I profoundly disagree with on some levels. But 
+when he said, you know, they made us a race, but we made ourselves a people. We made a 
+culture and this culture is beautiful. And he described, I think, going through an airport, passing 
+by another by Black guy, and the nod that they gave each other. And he just said, that's a 
+beautiful aspect of being Black. 
+And I participate in some of that culture and find it meaningful. You know, it's a cliche, but that 
+nod is a real thing and it's nice. And I don't think that that has to be actually racialized to be 
+meaningful and to be kept. 
+But whether or not this identity was imposed on you, or this racial categorization was imposed 
+on you, you can continue to reproduce something. You can take the N-word and try to make it 
+positive or whatever you wanna do. That's your choice. But that doesn't necessarily mean that's 
+the best strategy for transcending the initial harm. 
+One of the greatest contributions America made to world culture is the kind of music that's 
+rooted in the blues, that goes through jazz, that goes through R&B, gospel, hip hop. That's a 
+contribution from the people who were enslaved in this society. They made the kind of world-
+defining culture that in many people's minds is synonymous with America. 
+That's all beautiful. 
+But that doesn't mean that being racialized as black through slavery wasn't a fundamental harm. 
+Being made Black in a racist society was, was a harm that was done. I would also say, and this 
+is not my original argument, James Baldwin is probably the most eloquent person to make this 
+point. Being made white in a racialized and racist society is an enormous harm. I saw my white, 
+racist maternal grandfather harm himself through his belief in a racial hierarchy and his position 
+in it as a white man, and it destroyed his ability to have a fully loving relationship with his 
+daughter.
+So I would say white people would benefit just as much as Black people from throwing off the 
+racial harm of their white identity.
+Sean: That may well be, I mean, I, I guess I'm thinking like, in a purely political frame, the thrust 
+of the point I was just making is that, you know, Black solidarity might be politically essential for 
+achieving racial justice. Right. And sacrificing that, or throwing that off would very likely just 
+favor the status quo. Right? And if you're on the wrong end of the status quo, that's a problem. 
+Sometimes the insistence on a very individualist view of the world runs into a wall for me. You 
+know, the individual becomes too abstracted from the concrete realities of social life. 
+And I just dunno how far that can take us, you know?
+Thomas: I think about it a lot. And I think sometimes of a kind of point that Albert Murray would 
+make, which is like at the end of the day, Black people have only ever been at most 13% of the 
+population. So that kind of racialized solidarity is only gonna get you so far. 
+In my way of thinking, organizing politically around racial identity in terms of numbers is always 
+gonna be a losing proposition for Black people.
+And it's not really a kind of organizing principle that you would want to see white people 
+reinvesting in. You always need coalitions and coalitional thinking. And so I would rather 
+organize around values and shared goals than around shared depressions and histories of 
+categorical thinking.
+Sean: This is an area for me where in a lot of ways the political questions are harder than the 
+ethical questions, right? Like even if we can agree on normative questions, the question of like, 
+okay, well what's the best way to achieve these things given all the political constraints? I don't 
+know the answer to that is, I don't know that anyone has an answer to that. 
+But one thing I have said before on this show is that there is always a potential trap that we can 
+get so invested in our identities and our struggles for meaning and justice that it can become 
+very difficult to move beyond them no matter how much material conditions improve. 
+And I know I'm really leaning into my ambivalence in this conversation, but I do share concern, if 
+that's the right word, that our current politics, in a lot of ways, is a perpetual ripping off of old 
+wounds. And that can breed a lot of inertia and stuckness and frustration. 
+But then at the same time, leaning too much into that feels like a turning away from fresh, open 
+wounds.
+And sometimes it's hard to know where the old wounds end and the fresh wounds begin. Or 
+even if there's a line between them at all.
+Thomas: Right. I agree with everything that you're raising as a kind of form of ambivalence. I 
+have quite a lot of ambivalence myself. I really don't think of myself as somebody who wants to 
+reduce very complex questions to very simple platitudes and solutions. And I realize for a lot of 
+people, the kind of solution that I'm comfortable with isn't comfortable for them now, but I'm 
+trying to raise questions and have conversations that I think are important without trying to just, 
+in an oversimplified way, say that we should just not see race or things like this. I'm not trying to 
+have conversation on that level. 
+So your ambivalence is something that I really, that resonates with me. 
+This is a really important thing that we should all be asking ourselves. To what extent are we 
+really dealing with the weight of history? To what extent are we really wounded? To what extent 
+are some of the things that happened to us about the way we've been categorized? And to what 
+extent are some of the things that happened to us just the ordinary and inescapable 
+disappointment, pain, hardship, difficulty of being human and being alive, trying to make 
+meaning out of a life that is often not perfect and wouldn't be perfect, were you to have the 
+racial wound addressed? And how much of the things that we think are so predetermined by our 
+identity category, how much of that is just the real, what Albert Murray or, or Stanley Kurtz was 
+called just the blues of being alive, the inherent blues of being a creature that's trying to make 
+meaning for a very short period of time and will die?
+Sean: Look, I can say for sure that I would much rather live in a world where our race was the 
+least interesting, least notable thing about us. I just don't know that we'll ever get there and, and 
+maybe I end up somewhere between the pessimism of someone like a Ta-Nahesi Coates, and 
+some of what I would call some optimism in your work.
+But, you know, we, we are such tribal creatures. We derive so much meaning from the 
+distinctions we make between ourselves and other people. And it is so stupid and so 
+dangerous. But race seems to be an irresistible distinction for our species. And in any case, it is 
+a distinction that is imposed on us. And more importantly, it's a distinction that has produced 
+real concrete inequalities. 
+And I'm not sure we can deal with those and let go of those distinctions at the same time. Or I'm 
+not sure if we can let go of those distinctions UNTIL we've addressed those inequalities.
+And maybe that's where, maybe that's where I land on this.
+Thomas: Yeah, I land somewhere similar. I mean, I think that one of the best ways, or the most 
+obvious ways to fix, if not all of it, quite a lot of the racial question would be to address the 
+economic inequality question. I think that in settings where people meet as more or less equals, 
+they can be astonishingly diverse places where people actually interact with each other.
+So that's just to say that the class question, I think, is one that matters a lot and gets short shrift. 
+And this is Adolph Reed's point and there's a kind of black socialist tradition of this, that the 
+focus on race is actually an obfuscation from the thing that's really keeping us from achieving 
+what would actually be the racial equality that we're looking for.
+Sean: Like you mentioned France. You live in France and, and they don't keep track of race in 
+the same ways that we do, but France is still a deeply racist society in lots of ways, even though 
+they don't formally recognize race the way we do. Which I guess just sort of raises that question, 
+right, like, does ignoring race do anything to undercut what we'd all agree are racist outcomes?
+And clearly it doesn't, or it's not sufficient.
+Thomas: It's not sufficient, but I would say that that's still a very class-based social reality that is 
+also racialized. 
+So France is also, you know, an aristocratic old country where, you know, the people who 
+control the best opportunities and positions have always been white because the country wasn't 
+even diverse until after the second World War. 
+So it's very difficult to separate that as a racial question from the fact that the people who are 
+white today are the people who have always been in positions of social prestige. 
+I think it looks very similar to America, when you get into rooms where the people who are 
+racialized as minorities are on equal social and economic footing with whites. Then you don't 
+necessarily have the same kind of skin-based racism that you might imagine you would have if 
+the society were truly a white supremacist society. If that makes sense. 
+You have to have a kind of economic material concern to answering these questions. And what 
+a lot of the discourse focuses on is the kind of permanent, identity-based race wound that can 
+never be made whole, no matter what opportunities are extended or, or what outcomes begin to 
+amass. There will always be this permanent wound that we must – I almost wanna say, remain 
+loyal to. 
+Because it's terrifying to imagine transcending the wound. It almost feels disloyal in certain 
+ways. It's scary.
+Sean: I guess I would say I'm sympathetic to a lot of the arguments you make and I, I'm 
+certainly sympathetic to the broader political project of defanging the power of these divisive 
+racial categories. 
+And in the end, I don't know if your project is hopelessly naive or precisely the kind of naivete 
+we need to transcend the prison of our past. If I'm being truly honest, I think it's probably the 
+former, but you know… what the hell do I know? 
+I do know this, at least. I'm thankful that we're at least having these conversations and I 
+appreciate you being here to have it with me.
+Thomas Chatterton Williams. Thanks for coming in.
+Thomas: It was a pleasure to talk with you. Thanks for having me.
+
+music 
+
+
+OUTRO/CREDITS:
+Erikk Geannikis is our producer, Amy Drozdowska is our editor, Patrick Boyd 
+engineered this episode, Alex Overington wrote our theme music, and A.M. Hall is the 
+boss. 
+I was really thankful to have that exchange with Thomas. There are places where we 
+converge, and there are places where we diverge. And there are places where, as I said 
+in the conversation, I’m really just uncertain about what to think. I think it’s always a 
+good thing to think about it aloud with someone.
+And, I will say this, I guess you could listen to Thomas or read Thomas and assume that 
+he’s making a very simplistic case for just moving beyond race. But I don’t think that’s 
+quite right. I do think he acknowledges the complexities here in what seems to me a 
+good faith way. And that’s what we’re all about
+As always, let us know what you think about this one. Drop us a line at the gray area at 
+vox dot com.
+And if you appreciated this episode, please, share it with your friends, tweet it, 
+Instagram it, whatever you do, just, do all of it.
+We’re off on Monday for Martin Luther King Day, but new episodes of The Gray Area 
+will return next Thursday.
+
+1

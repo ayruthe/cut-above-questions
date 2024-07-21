@@ -5,6 +5,8 @@ An ML solution for generating better interview questions based on Q&amp;A dialog
 
 Block Diagram. 
 
+![block diagram](images/system_design_block_diagram.png "Title")
+
 # Dataset and Preprocessing
 
 Example transcripts. Preprocessing steps. 
@@ -12,6 +14,17 @@ Example transcripts. Preprocessing steps.
 # Feature Analysis
 
 Sentiment and NER analysis.
+
+![analysis](images/ner_analysis_1.png "Title")
+
+![analysis](images/ner_analysis_2.png "Title")
+
+
+
+Answer Length by NER in Question for All NER Types          |  Answer Length by NER in Question for Person NER Type
+:-------------------------:|:-------------------------:
+![ner](images/answer_length_by_question_ner.png "Title")  |  ![ner person](images/answer_length_by_question_ner_person.png "Title")
+
 
 # Generated Interview Question Examples
 

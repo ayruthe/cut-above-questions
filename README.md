@@ -26,7 +26,7 @@ The `TranscriptDataset` class is used to preprocess the transcript text files in
 
 This analysis looks at how named-entities are represented in Q&A pairs. Each question and answer is analyzed for named-entity counts, then the previous answer named-entities are compared with the next question named-entities, creating a heatmap as shown below. Each heatmap cell is colored by the average answer length for that pair of (number of question named-entities, number of answer named-entities). The following annotaed charts walkthrough difference cases for combinations of named-entities with examples. Click on the picture to open a high resolution view.
 
-**[This chart is interactive, give it a try here!] (https://ayruthe.github.io/cut-above-questions/)**
+**[This chart is interactive, give it a try here!](https://ayruthe.github.io/cut-above-questions/)**
 
 ![analysis](images/ner_analysis_1.png "Title")
 

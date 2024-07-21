@@ -28,9 +28,9 @@ This analysis looks at how named-entities are represented in Q&A pairs. Each que
 
 **[This chart is interactive, give it a try here!](https://ayruthe.github.io/cut-above-questions/)**
 
-![analysis](images/ner_analysis_1.png "Title")
+![analysis](images/ner_heatmap_analysis_1.png "Title")
 
-![analysis](images/ner_analysis_2.png "Title")
+![analysis](images/ner_heatmap_analysis_2.png "Title")
 
 
 #### Named-Entity Q&A Answer Length Analysis

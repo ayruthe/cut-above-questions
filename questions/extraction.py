@@ -10,6 +10,56 @@ from plotly.subplots import make_subplots
 from questions.files import load_json
 
 
+def meshgrid_stats(x, y, z):
+    """Generate a 2D value grid for heatmap values based on answer length stats.
+
+    Args:
+        x: data along the heatmap x-dimension
+        y: data along the heatmap y-dimension
+        z: data for the color coding of heatmap z-dimension
+    """
+    x_vals, x_idx = np.unique(x, return_inverse=True)
+    y_vals, y_idx = np.unique(y, return_inverse=True)
+    
+    z_grid = np.empty(x_vals.shape + y_vals.shape, dtype=float)
+    z_grid_min = np.empty(x_vals.shape + y_vals.shape, dtype=float)
+    z_grid_max = np.empty(x_vals.shape + y_vals.shape, dtype=float)
+    z_grid_count = np.empty(x_vals.shape + y_vals.shape, dtype=int)
+    
+    z_grid.fill(0.0)
+    z_grid_min.fill(0.0)
+    z_grid_max.fill(0.0)
+    z_grid_count.fill(0)
+    
+    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
+        c = z_grid_count[xi, yi]
+        z_grid[xi, yi] = (c * z_grid[xi, yi] + z.loc[idx]) / (c + 1)
+        z_grid_min[xi, yi] = np.min([z_grid[xi, yi], z.loc[idx]])
+        z_grid_max[xi, yi] = np.max([z_grid[xi, yi], z.loc[idx]])
+        z_grid_count[xi, yi] += 1
+    return z_grid, z_grid_min, z_grid_max, z_grid_count
+
+
+def meshgrid_str(x, y, z):
+    """Generate a 2D value grid for heatmap values based on NER strings.
+
+    Args:
+        x: data along the heatmap x-dimension
+        y: data along the heatmap y-dimension
+        z: data for the color coding of heatmap z-dimension
+    """
+    x_vals, x_idx = np.unique(x, return_inverse=True)
+    y_vals, y_idx = np.unique(y, return_inverse=True)
+    z_grid = np.empty(x_vals.shape + y_vals.shape, dtype='U200')
+    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
+        if z.loc[idx] not in z_grid[xi, yi]:
+            z_grid[xi, yi] = z_grid[xi, yi] + z.loc[idx] + '<br>'
+    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
+        if z_grid[xi, yi][-2:] ==', ':
+            z_grid[xi, yi] = z_grid[xi, yi][:-2]
+    return z_grid
+
+
 def interview_named_entity_analysis(file: Path):
     """Evaluate the relationship between questions and answers in a conversational interview.
 
@@ -118,15 +168,7 @@ def interview_named_entity_analysis(file: Path):
 
 
     df = pd.DataFrame(ner_comp_data)
-    fig = px.scatter(
-        df, 
-        y="Answer Named-Entity Count", 
-        x="Question Named-Entity Count",
-        size="Answer Length",
-        width=800, 
-        height=1600,
-        size_max=60,
-        )
+    fig = px.scatter(df, y="Answer Named-Entity Count", x="Question Named-Entity Count", size="Answer Length", width=800, height=1600, size_max=60)
     fig.update_layout(title=dict(text=f"Interview Answer Named-Entity Count\nby Question Named-Entity Count", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
     fig.write_html(f"results/bubble_ner_people.html")
     
@@ -144,66 +186,5 @@ def interview_named_entity_analysis(file: Path):
             1, 1)
         fig.update_layout(xaxis={'title':'Interview Question Named-Entity Count'}, yaxis={'title':'Interview Answer Named-Entity Count'})
         fig.update_layout(title_text=f'Interivew Q&A Named-Entity Analysis: How Interview Questions Impact {metric} and Topic')
-        fig.update_layout(
-            autosize=False,
-            width=800,
-            height=800,
-            margin=dict(
-                l=50,
-                r=50,
-                b=100,
-                t=100,
-                pad=4
-            ),
-        )
+        fig.update_layout(autosize=False, width=800, height=800, margin=dict(l=50, r=50, b=100, t=100, pad=4))
         fig.write_html(f"results/heatmap_ner_{metric}.html")
-
-
-def meshgrid_stats(x, y, z):
-    """Generate a 2D value grid for heatmap values based on answer length stats.
-
-    Args:
-        x: data along the heatmap x-dimension
-        y: data along the heatmap y-dimension
-        z: data for the color coding of heatmap z-dimension
-    """
-    x_vals, x_idx = np.unique(x, return_inverse=True)
-    y_vals, y_idx = np.unique(y, return_inverse=True)
-    
-    z_grid = np.empty(x_vals.shape + y_vals.shape, dtype=float)
-    z_grid_min = np.empty(x_vals.shape + y_vals.shape, dtype=float)
-    z_grid_max = np.empty(x_vals.shape + y_vals.shape, dtype=float)
-    z_grid_count = np.empty(x_vals.shape + y_vals.shape, dtype=int)
-    
-    z_grid.fill(0.0)
-    z_grid_min.fill(0.0)
-    z_grid_max.fill(0.0)
-    z_grid_count.fill(0)
-    
-    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
-        c = z_grid_count[xi, yi]
-        z_grid[xi, yi] = (c * z_grid[xi, yi] + z.loc[idx]) / (c + 1)
-        z_grid_min[xi, yi] = np.min([z_grid[xi, yi], z.loc[idx]])
-        z_grid_max[xi, yi] = np.max([z_grid[xi, yi], z.loc[idx]])
-        z_grid_count[xi, yi] += 1
-    return z_grid, z_grid_min, z_grid_max, z_grid_count
-
-
-def meshgrid_str(x, y, z):
-    """Generate a 2D value grid for heatmap values based on NER strings.
-
-    Args:
-        x: data along the heatmap x-dimension
-        y: data along the heatmap y-dimension
-        z: data for the color coding of heatmap z-dimension
-    """
-    x_vals, x_idx = np.unique(x, return_inverse=True)
-    y_vals, y_idx = np.unique(y, return_inverse=True)
-    z_grid = np.empty(x_vals.shape + y_vals.shape, dtype='U200')
-    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
-        if z.loc[idx] not in z_grid[xi, yi]:
-            z_grid[xi, yi] = z_grid[xi, yi] + z.loc[idx] + '<br>'
-    for (xi, yi, idx) in zip(x_idx, y_idx, x.index):
-        if z_grid[xi, yi][-2:] ==', ':
-            z_grid[xi, yi] = z_grid[xi, yi][:-2]
-    return z_grid

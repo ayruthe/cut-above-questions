@@ -1,0 +1,785 @@
+﻿Fabiola Cineas + Derecka Purnell | TGA | PUBLIC TRANSCRIPT | 
+02/06/23
+
+TITLE: Best of: Imagine a future with no police
+
+SUBTITLE: Vox’s Fabiola Cineas speaks with author and activist Derecka Purnell about a 
+radical new vision of policing in America
+     
+DESCRIPTION: Guest host Fabiola Cineas talks with author, lawyer, and organizer 
+Derecka Purnell about her recent book Becoming Abolitionists. They discuss Derecka's 
+journey to defending the idea of police abolition, and what that position really entails. They 
+explore questions about the historical and social role of policing in society, how to imagine a 
+future where we radically rethink our system of criminal justice, and how we can 
+acknowledge and incorporate current data about crime — while still rethinking our inherited 
+assumptions about police.
+This was originally released in Jan. 2022 as an episode of Vox Conversations.
+
+Host: Fabiola Cineas (@FabiolaCineas), reporter, Vox.com
+Guest: Derecka Purnell (@dereckapurnell), author
+References: 
+	Becoming Abolitionists: Police, Protests, and the Pursuit of Freedom by Derecka 
+Purnell (Astra House; 2021)
+	Police shootings database 2015-2023 (Washington Post)
+	The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution by 
+C.L.R. James (Vintage; 1989)
+	Black Reconstruction in America 1860–1880 by W.E.B. Du Bois (1935)
+	"One American city's model of policing reform means building 'social currency'" by 
+Nathan Layne (June 12, 2020; Reuters)
+	"The Camden Police Department is Not a Model for Policing in the Post-George 
+Floyd Era" by Brendan McQuade (June 12, 2020; The Appeal)
+	"Murder Rose by Almost 30% in 2020. It's Rising at a Slower Rate in 2021" by Jeff 
+Asher (Sept. 22, 2021; New York Times)
+
+Enjoyed this episode? Rate The Gray Area ⭐⭐⭐⭐⭐ and leave a 
+review on Apple Podcasts.
+Subscribe for free. Be the first to hear the next episode of The Gray Area by subscribing in 
+your favorite podcast app.
+Support The Gray Area by making a financial contribution to Vox! bit.ly/givepodcasts
+This episode was made by: 
+	Producer: Erikk Geannikis
+	Engineers: Patrick Boyd & Paul Robert Mounsey
+	Editorial Director, Vox Talk: A.M. Hall
+
+
+TOP:
+
+Sean Illing: Hi, it’s Sean. Today on the show, we’re re-airing an episode from January of last 
+year. It’s a conversation about policing in America, and in light of the killing of Tyre Nichols, we 
+think it’s really important. Later this week, I’ll also be talking with law professor and former police 
+officer Rosa Brooks about this complex topic. But for now, here’s my brilliant colleague, 
+Vox.com race and policy reporter… Fabiola Cineas.
+INTRO - COLD:
+Fabiola Cineas: The killing of Tyre Nichols by five police officers in Memphis, Tennessee is the 
+latest, horrific example of police brutality in America. 	
+I haven’t watched the video of the officers pepper spraying, tasing, chasing, kicking, clubbing, 
+and punching Nichols during a traffic stop, which led to his death — but… I’ve read the 
+comparisons to the 1991 Rodney King beating… and, I’ve listened to the cries of his grieving 
+family members. Reports say that during the fatal beating, Nichols called out.. for his mom.
+The fact that the officers were all Black, as is the police chief, and that they were all quickly 
+fired.. and now face charges.. including second-degree murder — doesn’t mean policing has 
+improved. 
+Police still kill more than 1,000 Americans every year and it was nearly 1,200 in 2022 — the 
+deadliest on record. And unarmed Black people are killed by police at three times the rate of 
+unarmed white people.
+The conversation about the need to change policing reached a high point in 2020 following the 
+police killings of George Floyd and Breonna Taylor, which incited some of the biggest protests 
+the country has ever seen. 
+But, since then, Congress has failed to do anything, like pass the George Floyd Justice in 
+Policing Act, which would have ended qualified immunity for police officers. And it’s worth 
+pointing out… much of the reform options that have been proposed and debated in the past couple 
+years wouldn’t have saved Tyre Nichols.
+
+It’s why years after ideas like defund and abolish the police reached the mainstream, we’re still 
+wondering… What would America look like if we poured its large police budgets into other public 
+safety measures, into health care, into education, and into housing? What would society look 
+like without the police?
+
+ID: I’m Fabiola Cineas, and this… is The Gray Area.
+music
+
+INTRO - HOT:
+My guest today is Derecka Purnell. She’s a lawyer and activist whose 2021 book Becoming 
+Abolitionists chronicles her journey from police abolition skeptic to someone now dreaming up a 
+world without the police. Derecka’s work holds a mirror up to the institution of policing and 
+questions not only its origins… but who it serves — and harms — today. 
+
+I spoke to Derecka a little over a year ago about what it was like to grow up and call the police 
+for everything… but then to realize that the people you’re calling for help can hurt you. And, of 
+course, we discuss some common questions she gets like — what about rape and murder… 
+and wouldn’t Black women be some of the most vulnerable people in a society without the 
+police? 
+
+But I wanted to start by taking a step back. What does it really.. even.. mean.. to call yourself a 
+police abolitionist?
+
+
+music 
+
+Derecka Purnell: I mean that I belong to a tradition, a generation, a group of people who are 
+committed to eradicating the violence from police prisons, surveillance, prosecutors, right? 
+The entire carceral state, and committed to eradicating violence in our society at the same 
+time, over time until all of this is obsolete.
+Fabiola Cineas: Mmm. That is not a simple answer. 
+I just want to get a sense of how you're feeling in this moment. I feel like you've been in the 
+hot seat for a while now. I've watched since like early 2020 people just outright dismiss your 
+abolitionists visions. How does it feel to champion an idea that people seem to hate so much, 
+but then at the same time, it's an idea that's being so well received. People are talking about 
+abolition in a way that, I don't think we've talked about before. 
+Derecka: Well, it depends on the people. I feel very lucky that there have been lots of 
+organizers, scholars, thinkers, people in our community who've been organizing around 
+abolition for decades, quite literally before I've been born. And so I'm coming in literally on 
+the tail end of so much of the groundwork that's been laid by people who've come before me. 
+And just, how lucky am I to be an inheritor of that tradition? Right? Abolition has always been 
+unpopular even since slavery, right? There were debates around whether there should be an 
+anti-slavery movement or an abolitionist movement. There are critiques of abolition from the 
+left, from the right, from liberals or conservatives.
+So usually the most progressive stances in our society have always been under fire because 
+the status quo is much easier to maintain it. If you have a media, if you have corporations. So 
+many people who have the power to maintain oppression, controlling the narrative and the 
+money. And so, yeah, I don't know if I've been in the hot seat any more than anyone who has 
+been fighting to do this work for decades, centuries, even. And I just feel lucky to be in their 
+tradition.
+Fabiola: So in the beginning of your book, you talk about how the idea of abolition actually 
+used to repulse you. So that's a pretty strong thing to say for someone who is championing 
+abolition so strongly right now. So can you walk me through that journey? When did you first 
+learn of abolition as a concept and what really drew you in?
+Derecka: Yeah. So I first learned about abolition as a concept, maybe as a child, right? 
+Because I learned about the abolition of slavery. I learned about the history of black people 
+on plantations, who were running away to get free, who engaged in the insurrections, who 
+were plotting rebellions, who were orrating who were traveling throughout the country 
+building an underground railroad.
+And so my first contact with abolition generally was through the context of slavery, which is 
+also the context in which many abolitionists today draw on when we talk about contemporary 
+abolition is particularly in response to the prison industrial complex. 
+But when I was in college, I would hear organizers and activists talk about abolition at 
+meetings or protest. And I honestly just didn't even know what they were talking about. It's 
+just hearing the word abolition or police abolition or prison abolition, or even the abolition of 
+borders. I just didn't take them seriously. I said, oh, you want to abolish police? Like where, 
+how, like why, what are we going to do with all the bad people? All of the horrible people? I 
+mean, my response, my repulsion mostly came from a place of ignorance and just not really 
+grappling or taking time to understand what these people meant when they were saying 
+abolition. And it's not because I wanted to keep police, necessarily, or I wanted to keep 
+prisons necessarily it's because like most people in this country, my ideas about policing 
+and about prisons were largely unexamined. Right? I hadn't taken time ever to really think 
+about where did police come from? What's their role, purpose, function in this society? Do 
+we need them in the way that I've been conditioned to believe that we need that?
+And so I was dismissive and repulsive because I was just didn't take those activists 
+seriously. And then years later, by the time I started studying and being pushed to think 
+about abolition from other organizers and scholars and people who were in the community 
+surrounding Cambridge, I was shocked to learn about the abolitionist project and still had 
+lots of questions. I still have lots of questions. But it was very different from what I initially 
+thought it was when I first heard it, you know, more than a decade ago.
+Fabiola: And how does being a member of the Trayvon generation factor into your quest to 
+learn more about abolition? 
+Derecka: Well, there are so many of us, when I say many of us, I mean, people who are a part 
+of what Elizabeth Alexander calls the Trayvon generation. Who watched Trayvon get killed. 
+Watched George Zimmerman go free and have since continued to watch videos of police 
+killings go viral. 
+But in 2012, after Trayvon Martin was killed by George Zimmerman, me and so many other 
+people across the country, we went into the streets to demand that the police arrest George 
+Zimmerman, and we called that justice. We said that we wanted justice for Trayvon. And what 
+justice meant at the time for me, and for many other people is that George Zimmerman not 
+only had to get arrested, but also had to get convicted, right. That there also needed to be a 
+change in laws, like stand your ground, that were basically helping lots of white men get 
+away with murder.
+And so I watched organizations that eventually became the Dream Defenders. And I watched 
+the formation of BYP 100. I watched all of these groups just catalyze a movement that was, 
+the primary demand was to get someone arrested. And then from 2012 to 2014, 2015, and the 
+aftermath of the Ferguson uprising, I watched the same people that I organized with, I 
+demanded justice with, I watched them become police and prison abolitionists. I watched 
+them grow and ask questions. I watched them become revolutionaries and engage in critical 
+thinking and political education and form campaigns to close jails, to remove money from the 
+police. 
+And so what I really love about the book is that it gave me a little bit of space to talk about the 
+political evolution of people like Charlene Carruthers and Phil Agnew. And I mean so many 
+different people right now who we see espouse abolition as politics, but it didn't happen 
+overnight.
+Fabiola: And as you said before, abolition is definitely not a new concept. Like for me right 
+now, I'm reading this book called The Black Jacobins. It's like the definitive account of the 
+Haitian revolution published in 1938. And I'm like blown away by chapters that talk about the 
+Maroons, right? Just groups of people who've fled and lived in the mountains for decades 
+and decades and would come down here and there to try to get this revolution started. And 
+it's like, I never learned about these things in school. So it's just like abolition does have a 
+very long history, but it sounds like you're also kind of forging a new kind of abolition where 
+you're saying, I don't think that capitalism and abolition can coexist. 
+So can you talk a little bit about your specific brand of abolition and how it might differ from 
+people who were talking about abolition some decades ago? 
+Derecka: Yes, absolutely. The word brand makes me a little bit nervous. So when they say my 
+particular brand of evolution, it's ironic because you're asking me about capitalism and I'm 
+nervous about abolition becoming a brand. But I think about the tradition of abolitionists that 
+I'm in. And we can go to somewhere like WEB Dubois who was very excited and who affirmed 
+lots of white abolitionists like Thaddeus Stevens and Charles Sumner for taking up the cause 
+to help free black people from slavery. 
+And W.E.B. Du Bois, he did something else in Black Reconstruction, right? He is also critical 
+of white abolitionists who were committed to the rapid capitalist industrialization of the 
+United States. He considered it just a huge flaw in their activism and in our organizing, you 
+know, for black people. 
+And so even the tradition of abolitionists that I see myself and it's related to W.E.B. Du Bois's 
+critique of former abolitionists who were committed to ending oppressive institutions, but 
+who are not critical or refuse to hold a serious analysis of the way that capitalism was 
+becoming, rapidly becoming a destructive force in the United States.
+And so when I think about W.E.B. Du Bois, when I think about the black socialists and black 
+communists, who said, we charge genocide in the 1950s, right? They were criticizing the US 
+government and they were pointing to all of the violence in our communities, including police 
+brutality through an anticapitalist framework.
+Right. And I think about that all the way down to people who are developing analysis around 
+the prison industrial complex, and we read Ruth Wilson Gilmore, Mariame Kaba, or Angela 
+Davis, right? People who espouse anticapitalist politics, because they know that capitalism 
+creates so much inequality in the United States.
+We are looking at the coronavirus right now. You know, we have people who are losing jobs. 
+There's an eviction crisis. There's so much more poverty. And yet billionaires are getting 
+more money. And what happens with that inequality, prisons, police, prosecutors. They 
+ultimately become the managers of that inequality.
+And so we can't just abolish the prison industrial complex. So we can't just end mass 
+incarceration and keep capitalism intact. And so I see myself in that longer line of tradition. 
+What has changed is the way that capitalism manifests. So it doesn't look the same as it did 
+in the 18 hundreds or the early 19 hundreds. Right. We have new tenants of capitalism that 
+we need to fight, you know, because it's at least attempting to convince lots of poor people, 
+black people, people of color, indigenous people that you can work your way up in it. There's 
+a lot of social mobility if we just rely on capitalism, we have politicians save a very capitalist 
+to the bones, right? So we have to figure out how to fight the narrative that capitalism is a 
+salvific economic option in this country because it's really causing so much devastation that 
+the police ultimately manage.
+Fabiola: So I want to talk some more about how we develop the attachment that we have to 
+the police in the United States. I grew up in New York city. When I was in high school, senior 
+year, I was violently mugged in my neighborhood in Brooklyn. And it's kind of a crazy story 
+because it happened so fast. Like I was coming out of the train station with, two of my 
+friends. It was around like five o'clock. So the sun was already down because it was like fall 
+season. I had a bag on my shoulder. It was like college application season. So I had my 
+laptop in there. I had important like paperwork for the colleges that I was filling out.
+When I was, like, coming out of the train, these two guys just come up behind me and they 
+just tug really hard on my shoulder, pull my bag. I try to, you know, stop them from getting it. 
+They get it, they start running. What was crazy is I decided in my mind, it wasn't like, Oh, my 
+God, let me grab my phone and call the police. I decided to chase them down. I was like, what 
+I need right now is my bag. Yeah. So I started chasing these two guys up Nostrand Avenue in 
+Brooklyn and the one who had my bag went down like a dark little street and the other one 
+who didn't have my bag, like one up toward Eastern Parkway. I'm chasing the one with my 
+bag, but then when we like, kind of get to the middle of the block, he slows down and I kinda 
+got scared. I'm like, Oh no, maybe he might pull out like a knife or a gun or something. Let me 
+stop. 
+So // then I went back and joined my friends. They had no idea what happened. And it was 
+only then when I was like, I guess I should call the cops. So I called the police, tell them what 
+happened. They were like, alright, we'll send someone out. And we weren't too far from a 
+precinct in Brooklyn. They show up maybe like 20 minutes later I described what happened. 
+They took me down to the station. They actually sat me down with a sketch artist. I described, 
+uh, what the two guys look like. I assume they put pictures up around the neighborhood or 
+just kept it in their file. 
+And then in the weeks after I did ride-alongs with the cops, so they would be like, yeah, meet 
+us at this time. We'll take you around. So they parked me outside of, like, some basketball 
+courts in the neighborhood. We sat outside of like popular restaurant. 
+Derecka: Oh my gosh.
+Fabiola: Yeah. And it was, it was fascinating because I'm like, here I am, my bag with my 
+laptop was at this point stolen like three weeks ago. And I'm like sitting out in a car, like 
+doing a lookout with the 
+Derecka: Oh, my gosh.
+Fabiola: yeah, it got to a point where I was like, all right, this is okay. Thank you so much for 
+your efforts.
+Derecka: wait. They were getting paid and you were sitting there helping them volunteering.
+Fabiola: basically. Yeah. Basically seeing, trying to see if I could see these guys and I did feel 
+uncomfortable. A part of me was like, oh, this is nice of the cops to like, invest their time and 
+doing this. But then I was also like, I'm not going to get my bag back. Also, if I see these guys 
+on the court, I'm not going to sit and point them out. Like, it felt weird. 
+And so whenever I think of, like, abolition or calls to the front of the police, I always think 
+back to that interaction that I had with police officers. Cause it was kind of like the crime 
+wasn't prevented. you know, my bag was long gone. I still wasn't safe. You know, my mom, 
+whenever I would leave the house was still like. Be careful, don't take your phone out on the 
+train. And this was during the height of stop and frisk. So we, there were cops everywhere. 
+And so even with knowing that in that small moment, the police didn't help me out. There was 
+still this idea in my mind of like, okay, I guess things are better because there are cops 
+standing, you know, on my block in Brooklyn patrolling.
+So can you just talk about why you think so many people hold on to the police as just 
+something, as you also describe in your book? 
+Derecka: Well, thank you for sharing that story. And I'm so sorry that happened to you. It's 
+not fun, obviously, getting your important things stolen. 
+When I was sick with COVID last year, I was too sick to bring my bike in out my car. And the 
+next morning I went outside, my bike was gone. It was my birthday gift. I had only had it for a 
+few months and I was so sad. And so, yeah. It's not fun to have things stolen. It sucks. It's 
+tragic. 
+And so I think that people hold onto the idea of policing for lots of reasons. I think one, like I 
+did, it's largely unexamined. Police appear as normal neutral fixtures of our society for a lot 
+of people like, oh yeah, we have teachers, we have post office workers. We have cops, we 
+have counselors. They're presented as first responders. When cities try to raise money for a 
+medical emergency services. What do you see, you see police, fire and paramedics, all 
+listings. So they're interwoven as normal fixtures of our society, despite the violent origins of 
+their history. And despite the continued practices that they do every day. 
+I think that's one reason that I don't know if enough people have asked, why do we have, why 
+is this the case that our society is set up like this, you know, and great thing about social 
+movements and about activism, that it compels people to ask critical questions about the 
+kinds of people we are and the kinds of society that we have, right. Someone had to ask, why 
+is it that gay people can't get married in the United States? Or why is it that women can't get 
+abortions in the United States? Right. People have to ask them, force these questions, 
+because if you don't, then you can assume that's a very oppressive set of relationships that 
+we have the very oppressive institutions that we have are normal. So we need more people to 
+engage in activism so that we can compel others to think critically about what we have and 
+ask to have something better.
+A second reason why I think we hold on to the idea of policing is because the people who 
+continue to lobby to give more money to the police are people who also have lots of power. 
+And they essentially present a dichotomy to people, you know, they've had their 
+neighborhoods divested of services, people who live in ghettos and class-exploited 
+neighborhoods, people who don't have democratic control over their schools. And then you 
+have people in power saying, well, you're gonna experience crime and violence if we don't 
+have police, wouldn't you rather just reform them? 
+Right. And so what I think it's on abolitionists to explain is that, well, we're not only trying to 
+make police obsolete. We're also trying to figure out actually how to prevent violence, how to 
+prevent the violent mugging that you just described. Right. We're not trying to say, well, you 
+know, someone can just come and take her book bag, and then there's not going to be 
+anyone for you to call. That's not the goal of abolition. Abolition is at least the tradition I 
+belong to. We're asking why are people selling book bags off of trains? Why does someone 
+steal my bike out of my car? Right? Like, why is it that the overwhelming majority of people 
+who experience theft in this country are people who are poor, right? The people who get the 
+most taken from them are people who are poor, who are living in trailers, who are living in the 
+apartment complex and project housing.
+And they're mostly are experiencing theft and robberies and burglaries from other people 
+who are poor. So if we had less inequality, perhaps there would be significantly fewer 
+muggings, or people wouldn't be lurking in the middle of night to take out a bike to sell it for 
+whoever knows what, right. So how can we reorient our society to fight the massive 
+inequality that exists because of capitalism, because of racism, because of ableism. Instead 
+of just relying on police to be barely responsive actors to the inequality, which is what we 
+have right now. 
+And here's the thing, all of that, you said for three weeks, you were riding around with the 
+police? The amount of labor that Brooklyn or the city of New York paid for, for those cops to 
+do the patrol work with you, it could have bought you another laptop.
+Fabiola: That's a fair point.
+Derecka: It could have bought you several laptops, several. And so we are literally, we're 
+getting police, we're paying them thousands and thousands of dollars to replace things that 
+are a few hundred dollars. It makes no sense. It makes no sense, but instead you were doing 
+ride-alongs and they literally, they put you in jeopardy of potentially identifying someone. 
+You know, that person may be going to jail. Maybe they're going to get a record and then 
+what's going to happen? They're going to get out of jail with a record. It's going to be hard for 
+them to get a job. It's gonna be hard for them to get housing. And they're going to probably 
+steal again, because they need to survive.
+Right? So it's like, well, how do we actually disrupt the cycle by addressing the actual 
+inequality and not just using police to be responsive to it?
+music 
+
+Liberal opponents to police abolition usually hold the banner for quote-
+unquote reform –  a catch-all term that can imply anything from the 
+introduction of body cameras to setting up a civilian review board. 
+
+But for abolitionist Derecka Purnell, reforms like these don't go far enough.
+
+I’ll ask her why, after a quick break.
+
+ 
+
+MIDROLL 1
+ 
+
+
+music 
+
+Fabiola: So I do want to get into this idea that the police can be reformed. There are so many 
+people, especially liberals, especially liberal politicians who many of us really look up to who 
+say, you know what, we hear what you're saying to defund movement. We hear what you're 
+saying, abolitionists. Maybe not saying that, but ,they're saying, you know what, in the past, 
+for example, if we take community policing right Biden, when he was campaigning in 2020, it 
+was saying we just have not put enough money toward community policing. It was never fully 
+funded. So we need to continue with that program.
+Why do you say that police reform isn't the answer and I'll list off some other reforms, 
+whether it's like community oversight boards, we have the banning of chokeholds. We have 
+diversifying police forces, you know, just have more chiefs who are black, for example. Why 
+aren't these reforms enough, according to what you've argued many times.
+Derecka: for so many reasons, for so many reasons.
+We can look at diversity for example. Many of the police departments around the country are 
+absolutely very diverse. New York City has a very diverse police department. Baltimore, St. 
+Louis all have varied, diverse police departments, and still the brutality is still there. We can 
+look at a place like Puerto Rico where maybe 100% of the offices there are Puerto Rican, and 
+yet they are one of the most violent policing institutions that belong to the United States. 
+And so diversity, what it does, unfortunately, it discourages people of color from filing 
+complaints against cops, right? It's like, well, I don't know if this encounter was obviously 
+racist because now I have a black cop who stopped me and frisking me. And I don't like it, 
+but I don't know if I'm going to go to the police department and say, you know, what this 
+black cop did was racist. And so we see where there's community policing and diversity, we 
+see a decline in people reporting cops from misconduct. It has a perverse effect, one major 
+reason. 
+Second major reason many of these reforms don't work is that they don't get to the heart of 
+what policing does, which is manage inequality. And so let's say I'm a, I'm a homeless 
+person.
+I'm sleeping under a bridge and police come, especially if I'm in St. Louis, they spray water 
+on the ground so that the ground freezes over to stop homeless people from sleeping in front 
+of city hall. Let's say this, right? Let's say all those cops are white or all of those cops are 
+mean, and they curse at people when they tell them to move off the sidewalk. Now let's say, 
+let's do this with community policing. Let's make all of these cops so much more nice. Let's 
+make them more friendly. They could bring water, they could bring donuts and hot chocolate 
+to pass out to people who are homeless. At the end of the day, whether it's the most angriest, 
+racist, violent cop, or whether it's the nicest politest, gayest, womanest, blackest cop. At the 
+end of the day, their job is to move those homeless people from one part of the city to 
+another, right? They're not undermining the homelessness. They're not finding people 
+housing. They're not pushing back on inequality.
+At the end of the day, they're carrying out the interests of the corporations who occupy 
+downtown centers, and they want to make sure that they're maintaining the aesthetics, the 
+appearance, oh, this is a nice, fancy, neat looking downtown center. We can’t have homeless 
+people with their blankets and our tents everywhere. 
+So it doesn't matter if you have a subjectively better cop, right? With a good personality who 
+volunteers on Sundays at church at the end of the day, your favorite cop is primarily 
+responsible with enforcing inequality. So we can reform them so they can enforce inequality 
+better. We could put body cameras on them so we can watch how they enforce inequality. We 
+can have all of the volunteer programs, the coffee with the cops, books and badges 
+programs. They can hand out ice cream. At the end of the day, what they're primarily doing is 
+finding better ways to manage inequality.
+So community policing sounds great, especially if you've experienced being harassed, 
+stopped and frisked, ticketed, sexually assaulted. If you've experienced militarized policing, if 
+you've been teargassed like I have, and your options are militarized policing or community 
+policing, hell yeah! community policing sounds great. It's like, give me that. Right? I want 
+that. 
+But those are false choices. Community police is a better, efficient way to obscure the true 
+violence and function of policing, which is to manage inequality, locking up tens of millions 
+of people every year. And the overwhelming majority of those people are poor. I don't need a 
+nicer cop to lock up poor people. I need people who are committed to fighting inequality and 
+fighting policing itself.
+Fabiola: Yeah, that makes me think of, um, the example of Camden county and how a lot of 
+people love to look at Camden as this model for police reform. 
+So in 2013, Camden disbanded its police force, and then it kind of rebuilt it and replaced it 
+with a county-wide one. And crime did decrease, right? So looking at numbers from a 
+Reuters story, the police reported 1,161 violent crime incidents in 2019. And that was down 
+42% since 2012. And then excessive force complaints also dropped. So three were reported, 
+um, and registered in 2019 down from 65 in 2014. But then there are also reports of this 
+program just being copaganda. Like yes, the, the crime rate has gone down, but it's also a 
+matter of aggressive policing, policing that's focused on broken windows policy and also just 
+surveillance.
+So there is a piece from Brendan McQuade in The Appeal. And it talks about how police, from 
+July to October, 2014, the Camden county police wrote up 99 tickets for riding a bicycle 
+without a bell. And they basically struggled to process about 125,000 different cases, citation, 
+tickets that were issued by the new force between 2013 and 2014. And so it was like a 97,000 
+case increase from the previous year. And most of those cases were for petty offenses. 
+So what is your response to the fact that data is skewed? It looks like even, there are studies 
+that show policing works to decrease crime. So if we look at different strategies like 
+deterrence or hotspot policing, like one study, for example, found that deploying police in 
+high crime areas was associated with less crime in New York City. 
+So I just threw a lot at you, but just any kind of comment on the fact that there is some 
+research that suggests that policing can be successful to reduce crime. But then it's also 
+like, should we be thinking of crime reduction as our only goal to society, to bettering 
+society? 
+Derecka: Yeah. I mean, that's a fair question. I think the first thing I would speak to right now 
+is Camden. 
+So what happens with police reform. And I will absolutely call it copaganda, is that it zooms 
+in on what changes have been made with policing in the city like Camden. 
+What often gets failed to mention alongside policing, is that especially in Camden, is that the 
+poverty rate in Camden fell, it dropped significantly at the same time that people were touting 
+that all of these reforms in Camden was improving policing. They failed to mentioned that 
+poverty had also declined in Camden because the state of New Jersey was trying to 
+incentivize companies to move there in order to like catalyze the economy.
+And so when, again, inequality decreases, we see less violence because people aren't 
+stealing bookbags from, like, young black girls getting off of trains in New York City. Right? 
+So there was a drop, a decrease in inequality, but yet the inequality goes out the window, the 
+poverty rate, all of that conversation goes out the window about how that actually reduces 
+harm. And then the focus is, or look clearly, this was the police MO. All these other factors 
+happened. If we look at the government. So accountability office when they analyze the 
+results of the crime bill, they say, well, putting all these additional officers on the street, only 
+yielded about a 2% reduction in what we call crime. 
+What actually caused more reduction of crimes was all of these developments in education, 
+early childhood education, job growth in these areas, in these different communities. And so 
+what's bad usually about the police literature is that it looks at police in isolation and it 
+doesn't take into account other economic programs that are happening. Other shifts in 
+education that are happening, the rise of mutual aids in particular neighborhoods, even with 
+black churches, the level of mutual aid and charity that black churches do in areas where 
+violence is reportedly higher, none of that gets taken to account in these research studies 
+where it says, well, we put 18 more cops on this block every day for the past year, right?
+So we can't just have such a narrow research focus because then we applaud the results of 
+that without looking at the full context of what happens in that city.
+Fabiola: So does that mean that a combination of policing and increased social services can 
+lead to the kind of society that you envision?
+Derecka: I mean, by your own example, do we want police to be giving tickets to people who 
+are riding bikes who don't have bells, right? Cause right now that's the combination that we 
+have. We have people who are still being ticketed for silly arbitrary offenses. We still have 
+about 15,000 murder, homicides every year in the United States. I don't think that the 
+combination is effective. 
+And one significant reason — and this is related to the lack of context that affirms that more 
+police presence  one significant reason is because police often sabotage alternatives to 
+policing. And so we see where the street violence  interruption programs throughout the 
+country, the ones that are not ran by police, police have an antagonistic relationship to them. 
+Right. We see police spraying spray paint in different gang territory to catalyze violence. We 
+still see the use of informants. Right? We see the surveillance list for people who haven't 
+even done any harm, haven't done the crime, but yet they're on these watch lists. I don't think 
+that's the society that I want to live in. I think that we can do much better than that and what 
+we're continuing to pay police in billions, all of those resources could actually be shifted 
+towards reducing the inequality that police are then sent to go and manage.
+Fabiola: And there's also the argument that accountability is what we need, right? 
+Accountability will improve policing. So Derek Chauvin, what happened in that trial was 
+unprecedented. The fact that there were people in his own department willing to speak up 
+against him and say what he did to George Floyd was completely unlawful.
+So is there an avenue where holding police officers accountable and really holding them to 
+task, uh, with their behavior. Is there any way that that could help us achieve the society that 
+you envision. 
+Derecka: I don't think so. I don't think so for lots of reasons. One, what happened with Derek 
+Chauvin I wouldn't say is unprecedented at all. Yet, police still continue to kill more than 
+three people a day. Even with the rise of police convictions, we still see them kill more than 
+three people a day. 
+Often when cops get convicted, sometimes they get prison time. And if they do, they don't 
+get the same amount of prison time that lots of other people who commit similar offenses do, 
+even though they're supposed to be technically holding up the law. So we see less 
+punishment, less prison time for cops who are engaged in egregious behaviors. 
+And then I'll say two more things about this. The accountability, especially with the police 
+convictions, it doesn't necessarily take into account if a Supreme Court grants police with a 
+power to make violent calls in split second decisions, right? The court says, look, police 
+officers, they don't have time to be weighing what's going to be the full consequences of my 
+actions if I need to stop violence, that I is alleging that is happening, right?'' I have the power 
+to make a split second decision based on my best judgment about this particular situation. I 
+get to deploy force or I get to shoot. I get to hurt someone and I have the power to do that 
+with a split second decision-making that has been granted by the Supreme Court. 
+So if the court says cops have to make split second decision-making in determining when to 
+use force, do we think in that split second that the court says cops have all the time and 
+they're going to say, wait, wait, wait. Before I pull this trigger, remember Derek Chauvin was 
+convicted of killing George Floyd, right? According to the court's own logic, they don't have 
+time to make those calculations. And so we're trying to assume that the punishment that 
+they're going to receive through a court conviction will then offset what the Supreme Court 
+says that they don't have to consider. So that's not going to work. 
+The second reason that's not going to work, is that again, we can use Derek Chauvin. Let's 
+say that Derek Chauvin, he's going to go to prison I think for 20 years. The next cop who puts 
+his knee on someone's neck over using a ledge, counterfeit $20 bill, let's say that person 
+doesn't die. Let's say they live. Let's say they live and they go to a hospital. Or let’s say they 
+live and go straight to jail. Let's say a cop does it for five minutes instead of 10 minutes. 
+Right. Nothing's going to happen. There would be no protests, no uprisings. 20 million people 
+are not going to go into the street every time a cop harms someone by putting their body into 
+their neck, if that person does not die. 
+And so if we only can count on convictions and accountability and that justice when 
+someone is killed by the police and not the daily mundane stops and frisks, hits, assaults, 
+intimidation, that's what’s at stake, right? Not the spectacular killings that go viral, but the 
+everyday nature of policing, that is what's at stake. 
+And then, so the accountability, it doesn't speak to how violent everyday policing is. And 
+then unfortunately using those spectacular cases to try to stop police from being so violent, 
+it's just not going to lead us to a lot of success.
+Fabiola: And I've watched people get curious about abolition, and a lot of black women too. 
+Right. but they'll stop engaging when they get to the, what do we do about the rapists? Won't 
+we still have murderers. What do we do with them? How do we address the rise in crime? 
+Like in 2020, the U S 's murder rate went up by almost 30%. So people seem eager to get to 
+these gotcha moments to try to counter the abolitionist imagination. 
+But then it's also a legitimate fear within us of just like, we're not safe. We're not going to be 
+safe. 
+How do you approach that? 
+Derecka: Well, I want to respond quickly. So I don't know if that statistic is accurate that the 
+murder rate increased by 30%. and the murder rate has also been historically low over the 
+last, like 30 to 40 years. 
+Fabiola: Yeah. So more information is just that the murder rate went up in 2020, but crime 
+overall fell by four or 5% in 2020. 
+Derecka: And there's also disputes around the 30% figure from the FBI and from the New 
+York Times. So, yeah, I didn't, I didn't want to just respond to the question without 
+contextualizing again the statistics.
+Fabiola: Absolutely. 
+Derecka: I think what’s also very specific even about the murder rate that is jumping is the 
+context of which is jumping. And so I know that since COVID has happened, we have 
+experienced deep deep deep inequality. We see people lose jobs. We see people lose homes. 
+We've seen the government for several months give people $600 or $1,200 to live on. And so 
+the more inequality that we expect in this society, the more violence and harm that's going to 
+happen as a result of it. And so with a rising inequality, I am shocked, honestly, that violence 
+isn't higher than what it is. Right. I am honestly shocked. I think if it had not been for the 
+robust mutual aid and sharing and interventions that people have tried to do for each other. 
+You know, I don't know where the violence rate would be.
+So we can't look at that murder rate out of context. Right. And even with the responses to 
+COVID, the police has still been getting more and more and more funding, right. The police, 
+businesses, like they continue to get funded. Sometimes it's so tragic to me knowing what 
+has happened in the last year with the spikes in the homicide, like yeah, we have to 
+absolutely be responsive. 
+But here's the thing. There are nearly a million cops, so like 700,000 cops, there's 18,000 law 
+enforcement agencies. And they all got huge grants from the federal government to do 
+policing. Now, if policing is inadequate to the spike in murders, why do we think that more 
+policing will then contribute to a decrease? Like why do we think that? Just logically it 
+doesn't even make sense. Right. 
+And so let's say that there is a 30% spike in murder rate. Well, why? Well, because of the 
+inequality that we've experienced during the pandemic, and rather fighting to make sure that 
+people can stay in their homes, that they get more assistance. What do we see? We see the 
+expiration on eviction moratoriums. We see states deciding to reopen prematurely. 2000 
+people died in the last 24 hours [In January 2021]. We're talking about parents. We're talking 
+about people who earn money and resources for their families. We're talking about 
+caretakers and babysitters and teachers and friends and loved ones, right? So we're seeing 
+more vulnerability and more precarity. 
+And until we have an actual robust, courageous response to the pandemic, the violence is 
+going to continue and we cannot police our way out of it. Hell, police are refusing to even get 
+vaccinated. They are boycotting vaccines. They're contributing to the crisis. And then they're 
+being paid to go, manage it.
+And so I think it's absolutely tragic what's happening right now. And I'm again, so grateful for 
+all of the organizers and organizations who have been committed to helping people pay rent, 
+to pay their mortgages, to feed themselves, to feed their children, to come up with pods so 
+that students can learn when schools were closed, I am so grateful for organizations that 
+passed out masks at the time where the federal government were telling people not to buy a 
+mask. Or school districts were penalizing students who were coming to class with masks on. 
+I am so grateful because had there not been a robust community based response, I think the 
+violence would be even higher. Abolition is not to be anti-accountability or pro violence. What 
+we're saying is that police isn't working. So we need to come up with better robust responses 
+to inequality and to policing because as long as we choose to invest in the latter, then 
+inequality is going to continue and we're not going to actually get to the root causes of harm.
+
+music 
+
+That all sounds great, but… would any of this actually work? 
+
+That’s a typical follow-up question that an abolitionist might hear – maybe 
+even from a progressive. What about people who are just… determined to 
+steal, vandalize, or hurt people?
+
+After one last short break, I’ll ask Derecka: would abolishing police make us 
+less safe?
+
+ 
+
+MIDROLL 2
+ 
+
+music 
+
+Fabiola: So something that I see people tend to do, um, in conversations about abolitionists. 
+First, they say, oh, that's a utopia because getting rid of the root causes of crime still won't 
+address people who are naturally inclined to hurt other people. 
+What is your response to that? Like, do you believe that humans are just inclined to be 
+violent and want to kind of get over on other people or, or is that capitalism? Is that our 
+socialization that has caused us to be this way? Right? Like the person who took the bike 
+from your car? 
+Derecka: Well, if I had to make an assumption about the kind of person who took the bike for 
+my car, I would assume that they probably don't, I don't know, own a home or have lots of 
+resources and wealth. I would assume that they're not lurking the streets, like trying to steal 
+bikes from people's cars because they live a comfortable life. If I had to make that 
+assumption. 
+When I used to steal from my mom and from my grandmother, it was because I didn't have 
+money. Like I don't know why we mystify why people commit harm. Like when I do these 
+trainings with abolitionists groups, I ask them, I say, raise your hand, you know, if you have 
+ever been a victim of, like, theft, if someone has ever stolen from you, everyone raises their 
+hand. And then I'll say, raise your hand if you've ever stolen from somewhere. And then 
+people will like go raise their hand. Everyone will start laughing. And then eventually you will 
+see that people steal from each other for lots of different reasons.
+And so, I don't know, I'm a person of faith, I guess I'm a Christian or whatever. I think that 
+there is like bad things that people do. The overwhelming majority of violence is not because 
+they're just people who are born that way. And if, so, one question I do ask to those people 
+who will say, you know, some people are just evil. Some people are just wicked, I'll just ask, 
+well, do they all just happen to live in the United States? Right? When we look at the level of 
+mass shootings in this country, compared to other countries, do all the people who are just 
+born evil, just all happen to live here, or is it that we have more guns that we have people in 
+this country. And we have a Congress who refuses to do anything about that. Right. Like why 
+are there 15,000 homicides here every year and not in other places similar populations? 
+Why is it that the inequality is so massive here and not in other parts of the world, right? Why 
+is sexual violence against indigenous people so high, you know, in the United States? So it 
+could just be the case that, yeah, there are just evil people in the world. They're all just born 
+in the United States, but I don't think that's true. don't think that's the case. 
+I think that we are deeply socialized in the United States around violence. And what 
+abolitionists are trying to do is undermine that socialization and put forward a different way 
+of being in the world and it's not going to happen overnight. We're not going to eliminate 14, 
+15,000 murders overnight— homicides overnight rather, but what we can do as well, we can 
+change the social relationships in the United States. So that by the time we actually get, I 
+don't know, down to a thousand homicides or 200 homicides, maybe we can have better 
+accountability in a way that's caring and thoughtful in the way that actually might prevent 
+other harm or actually might take it account the real circumstances and offer some relief for 
+the survivors and the person who caused the harm. 
+Maybe we'll have more time to create a better system of response rather than the one that we 
+have now, because we have, again, hundreds and hundreds of thousands of cops, and we 
+still have so much sexual violence and so many homicides, and it's just an inadequate 
+response to the harms of our nightmares.
+And so that is why I'm excited about what abolitionists are fighting for. And I know it's going 
+to take time to get there, but I think it's more than worth the pursuit.
+Fabiola: So in thinking about getting there, is there a specific plan or roadmap for abolition? 
+Like what is the relationship between abolition and time, like is abolition right now? Or is 
+there like a future date that you're working toward or are the actions that we're doing today all 
+considered part of the abolitionist dream. 
+Derecka: I would say it's more than just a dream. I think that there are lots of things that are 
+happening that can be considered abolitionist, right? So abolition is not just simply the 
+eradication of the institution of policing or mass incarceration or the carceral state. It's also 
+building up the kinds of people, neighborhoods, relationships, planet that we all deserve and 
+that's always happening. Right. 
+And so in terms of a timeline, there are different people who are fighting on different 
+timelines for broader visions that lead towards an abolitionist future. So when I listen to 
+climate justice activists fighting to stop emissions or fighting to stop the increase of earth's 
+temperature by four degrees in the next 10 to like 30 years, that has abolitionist implications 
+because the more that the planet heats up, the more there's going to be climate refugees, the 
+more chaos there's going to be across borders. The more that governments are going to 
+deploy police and the military to go be responsive to them. Right. So I will think of something 
+like that as a very specific timeline that has abolitionist implications. 
+And so when we think about abolitionists' relationship to lots of different struggles for 
+justice, some of them do have concrete times. Others, it really depends. Do I think that I'm 
+going to be alive to see the total eradication of the prison industrial complex? Absolutely not. 
+I'm not going to be here. I, my children aren't going to be alive. You know, maybe my 
+grandchildren, if we still have a planet by then. But what I hope is that I am doing what it 
+takes right now, during my brief time on this planet to make sure that the foundation is being 
+laid to make it easier for the next group of people who are fighting to reduce resources from 
+the police, who are fighting to reduce our reliance on the police who are fighting to reduce 
+the reasons why people think they need police. 
+And everything I just listed — all of that's happening right now. And it's going to continue to 
+happen over time. It's just about whether people are going to sabotage that by continuing to 
+give money to the police.
+Fabiola: Are there ever any moments when you feel like abolition just feels way too big, too 
+daring for us to just imagine our liberation in that way and just demand it? 
+Derecka: Yes and no. Interestingly, what used to at least feel so overwhelming to me, was 
+fighting or stopping climate change. I was like, I don't know. I think we're too far gone. Like 
+it's too late. 
+But the more that I read, the more that I met climate justice activists, the more that I studied 
+and struggled alongside them, I was like, oh yeah, we actually can do this. This can happen. 
+When people say we need to abolish the police. I'm sure that makes you feel like, whoa, what 
+are you talking about? That's what I used to feel about with climate change. And so it 
+absolutely is going to feel overwhelming. 
+I think what gives me a lot of inspiration is to know that there are so many movements in 
+which the impossible seemed impossible, from the abolition of slavery to women's suffrage, 
+to some of the demands and gains from the civil rights movement, you know, to the fight for 
+the eight hour work day, the fight for social security, all of these struggles that we benefit 
+from right now, they once seemed impossible. Right, there are abolitionists, insurrectionists 
+who fought to end slavery who never got to be free, who never got to experience it.
+And it is in their tradition and their legacy that I'm just like, wait, you know, I may not be able 
+to see this, but it's so important for me to do what I need to do now, because that's the 
+tradition that I come from. And that's where I learned. So there's that. 
+The part where I am a bit curious or pessimistic, where I'm just wondering like, wow, is this 
+going to manifest in the way that I hope it does is actually around white violence. 
+I remember when Sandy Hook happened and a white gunman walked into an elementary 
+school and killed white five and six year olds, and nothing radically changed about gun 
+violence in this country. Like nothing. 
+I was like, oh, y'all are pretending that this society is so progressive. Y'all are pretending that 
+you really care about violence, that we need police to come and be first responders when 
+these mass shootings happen. But you aren't committed to even saving white five and six 
+year olds. Like what does that literally mean for everyone else? Not only in this country, but 
+in this world. 
+And so I have a deep sense of pessimism and anger towards the idea of the same people 
+keeps telling us, we need to fund more police in order to be responsive to violence. Actually 
+won't do anything courageous to stop the rampant gun culture in the United States. And that 
+angers me.
+Fabiola: Yeah, throughout this whole conversation, I've just been thinking about Dylann Roof. 
+For me, when I think of, like, the most violence, I think about Dylann Roof. And I'm just like, 
+wow, what kind of world should we be imagining right now, can we create, so that something 
+or someone like a Dylann Roof, right, shooting up churchgoers. So that couldn't happen 
+again, or just never happened? Like what kind of world could we live in? 
+Do you have time for one more question, Derecka? And it's just a question about the future. 
+Derecka: Yeah, of course.
+ Fabiola: Awesome. So it's 200 years from now and we've achieved abolition. For me in you, 
+black women. what are we able to do in the conclusion of your book? You talk about 
+neighborhood councils, childcare. You talk about conflict resolution, health clinics, green 
+teams. 
+So what do we have access to 200 years from now? And what are we able to do? 
+Derecka: Oh, wow. This is so good. This is so good. I've been thinking a lot about invisibility 
+There's this, you know, like the social media thing about what it means to be seen and black 
+women are not seen, and we celebrate and applaud black visibility and black mobility, but I'm 
+actually very curious. About what invisibility will look like? Like what does it mean to not feel 
+like a target or not to feel like you have to be tasked with breaking barriers, even within your 
+family or outside your family? So I imagine, a world where black women in particular get to 
+live very normal, exciting lives or mundane lives if they choose to. I imagine that they have 
+new kinds of problems, right? That's the world that I'm ultimately fighting for. How do we get 
+new kinds of problems? 
+So many of my friends, they want to be partnered, young black women, you know, in their 
+thirties, early forties, they want to be partnered. And I always tell them like, girl, you need to 
+become an abolitionists because mass incarceration is disappearing, a million black men 
+who you are attracted to. Right. And so it's so, so, so sad to know that it seems like many of 
+our options have been stifled by misogyny, by patriarchy, by capitalism. 
+So in that future, I imagine lots of options, different kinds of relationships. Intimate 
+relationships, different kinds of friendships. I imagine black women being able to experience 
+love that's not predicated on whether they'll be able to have health insurance, right, in a 
+marriage or a house because their husband's making more than them. Or, I imagine a society 
+where there's no private property and we get to experience lives based on, 
+So for example, I think about Airbnb all the time. And how Airbnb, you know, it gentrifies 
+communities, it displaces poor communities. And, you know, we have companies who are 
+buying houses and flipping them just so they can be Airbnb. And I was like, wow, after the 
+revolution, what are we going to do with all of these mansions? I want something where you 
+don't have to rely on an income to experience beauty. Right. I want someone to experience 
+what it feels like to wake up on a coast for a couple of weeks and watch the water hit the side 
+of your window. I want everyone to be able to experience that. I want us to think about travel 
+differently. If you want to go from New York City to Miami, you can take a high-speed train 
+and get there in a couple of hours.
+And once you get there, there's robust quality childcare for you to drop your kids off. Right? I 
+want all of that and so much more, and I'm very jealous of the people who will be able to live 
+in that kind of future.
+Fabiola: wow. I'm very, very jealous of them as well. So jealous. I really just had a vision in 
+mind of just all of that. 
+Derecka: You saw the train. 
+Fabiola: Yeah. I saw the 
+Derecka: and you saw the train, right? You saw the mansions right. We all get to rotate. We 
+all get to eat.
+Fabiola: Derecka Purnell. Thank you so much for your time today. 
+Derecka: Of course. Thank you so much for having me.
+
+music 
+
+OUTRO/CREDITS
+
+Erikk Geannikis [juh-KNEE-kiss] is our producer, Patrick Boyd and Paul Robert 
+Mounsey [MOUND-see] engineered this episode, Alex Overington wrote our theme 
+music, and A.M. Hall is the boss. 
+Derecka reminds us that we can think more broadly about the police, we can think 
+beyond the narrow examples of reform that we talk about, and have been talking about 
+for years.
+Let us know what you think– Drop us a line at the gray area at vox dot com.
+I’m Fabiola Cineas, and I write about race and policy on vox dot com. Feel free to check 
+me out there. Sean Illing will be back on Thursday with another conversation about 
+policing in America, so be sure to check that out too.
+New episodes of The Gray Area drop on Mondays and Thursdays. Listen and 
+subscribe.
+
+
+music 
+
+
+>>>>>END<<<<<
+
+1

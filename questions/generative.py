@@ -15,15 +15,29 @@ from questions.files import load_json
 
 
 class InterviewQuestionLLM():
-    """."""
     def __init__(
             self, 
             datafile: Path, 
             result_path: Path,
             lora_rank: int, 
             dataset_subsample_rate: int,
-            model_name: str = 'google/flan-t5-base'):
-        """."""
+            model_name: str = 'google/flan-t5-base'
+        ):
+        """LLM for generating interview questions in response to previous answers.
+
+        This class trains a PEFT adapter for an LLM with Interview Q&A data using the
+        low-rank adaptation (LoRA) method. Zeroshot inference testing generates and
+        saves generated questions along with the sentiment and rouge scores in 
+        reference to the actual next question. 
+    
+        Args:
+            datafile: Q&A json dataset file
+            result_path: file to save the model checkpoints to
+            lora_rank: the rank of the LoRA model
+            dataset_subsample_rate: factor for subsampling the dataset
+            model_name: the foundation model name as a string
+
+        """
         self.datafile = datafile
         self.result_path = result_path
         self.lora_rank = lora_rank
@@ -42,9 +56,39 @@ class InterviewQuestionLLM():
         self.tokenized_datasets = tokenized_datasets
 
 
+    def low_rank_adaptation_training(self):
+        """Low-rank adaptation (LoRA) PEFT model finetuning procedure."""
+        lora_config = LoraConfig(
+            r=self.lora_rank,
+            lora_alpha=32,
+            target_modules=["q", "v"],
+            lora_dropout=0.05,
+            bias="none",
+            task_type=TaskType.SEQ_2_SEQ_LM # FLAN-T5
+        )
+        peft_base_model = AutoModelForSeq2SeqLM.from_pretrained(self.model_name, torch_dtype=torch.bfloat16)
+        peft_model = get_peft_model(peft_base_model, lora_config)
+
+        peft_training_args = TrainingArguments(
+            output_dir=self.result_path,
+            learning_rate=1e-1, 
+            num_train_epochs=5,
+            auto_find_batch_size=True,
+        )
+            
+        peft_trainer = Trainer(
+            model=peft_model,
+            args=peft_training_args,
+            train_dataset=self.tokenized_datasets["train"],
+        )
+
+        peft_trainer.train()
+        peft_trainer.model.save_pretrained(self.model_checkpoint_path)
+        self.tokenizer.save_pretrained(self.model_checkpoint_path)
+
 
     def zeroshot_test(self):
-        # Zero-shot Inference as Baseline Performance
+        """Zeroshot inference of current model."""
         for index in [11, 127]:
             prev_answer = self.dataset['train'][index]['prev_answer']
             next_question = self.dataset['train'][index]['next_question']
@@ -74,40 +118,8 @@ class InterviewQuestionLLM():
             print(f'MODEL GENERATION - ZERO SHOT:\n{output}')
 
 
-    def low_rank_adaptation_training(self):
-        """."""
-        lora_config = LoraConfig(
-            r=self.lora_rank,
-            lora_alpha=32,
-            target_modules=["q", "v"],
-            lora_dropout=0.05,
-            bias="none",
-            task_type=TaskType.SEQ_2_SEQ_LM # FLAN-T5
-        )
-        peft_base_model = AutoModelForSeq2SeqLM.from_pretrained(self.model_name, torch_dtype=torch.bfloat16)
-        peft_model = get_peft_model(peft_base_model, lora_config)
-        print(print_number_of_trainable_model_parameters(peft_model))
-
-        peft_training_args = TrainingArguments(
-            output_dir=self.result_path,
-            learning_rate=1e-1, 
-            num_train_epochs=5,
-            auto_find_batch_size=True,
-        )
-            
-        peft_trainer = Trainer(
-            model=peft_model,
-            args=peft_training_args,
-            train_dataset=self.tokenized_datasets["train"],
-        )
-
-        peft_trainer.train()
-        peft_trainer.model.save_pretrained(self.model_checkpoint_path)
-        self.tokenizer.save_pretrained(self.model_checkpoint_path)
-
-
     def evaluate_llm(self, datafile: Path, model_path: Path, model_name: str = "google/flan-t5-base"):
-        """."""
+        """Evaluate the LLM via sentiment and rouge scores."""
         original_model = AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=torch.bfloat16)
         peft_base_model = AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=torch.bfloat16)
         peft_model = PeftModel.from_pretrained(peft_base_model, model_path, torch_dtype=torch.bfloat16, is_trainable=False)
@@ -214,13 +226,13 @@ class InterviewQuestionLLM():
 
 
 def calc_sentiment(text: str):
-    """."""
+    """Calculate a text string's sentiment value."""
     sid = SentimentIntensityAnalyzer()    
     return sid.polarity_scores(text)['compound']
 
 
 def rouge_scores(rouge, generated_text:str, human_text: str):
-    """."""
+    """Calculate the rouge score between two text strings."""
     scores = rouge.compute(
         predictions=generated_text[0:len(human_text)],
         references=human_text[0:len(generated_text)],
@@ -231,6 +243,7 @@ def rouge_scores(rouge, generated_text:str, human_text: str):
 
 
 def tokenize_function(example):
+    """Tokenize a dataset."""
     model_name='google/flan-t5-base'
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     start_prompt = 'Ask an inquisitive interview question in response to the following dialogue.\n\n'
@@ -239,13 +252,3 @@ def tokenize_function(example):
     example['input_ids'] = tokenizer(prompt, padding="max_length", truncation=True, return_tensors="pt").input_ids
     example['labels'] = tokenizer(example["next_question"], padding="max_length", truncation=True, return_tensors="pt").input_ids
     return example
-
-
-def print_number_of_trainable_model_parameters(model):
-    trainable_model_params = 0
-    all_model_params = 0
-    for _, param in model.named_parameters():
-        all_model_params += param.numel()
-        if param.requires_grad:
-            trainable_model_params += param.numel()
-    return f"trainable model parameters: {trainable_model_params}\nall model parameters: {all_model_params}\npercentage of trainable model parameters: {100 * trainable_model_params / all_model_params:.2f}%"

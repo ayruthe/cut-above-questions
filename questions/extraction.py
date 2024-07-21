@@ -32,6 +32,22 @@ def interview_named_entity_analysis(file: Path):
     fig.update_layout(title=dict(text=f"Question Sentiment vs Answer Sentiment (R^2={a:.3f})", font=dict(size=18), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
     fig.write_image("fig1.png")
 
+    # Sentiment Correlation
+    answer_length = [len(word_tokenize(data['answers'][i])) for i in range(n_entries)]
+    sentiment_delta = np.array(data['q_sentiment']) - np.array(data['a_sentiment'])
+
+    plot_data = {'Question Sentiment': data['q_sentiment'], 'Answer Length': answer_length}
+    fig = px.scatter(plot_data, x='Question Sentiment', y='Answer Length', trendline="ols", trendline_color_override = 'black')
+    a = px.get_trendline_results(fig).px_fit_results.iloc[0].rsquared
+    fig.update_layout(title=dict(text=f"(R^2={a:.3f})", font=dict(size=18), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
+    fig.write_image("fig2.png")
+
+    plot_data = {'Q&A Sentiment Delta': np.abs(sentiment_delta), 'Answer Length': answer_length}
+    fig = px.scatter(plot_data, x='Q&A Sentiment Delta', y='Answer Length', trendline="ols", trendline_color_override = 'black')
+    a = px.get_trendline_results(fig).px_fit_results.iloc[0].rsquared
+    fig.update_layout(title=dict(text=f"(R^2={a:.3f})", font=dict(size=18), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
+    fig.write_image("fig3.png")
+
 
     # Named-Entity Count Data
     q_ner_data = {'Question Named-Entity':[], 'Question Named-Entity Count':[], 'Question Named-Entity Category':[], 'Answer Length':[], 'Answer Sentiment':[]}
@@ -96,9 +112,9 @@ def interview_named_entity_analysis(file: Path):
         for (qa_str, data) in zip(["Question", "Answer"], [q_ner_data, a_ner_data]):
             box_df = pd.DataFrame(data)
             box_df_people = box_df.loc[box_df.index[box_df[f"{qa_str} Named-Entity Category"]==cat]]
-            fig = px.box(box_df_people, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=800, height=1600).update_yaxes(categoryorder='total ascending')
+            fig = px.box(box_df_people, y=f"{qa_str} Named-Entity", x=f"Answer Length", width=600, height=1200).update_yaxes(categoryorder='total ascending')
             fig.update_layout(title=dict(text=f"<b>Interview Answer Word Count by {cat} Named-Entity in {qa_str}:</b><br>{subtitle}", font=dict(size=16), automargin=True, yref='container', xref='paper', x=0.5, y=0.95))
-            fig.write_image(f"results/answer_length_by_{qa_str}_ner_{cat}.png")
+            fig.write_html(f"results/answer_length_by_{qa_str}_ner_{cat}.html")
 
 
     df = pd.DataFrame(ner_comp_data)
@@ -128,6 +144,18 @@ def interview_named_entity_analysis(file: Path):
             1, 1)
         fig.update_layout(xaxis={'title':'Interview Question Named-Entity Count'}, yaxis={'title':'Interview Answer Named-Entity Count'})
         fig.update_layout(title_text=f'Interivew Q&A Named-Entity Analysis: How Interview Questions Impact {metric} and Topic')
+        fig.update_layout(
+            autosize=False,
+            width=800,
+            height=800,
+            margin=dict(
+                l=50,
+                r=50,
+                b=100,
+                t=100,
+                pad=4
+            ),
+        )
         fig.write_html(f"results/heatmap_ner_{metric}.html")
 
 

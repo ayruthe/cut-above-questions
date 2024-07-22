@@ -128,7 +128,7 @@ class InterviewQuestionLLM():
         # Zero-shot Inference as Baseline Performance
         n_entries = len(self.dataset['train']['prev_answer'])
         rouge = evaluate.load('rouge')
-        for index in range(n_entries):
+        for index in [28, 33]:
 
             prev_answer = self.dataset['train'][int(index)]['prev_answer']
             prev_answer_sentiment = self.dataset['train'][int(index)]['prev_answer_sentiment']

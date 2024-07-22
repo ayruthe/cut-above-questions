@@ -18,6 +18,8 @@ This repository could be applied to legal data to generate interrogatories inste
 
 # Dataset and Preprocessing
 
+Transcripts from the Vox Conversations podcast that were used to create this dataset were pulled from the [Vox publicly available file share](https://drive.google.com/drive/folders/1CYMwQX04RghOK4qN3Tfaih9dJnPa8jnt). 
+
 The `TranscriptDataset` class is used to preprocess the transcript text files into json data and metadata files. The NLP functions in `language.py` filter the data and implement NER and sentiment analysis using SpaCy and NLTK. 
 
 # Feature Analysis

@@ -46,7 +46,7 @@ Answer Length by NER in Question for All NER Types          |  Answer Length by 
 
 # Generated Interview Question Examples
 
-A couple of LLM generated responses with their scores and associate Q&A pair are shown in the tables below. Note, these results are not meant to be representative or "useful", they are only meant to demonstrate the methodology and reflect the effects of finetuning the LLM on the Q&A dataset in reference to the baseline. These models were trained on a local GPU for a few epochs with only 130 Q&A training pairs. Sacling the data and training would make performance more realistic. 
+A couple of LLM generated responses with their scores and associated Q&A pair are shown in the tables below. Note, these results are not meant to be representative or "useful", they are only meant to demonstrate the methodology and reflect the effects of finetuning the LLM on the Q&A dataset in reference to the baseline. These models were trained on a local GPU for a few epochs with only 130 Q&A training pairs. Sacling the data and training would make performance more realistic. 
 
 The prompt templates used are below. The first template is for the vanilla and LoRA-finetuned models. The second template includes the added sentiment instruction.
 

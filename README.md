@@ -46,6 +46,28 @@ Answer Length by NER in Question for All NER Types          |  Answer Length by 
 
 A couple of LLM generated responses with their scores and associate Q&A pair are shown in the tables below. These results aren't groundbreaking, but they do reflect the effects of finetuning the LLM on the Q&A dataset by generating more interesting questions. The inclusion of the sentiment prompt instruction also has a noticable impact, making some answers more dramatic.
 
+The prompt templates used are below. The first template is for the vanilla and LoRA-finetuned models. The second template includes the added sentiment instruction.
+
+#### Prompt 1
+
+```
+prompt = f"""
+Ask an inquisitive interview question in response to the following dialogue.
+{prev_answer}
+Question:
+"""
+```
+
+#### Prompt 2
+
+```
+sentiment_prompt = f"""
+Ask an inquisitive interview question in response to the following dialogue. Respond with {pos_neg} sentiment.
+{prev_answer}
+Question:
+"""
+```
+
 ### Example 1
 
 |           | Previous Interview Answer (Truth)                                                                                                                                                                                                                                                                                                                        | Next Interview Question (Truth)                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Vanilla FLAN-T5 Question (Generated)    | LoRA-Finetned FLAN-T5 Question (Generated)                  | LoRA-Finetned FLAN-T5 with Sentiment-Prompted<br />Question (Generated)   |
